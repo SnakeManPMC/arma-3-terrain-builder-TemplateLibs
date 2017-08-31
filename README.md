@@ -2,4 +2,4 @@
 
 ArmA 3 Terrain Builder Template Libaries for default, CUP and PMC Opteryx objects
 
-[PMC Editing Wiki: ArmA 3 Terrains](http://pmc.editing.wiki/doku.php?id=arma3:terrain)
+[PMC Editing Wiki: ArmA 3 Terrains](http://pmc.editing.wiki/doku.php?id=arma3:terrain) and [Terrain Builder TemplateLibs page](http://pmc.editing.wiki/doku.php?id=arma3:terrain:terrain-builder-templatelibs)
