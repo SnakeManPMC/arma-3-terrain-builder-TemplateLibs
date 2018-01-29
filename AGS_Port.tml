@@ -1,0 +1,2082 @@
+<?xml version="1.0" ?>
+<Library name="AGS_Port" shape="rectangle" default_fill="-65536" default_outline="-1" tex="0">
+    <Template>
+        <Name>AGS_pier0_01</Name>
+        <File>pmc\ags_port\prefabs\ags_pier0_01.p3d</File>
+        <Date>10/19/17 08:20:30</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1267928696</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier0_02</Name>
+        <File>pmc\ags_port\prefabs\ags_pier0_02.p3d</File>
+        <Date>10/19/17 08:20:30</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1267928695</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>25.000114</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="50.000229" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="25.000114" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1b_01</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1b_01.p3d</File>
+        <Date>10/19/17 08:20:30</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1056709207</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1b_02</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1b_02.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1056709208</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.003407</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="-0.006815" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="25.996593" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1c_01</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1c_01.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1837296406</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000013</BBRadius>
+        <BBHScale>1.000002</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000149" Y="0.000000" Z="-25.000027" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="-0.000074" Y="26.000000" Z="-0.000013" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1c_02</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1c_02.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1837296407</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000013</BBRadius>
+        <BBHScale>1.000002</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000246</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000479" Y="0.000000" Z="-25.000027" />
+        <BoundingMax X="25.000406" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="-0.000036" Y="26.000000" Z="-0.000013" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1p_01</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1p_01.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-899971895</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.004999</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>24.000000</Height>
+        <BoundingMin X="-25.000002" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.010000" Y="48.000000" Z="25.000000" />
+        <BoundingCenter X="0.004999" Y="24.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1s_01</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1s_01.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1441789702</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>24.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="48.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="24.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1s_02</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1s_02.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1441789703</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1s_03</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1s_03.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1441789704</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1s_04</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1s_04.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1441789705</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1_01</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1_01.p3d</File>
+        <Date>10/19/17 08:20:30</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-487341497</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>24.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="48.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="24.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1_02</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1_02.p3d</File>
+        <Date>10/19/17 08:20:30</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-487341496</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1_03</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1_03.p3d</File>
+        <Date>10/19/17 08:20:30</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-487341495</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1_04</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1_04.p3d</File>
+        <Date>10/19/17 08:20:30</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-487341494</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1_05</Name>
+        <File>pmc\ags_port\prefabs\ags_pier1_05.p3d</File>
+        <Date>10/19/17 08:20:30</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-487341493</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier2s_01</Name>
+        <File>pmc\ags_port\prefabs\ags_pier2s_01.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1713613305</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000088</BBRadius>
+        <BBHScale>0.999996</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000174" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="-0.000087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier2s_02</Name>
+        <File>pmc\ags_port\prefabs\ags_pier2s_02.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1713613304</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000088</BBRadius>
+        <BBHScale>0.999996</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000174" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="-0.000087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier2u_01</Name>
+        <File>pmc\ags_port\prefabs\ags_pier2u_01.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-152438907</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000088</BBRadius>
+        <BBHScale>0.999999</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000149" Y="0.000000" Z="-25.000174" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="-0.000074" Y="26.000000" Z="-0.000087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier2_01</Name>
+        <File>pmc\ags_port\prefabs\ags_pier2_01.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>293245702</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000088</BBRadius>
+        <BBHScale>0.999996</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000174" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="-0.000087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier2_02</Name>
+        <File>pmc\ags_port\prefabs\ags_pier2_02.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>293245703</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000088</BBRadius>
+        <BBHScale>0.999996</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000174" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="-0.000087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier2_03</Name>
+        <File>pmc\ags_port\prefabs\ags_pier2_03.p3d</File>
+        <Date>10/19/17 08:20:31</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>293245704</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000088</BBRadius>
+        <BBHScale>0.999996</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>26.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000174" />
+        <BoundingMax X="25.000000" Y="52.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="26.000000" Z="-0.000087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_bldgs1</Name>
+        <File>pmc\AGS_port\wrp\AGS_bldgs1.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1885362589</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_bldgs2</Name>
+        <File>pmc\AGS_port\wrp\AGS_bldgs2.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1885362590</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_crane1</Name>
+        <File>pmc\AGS_port\wrp\AGS_crane1.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1780028486</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_crates1</Name>
+        <File>pmc\AGS_port\wrp\AGS_crates1.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-419891281</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_crates2</Name>
+        <File>pmc\AGS_port\wrp\AGS_crates2.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-419891280</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_GSMtransmiter</Name>
+        <File>pmc\AGS_port\wrp\AGS_GSMtransmiter.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1190419980</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier0</Name>
+        <File>pmc\ags_port\wrp\ags_pier0.p3d</File>
+        <Date>10/19/17 08:26:22</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2092457304</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>20.000000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="40.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="20.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1</Name>
+        <File>pmc\ags_port\wrp\ags_pier1.p3d</File>
+        <Date>10/19/17 08:26:22</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2092457305</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>20.500000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="25.000000" Y="41.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="20.500000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1b</Name>
+        <File>pmc\AGS_port\wrp\AGS_pier1b.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>246937929</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1c</Name>
+        <File>pmc\ags_port\wrp\ags_pier1c.p3d</File>
+        <Date>10/19/17 08:26:22</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>246937930</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000013</BBRadius>
+        <BBHScale>1.000002</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>20.500000</Height>
+        <BoundingMin X="-25.000149" Y="0.000000" Z="-25.000027" />
+        <BoundingMax X="25.000000" Y="41.000000" Z="25.000000" />
+        <BoundingCenter X="-0.000074" Y="20.500000" Z="-0.000013" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1h</Name>
+        <File>pmc\AGS_port\wrp\AGS_pier1h.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>246937935</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1p</Name>
+        <File>pmc\AGS_port\wrp\AGS_pier1p.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>246937943</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier1s</Name>
+        <File>pmc\AGS_port\wrp\AGS_pier1s.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>246937946</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier2</Name>
+        <File>pmc\ags_port\wrp\ags_pier2.p3d</File>
+        <Date>10/19/17 08:26:22</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2092457306</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000088</BBRadius>
+        <BBHScale>0.999996</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>20.500000</Height>
+        <BoundingMin X="-25.000000" Y="0.000000" Z="-25.000174" />
+        <BoundingMax X="25.000000" Y="41.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="20.500000" Z="-0.000087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier2s</Name>
+        <File>pmc\AGS_port\wrp\AGS_pier2s.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>247003545</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_pier2u</Name>
+        <File>pmc\ags_port\wrp\ags_pier2u.p3d</File>
+        <Date>10/19/17 08:26:23</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>247003547</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000088</BBRadius>
+        <BBHScale>0.999999</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>20.500000</Height>
+        <BoundingMin X="-25.000149" Y="0.000000" Z="-25.000174" />
+        <BoundingMax X="25.000000" Y="41.000000" Z="25.000000" />
+        <BoundingCenter X="-0.000074" Y="20.500000" Z="-0.000087" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_signal_green</Name>
+        <File>pmc\ags_port\wrp\ags_signal_green.p3d</File>
+        <Date>10/19/17 08:26:23</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>130343262</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.500000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>22.499760</Height>
+        <BoundingMin X="-0.500000" Y="0.000000" Z="-0.500000" />
+        <BoundingMax X="0.500000" Y="44.999519" Z="0.500000" />
+        <BoundingCenter X="0.000000" Y="22.499760" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_signal_red</Name>
+        <File>pmc\ags_port\wrp\ags_signal_red.p3d</File>
+        <Date>10/19/17 08:26:23</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1944098324</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.500000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>22.499760</Height>
+        <BoundingMin X="-0.500000" Y="0.000000" Z="-0.500000" />
+        <BoundingMax X="0.500000" Y="44.999519" Z="0.500000" />
+        <BoundingCenter X="0.000000" Y="22.499760" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>AGS_streetlamp</Name>
+        <File>pmc\AGS_port\wrp\AGS_streetlamp.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-451877427</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blok100</Name>
+        <File>pmc\ags_port\blok100.p3d</File>
+        <Date>10/19/17 08:17:19</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1431292139</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.068319</BBRadius>
+        <BBHScale>0.997275</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.250000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.415442</Height>
+        <BoundingMin X="-25.500000" Y="-5.000000" Z="-25.500000" />
+        <BoundingMax X="25.500000" Y="5.830883" Z="25.136639" />
+        <BoundingCenter X="0.000000" Y="0.415442" Z="-0.181681" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blok100_ds</Name>
+        <File>pmc\ags_port\blok100_ds.p3d</File>
+        <Date>10/19/17 08:17:19</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>234074435</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.115013</BBRadius>
+        <BBHScale>0.995421</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.203306</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.415442</Height>
+        <BoundingMin X="-25.500000" Y="-5.000000" Z="-25.500000" />
+        <BoundingMax X="25.500000" Y="5.830883" Z="25.136639" />
+        <BoundingCenter X="0.000000" Y="0.415442" Z="-0.181681" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blok100_e</Name>
+        <File>pmc\ags_port\blok100_e.p3d</File>
+        <Date>10/19/17 08:17:19</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1912399055</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.070282</BBRadius>
+        <BBHScale>0.999191</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.050002</XShift>
+        <YShift>0.248036</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.415442</Height>
+        <BoundingMin X="-25.500000" Y="-5.000000" Z="-25.500000" />
+        <BoundingMax X="25.500000" Y="5.830883" Z="25.136639" />
+        <BoundingCenter X="0.000000" Y="0.415442" Z="-0.181681" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blok100_eds</Name>
+        <File>pmc\ags_port\blok100_eds.p3d</File>
+        <Date>10/19/17 08:17:19</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>548056000</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.070282</BBRadius>
+        <BBHScale>1.001366</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.004521</XShift>
+        <YShift>0.248036</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.415442</Height>
+        <BoundingMin X="-25.500000" Y="-5.000000" Z="-25.500000" />
+        <BoundingMax X="25.500000" Y="5.830883" Z="25.136639" />
+        <BoundingCenter X="0.000000" Y="0.415442" Z="-0.181681" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blok100_k</Name>
+        <File>pmc\ags_port\blok100_k.p3d</File>
+        <Date>10/19/17 08:17:19</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1912399049</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.250000</YShift>
+        <ZShift>-0.005000</ZShift>
+        <Height>5.000000</Height>
+        <BoundingMin X="-25.500000" Y="-5.000000" Z="-25.500000" />
+        <BoundingMax X="25.500000" Y="5.010000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="0.005000" Z="-0.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blok2</Name>
+        <File>pmc\AGS_port\blok2.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-663731604</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>blok3</Name>
+        <File>pmc\AGS_port\blok3.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-663731603</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crane1</Name>
+        <File>pmc\ags_port\crane1.p3d</File>
+        <Date>10/19/17 08:17:19</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1441741656</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>19.693428</BBRadius>
+        <BBHScale>1.237284</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000322</YShift>
+        <ZShift>-0.000158</ZShift>
+        <Height>14.304553</Height>
+        <BoundingMin X="-24.034496" Y="-0.099287" Z="-6.350225" />
+        <BoundingMax X="24.698225" Y="28.510136" Z="33.037277" />
+        <BoundingCenter X="0.331864" Y="14.205424" Z="13.343526" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crane1base</Name>
+        <File>pmc\AGS_port\crane1base.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>633209433</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crane1tower</Name>
+        <File>pmc\AGS_port\crane1tower.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1609438495</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crate</Name>
+        <File>pmc\ags_port\crate.p3d</File>
+        <Date>10/19/17 08:17:20</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>749317955</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.000000</BBRadius>
+        <BBHScale>0.500000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.000000</Height>
+        <BoundingMin X="-2.000000" Y="0.003522" Z="-4.000000" />
+        <BoundingMax X="2.000000" Y="4.003522" Z="4.000000" />
+        <BoundingCenter X="0.000000" Y="2.003522" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crates1</Name>
+        <File>pmc\ags_port\crates1.p3d</File>
+        <Date>10/19/17 08:17:20</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1238148543</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.000000</BBRadius>
+        <BBHScale>2.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.000000</Height>
+        <BoundingMin X="-8.000000" Y="0.000000" Z="-4.000000" />
+        <BoundingMax X="8.000000" Y="8.000000" Z="4.000000" />
+        <BoundingCenter X="0.000000" Y="4.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crates2</Name>
+        <File>pmc\ags_port\crates2.p3d</File>
+        <Date>10/19/17 08:17:20</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1238148542</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.000000</BBRadius>
+        <BBHScale>1.333333</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.000000</Height>
+        <BoundingMin X="-8.000000" Y="0.000000" Z="-8.000000" />
+        <BoundingMax X="8.000000" Y="8.000000" Z="4.000000" />
+        <BoundingCenter X="0.000000" Y="4.000000" Z="-2.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crates3</Name>
+        <File>pmc\ags_port\crates3.p3d</File>
+        <Date>10/19/17 08:17:20</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1238148541</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.000000</BBRadius>
+        <BBHScale>0.708333</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.050000</ZShift>
+        <Height>2.000000</Height>
+        <BoundingMin X="-9.000000" Y="-0.100000" Z="-12.000000" />
+        <BoundingMax X="8.000000" Y="4.000000" Z="12.000000" />
+        <BoundingCenter X="-0.500000" Y="1.950000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crates4</Name>
+        <File>pmc\ags_port\crates4.p3d</File>
+        <Date>10/19/17 08:17:20</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1238148540</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.000000</BBRadius>
+        <BBHScale>1.444444</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.000000</Height>
+        <BoundingMin X="-16.000000" Y="0.000000" Z="-10.000001" />
+        <BoundingMax X="10.000000" Y="8.000000" Z="8.000000" />
+        <BoundingCenter X="-3.000000" Y="4.000000" Z="-1.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crate_open</Name>
+        <File>pmc\ags_port\crate_open.p3d</File>
+        <Date>10/19/17 08:17:20</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1016714650</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.747502</BBRadius>
+        <BBHScale>0.421274</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.025000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.000000</Height>
+        <BoundingMin X="-1.553090" Y="0.000000" Z="-4.829995" />
+        <BoundingMax X="2.546912" Y="4.000000" Z="4.715009" />
+        <BoundingCenter X="0.496911" Y="2.000000" Z="-0.057493" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>crate_open2</Name>
+        <File>pmc\ags_port\crate_open2.p3d</File>
+        <Date>10/19/17 08:17:20</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1082814284</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.747502</BBRadius>
+        <BBHScale>0.421274</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.025000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.000000</Height>
+        <BoundingMin X="-1.553090" Y="0.000000" Z="-4.829995" />
+        <BoundingMax X="2.546912" Y="4.000000" Z="4.715009" />
+        <BoundingCenter X="0.496911" Y="2.000000" Z="-0.057493" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>dock_pole</Name>
+        <File>pmc\AGS_port\dock_pole.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>145265732</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>pier_a1</Name>
+        <File>pmc\AGS_port\pier_a1.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2121237673</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>signal_green</Name>
+        <File>pmc\AGS_port\signal_green.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1550551732</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>signal_red</Name>
+        <File>pmc\AGS_port\signal_red.p3d</File>
+        <Date>01/29/18 10:37:26</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1831965914</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>skc_crate</Name>
+        <File>pmc\ags_port\skc_crate.p3d</File>
+        <Date>10/19/17 08:17:20</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>917612239</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.001291</BBRadius>
+        <BBHScale>0.499839</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.014332</XShift>
+        <YShift>-0.436924</YShift>
+        <ZShift>0.006366</ZShift>
+        <Height>2.000000</Height>
+        <BoundingMin X="-2.149215" Y="-0.100000" Z="-4.116753" />
+        <BoundingMax X="2.177880" Y="4.111907" Z="4.993182" />
+        <BoundingCenter X="0.014332" Y="2.005954" Z="0.438215" />
+        <Placement></Placement>
+    </Template>
+</Library>
