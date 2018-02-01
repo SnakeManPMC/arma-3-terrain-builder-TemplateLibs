@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
-<Library name="A3_Rocks_Blunt" shape="elipse" default_fill="-8355712" default_outline="-16777216" tex="0">
+<Library name="A3_Rocks_Blunt" shape="elipse" default_fill="-4144960" default_outline="-1" tex="0">
     <Template>
         <Name>BluntRock_apart</Name>
         <File>a3\rocks_f\Blunt\BluntRock_apart.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>650851051</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -36,10 +36,10 @@
     <Template>
         <Name>BluntRock_monolith</Name>
         <File>a3\rocks_f\Blunt\BluntRock_monolith.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-820831779</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -69,10 +69,10 @@
     <Template>
         <Name>BluntRock_spike</Name>
         <File>a3\rocks_f\Blunt\BluntRock_spike.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-246195395</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -102,10 +102,10 @@
     <Template>
         <Name>BluntRock_wallH</Name>
         <File>a3\rocks_f\Blunt\BluntRock_wallH.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1218038453</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -135,10 +135,10 @@
     <Template>
         <Name>BluntRock_wallV</Name>
         <File>a3\rocks_f\Blunt\BluntRock_wallV.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1218038467</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -168,10 +168,10 @@
     <Template>
         <Name>BluntStones_erosion</Name>
         <File>a3\rocks_f\Blunt\BluntStones_erosion.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1912693257</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -201,10 +201,10 @@
     <Template>
         <Name>BluntStone_01</Name>
         <File>a3\rocks_f\Blunt\BluntStone_01.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1118353068</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -234,10 +234,10 @@
     <Template>
         <Name>BluntStone_01_LC</Name>
         <File>a3\rocks_f\Blunt\BluntStone_01_LC.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-2056790486</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -267,10 +267,10 @@
     <Template>
         <Name>BluntStone_02</Name>
         <File>a3\rocks_f\Blunt\BluntStone_02.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1118353069</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -300,10 +300,10 @@
     <Template>
         <Name>BluntStone_02_LC</Name>
         <File>a3\rocks_f\Blunt\BluntStone_02_LC.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1276203287</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -333,10 +333,10 @@
     <Template>
         <Name>BluntStone_03</Name>
         <File>a3\rocks_f\Blunt\BluntStone_03.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>1118353070</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -366,10 +366,10 @@
     <Template>
         <Name>BluntStone_03_LC</Name>
         <File>a3\rocks_f\Blunt\BluntStone_03_LC.p3d</File>
-        <Date>03/02/17 10:57:36</Date>
+        <Date>02/01/18 16:30:51</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
+        <Fill>-4144960</Fill>
+        <Outline>-1</Outline>
         <Scale>1.000000</Scale>
         <Hash>-495616088</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
