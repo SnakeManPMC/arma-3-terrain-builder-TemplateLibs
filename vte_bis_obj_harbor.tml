@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<Library name="VTE_bis_obj_harbor" shape="rectangle" default_fill="-65408" default_outline="-1" tex="0">
+    <Template>
+        <Name>VTE_bis_Molo_beton</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Molo_beton.p3d</File>
+        <Date>11/18/12 05:56:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1614745153</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.873265</BBRadius>
+        <BBHScale>1.123223</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.004787</XShift>
+        <YShift>0.466184</YShift>
+        <ZShift>0.011845</ZShift>
+        <Height>11.306520</Height>
+        <BoundingMin X="-10.998825" Y="-19.917000" Z="-9.879228" />
+        <BoundingMax X="10.944060" Y="2.719730" Z="8.799670" />
+        <BoundingCenter X="-0.027382" Y="-8.598635" Z="-0.539779" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_Molo_drevo</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Molo_drevo.p3d</File>
+        <Date>11/18/12 05:56:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1033142049</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.298478</BBRadius>
+        <BBHScale>14.241925</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.074292</XShift>
+        <YShift>0.007855</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.149917</Height>
+        <BoundingMin X="-16.231361" Y="-4.271536" Z="-1.289238" />
+        <BoundingMax X="22.291826" Y="4.028298" Z="1.323429" />
+        <BoundingCenter X="3.030232" Y="-0.121619" Z="0.017095" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_Molo_drevo_bs</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Molo_drevo_bs.p3d</File>
+        <Date>11/18/12 05:56:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1099268879</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.152781</BBRadius>
+        <BBHScale>15.885611</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.050619</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.084002</ZShift>
+        <Height>2.531408</Height>
+        <BoundingMin X="-19.210793" Y="-2.525263" Z="-1.149079" />
+        <BoundingMax X="19.312395" Y="2.705556" Z="1.156484" />
+        <BoundingCenter X="0.050801" Y="0.090146" Z="0.003703" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_Molo_krychle</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Molo_krychle.p3d</File>
+        <Date>11/18/12 05:56:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2171009</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.953030</BBRadius>
+        <BBHScale>2.521271</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.036289</XShift>
+        <YShift>-0.020620</YShift>
+        <ZShift>-0.048227</ZShift>
+        <Height>10.993519</Height>
+        <BoundingMin X="-10.480111" Y="-19.893755" Z="-4.367319" />
+        <BoundingMax X="10.407552" Y="2.190627" Z="4.408578" />
+        <BoundingCenter X="-0.036280" Y="-8.851564" Z="0.020630" />
+        <Placement></Placement>
+    </Template>
+</Library>

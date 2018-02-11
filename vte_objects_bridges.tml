@@ -1,0 +1,597 @@
+<?xml version="1.0" ?>
+<Library name="VTE_objects_bridges" shape="rectangle" default_fill="-65281" default_outline="-8355712" tex="0">
+    <Template>
+        <Name>VTE_bridge1</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge1.p3d</File>
+        <Date>08/15/10 18:57:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>691692944</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>0.160000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>30.594999</Height>
+        <BoundingMin X="-4.000000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="4.000000" Y="61.189999" Z="25.000000" />
+        <BoundingCenter X="-0.000000" Y="30.594999" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bridge1b</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge1b.p3d</File>
+        <Date>08/15/10 18:57:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1964048686</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.110523</BBRadius>
+        <BBHScale>0.159296</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.001043</ZShift>
+        <Height>30.594999</Height>
+        <BoundingMin X="-4.000000" Y="-0.000042" Z="-25.110523" />
+        <BoundingMax X="4.000000" Y="61.192043" Z="25.110523" />
+        <BoundingCenter X="0.000000" Y="30.596001" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bridge2</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge2.p3d</File>
+        <Date>11/18/12 04:44:34</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>691692945</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>0.138668</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.434649</Height>
+        <BoundingMin X="-3.466708" Y="-1.434649" Z="-25.000000" />
+        <BoundingMax X="3.466708" Y="7.434649" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="3.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bridge3</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge3.p3d</File>
+        <Date>08/15/10 18:57:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>691692946</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>0.056150</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.012384</ZShift>
+        <Height>7.722152</Height>
+        <BoundingMin X="-1.415993" Y="-0.246920" Z="-25.000000" />
+        <BoundingMax X="1.415992" Y="15.222152" Z="25.000000" />
+        <BoundingCenter X="-0.000000" Y="7.487616" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bridge3b</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge3b.p3d</File>
+        <Date>08/15/10 18:57:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1963917488</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.103409</BBRadius>
+        <BBHScale>0.055918</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000001</YShift>
+        <ZShift>0.007724</ZShift>
+        <Height>7.722152</Height>
+        <BoundingMin X="-1.408091" Y="-0.237600" Z="-25.100410" />
+        <BoundingMax X="1.408091" Y="15.222152" Z="25.106407" />
+        <BoundingCenter X="0.000000" Y="7.492276" Z="0.002998" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bridge4</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge4.p3d</File>
+        <Date>08/15/10 18:57:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>691692947</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000031</BBRadius>
+        <BBHScale>0.086213</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.001885</ZShift>
+        <Height>6.541038</Height>
+        <BoundingMin X="-2.155340" Y="-6.748900" Z="-25.000031" />
+        <BoundingMax X="2.155340" Y="6.336946" Z="25.000031" />
+        <BoundingCenter X="0.000000" Y="-0.205977" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bridge5</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge5.p3d</File>
+        <Date>08/15/10 18:57:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>691692948</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>0.282565</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>8.816048</Height>
+        <BoundingMin X="-7.064121" Y="-0.316048" Z="-25.000000" />
+        <BoundingMax X="7.064121" Y="17.316048" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="8.500000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bridge6</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge6.p3d</File>
+        <Date>11/17/12 09:55:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>691692949</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.003677</BBRadius>
+        <BBHScale>0.269786</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.008538</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>19.846788</Height>
+        <BoundingMin X="-6.590802" Y="-0.511330" Z="-25.095142" />
+        <BoundingMax X="6.900483" Y="39.182247" Z="25.095142" />
+        <BoundingCenter X="0.154840" Y="19.335459" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ironbridge</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_ironbridge.p3d</File>
+        <Date>08/15/10 19:02:38</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1422700439</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.000000</BBRadius>
+        <BBHScale>0.257384</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000001</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>17.727814</Height>
+        <BoundingMin X="-6.435000" Y="0.000000" Z="-25.000000" />
+        <BoundingMax X="6.435000" Y="35.455627" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="17.727814" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_RoadBridgeCenter</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_RoadBridgeCenter.p3d</File>
+        <Date>11/17/12 05:38:27</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>843387030</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.788000</BBRadius>
+        <BBHScale>5.012531</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.011185</XShift>
+        <YShift>0.010740</YShift>
+        <ZShift>-0.004353</ZShift>
+        <Height>11.072564</Height>
+        <BoundingMin X="-24.000978" Y="0.000000" Z="-5.603865" />
+        <BoundingMax X="24.023348" Y="22.153833" Z="5.582384" />
+        <BoundingCenter X="0.011185" Y="11.076917" Z="-0.010740" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_roadbridgedestrcenter</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_roadbridgedestrcenter.p3d</File>
+        <Date>11/17/12 05:42:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1685435876</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.625034</BBRadius>
+        <BBHScale>4.531840</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.213039</XShift>
+        <YShift>0.552076</YShift>
+        <ZShift>-0.159720</ZShift>
+        <Height>9.238363</Height>
+        <BoundingMin X="-26.220795" Y="-3.000000" Z="-6.848867" />
+        <BoundingMax X="25.355179" Y="15.796167" Z="7.072294" />
+        <BoundingCenter X="-0.432808" Y="6.398084" Z="0.111713" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_roadbridgedestrleft</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_roadbridgedestrleft.p3d</File>
+        <Date>11/17/12 11:07:07</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-997290794</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.185202</BBRadius>
+        <BBHScale>3.824236</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.472450</XShift>
+        <YShift>0.801151</YShift>
+        <ZShift>0.009631</ZShift>
+        <Height>11.055411</Height>
+        <BoundingMin X="-17.263542" Y="-6.999996" Z="-6.758415" />
+        <BoundingMax X="38.704430" Y="15.160530" Z="9.456387" />
+        <BoundingCenter X="10.720444" Y="4.080267" Z="1.348986" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_roadbridgedestrright</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_roadbridgedestrright.p3d</File>
+        <Date>11/17/12 11:07:07</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1040331437</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.622728</BBRadius>
+        <BBHScale>4.915834</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.034708</XShift>
+        <YShift>-0.189234</YShift>
+        <ZShift>-0.007611</ZShift>
+        <Height>11.059182</Height>
+        <BoundingMin X="-39.370483" Y="-6.973055" Z="-6.177654" />
+        <BoundingMax X="15.991433" Y="15.160531" Z="7.948830" />
+        <BoundingCenter X="-11.689526" Y="4.093738" Z="0.885588" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_sbridge</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_sbridge.p3d</File>
+        <Date>08/15/10 19:02:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1237804324</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.058262</BBRadius>
+        <BBHScale>0.066217</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.037399</XShift>
+        <YShift>0.134481</YShift>
+        <ZShift>-0.001095</ZShift>
+        <Height>4.571184</Height>
+        <BoundingMin X="-1.235000" Y="-0.037368" Z="-15.516237" />
+        <BoundingMax X="1.165000" Y="9.136834" Z="14.978406" />
+        <BoundingCenter X="-0.035000" Y="4.549733" Z="-0.268916" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_sbridge_e1</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_sbridge_e1.p3d</File>
+        <Date>08/15/10 19:02:54</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1510567993</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.004143</BBRadius>
+        <BBHScale>0.124014</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.030618</XShift>
+        <YShift>-0.065590</YShift>
+        <ZShift>0.024909</ZShift>
+        <Height>4.763343</Height>
+        <BoundingMin X="-1.250000" Y="-6.625278" Z="-7.256395" />
+        <BoundingMax X="1.325000" Y="3.111431" Z="8.908362" />
+        <BoundingCenter X="0.037500" Y="-1.756923" Z="0.825984" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_sbridge_e2</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_sbridge_e2.p3d</File>
+        <Date>08/15/10 19:02:54</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1510567992</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.050312</BBRadius>
+        <BBHScale>0.132035</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.008594</XShift>
+        <YShift>0.109940</YShift>
+        <ZShift>-0.004675</ZShift>
+        <Height>1.547659</Height>
+        <BoundingMin X="-1.281973" Y="-0.046543" Z="-7.851287" />
+        <BoundingMax X="1.306944" Y="3.058125" Z="8.469216" />
+        <BoundingCenter X="0.012486" Y="1.505791" Z="0.308965" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_sbridge_middle</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_sbridge_middle.p3d</File>
+        <Date>08/15/10 19:02:54</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1322193168</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.835872</BBRadius>
+        <BBHScale>0.135038</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.063959</XShift>
+        <YShift>-0.000021</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>4.852998</Height>
+        <BoundingMin X="-1.416197" Y="-0.026745" Z="-7.229255" />
+        <BoundingMax X="1.305621" Y="9.679251" Z="8.442531" />
+        <BoundingCenter X="-0.055288" Y="4.826253" Z="0.606638" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_sbridge_rotten</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_sbridge_rotten.p3d</File>
+        <Date>08/15/10 19:02:54</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1478487679</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.234838</BBRadius>
+        <BBHScale>0.094885</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.110344</XShift>
+        <YShift>-0.013106</YShift>
+        <ZShift>0.728227</ZShift>
+        <Height>3.714087</Height>
+        <BoundingMin X="-1.545774" Y="-1.499005" Z="-12.656695" />
+        <BoundingMax X="1.020000" Y="7.386727" Z="12.507534" />
+        <BoundingCenter X="-0.262887" Y="2.943861" Z="-0.074581" />
+        <Placement></Placement>
+    </Template>
+</Library>

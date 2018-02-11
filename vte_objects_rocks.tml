@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<Library name="VTE_objects_rocks" shape="elipse" default_fill="-8355712" default_outline="-1" tex="0">
+    <Template>
+        <Name>VTE_grassrock1</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_grassrock1.p3d</File>
+        <Date>08/15/10 18:58:21</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>470157038</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.099690</BBRadius>
+        <BBHScale>0.980140</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.243207</Height>
+        <BoundingMin X="-1.937883" Y="-0.937431" Z="-1.946131" />
+        <BoundingMax X="2.178099" Y="1.548983" Z="2.253249" />
+        <BoundingCenter X="0.120108" Y="0.305776" Z="0.153559" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_grassrock2</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_grassrock2.p3d</File>
+        <Date>08/15/10 18:58:21</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>470157039</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.721228</BBRadius>
+        <BBHScale>0.911059</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>2.768660</Height>
+        <BoundingMin X="-4.908368" Y="-2.564189" Z="-5.903944" />
+        <BoundingMax X="5.516386" Y="2.973130" Z="5.538511" />
+        <BoundingCenter X="0.304009" Y="0.204471" Z="-0.182717" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_grassrock3</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_grassrock3.p3d</File>
+        <Date>08/15/10 18:58:21</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>470157040</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.693584</BBRadius>
+        <BBHScale>1.140671</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>1.582917</Height>
+        <BoundingMin X="-1.990581" Y="-0.940204" Z="-1.633632" />
+        <BoundingMax X="1.873065" Y="2.225630" Z="1.753536" />
+        <BoundingCenter X="-0.058758" Y="0.642713" Z="0.059952" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_sandrock1</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_sandrock1.p3d</File>
+        <Date>08/15/10 19:02:52</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1679193264</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.099690</BBRadius>
+        <BBHScale>0.980140</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.937883" Y="-0.937431" Z="-1.946131" />
+        <BoundingMax X="2.178099" Y="1.548983" Z="2.253249" />
+        <BoundingCenter X="0.120108" Y="0.305776" Z="0.153559" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_sandrock2</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_sandrock2.p3d</File>
+        <Date>08/15/10 19:02:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1679193265</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.721228</BBRadius>
+        <BBHScale>0.911059</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.908368" Y="-2.564189" Z="-5.903944" />
+        <BoundingMax X="5.516386" Y="2.973130" Z="5.538511" />
+        <BoundingCenter X="0.304009" Y="0.204471" Z="-0.182717" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_sandrock3</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_sandrock3.p3d</File>
+        <Date>08/15/10 19:02:53</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1679193266</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.693584</BBRadius>
+        <BBHScale>1.140671</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.990581" Y="-0.940204" Z="-1.633632" />
+        <BoundingMax X="1.873065" Y="2.225630" Z="1.753536" />
+        <BoundingCenter X="-0.058758" Y="0.642713" Z="0.059952" />
+        <Placement></Placement>
+    </Template>
+</Library>

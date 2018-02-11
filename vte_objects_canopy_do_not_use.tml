@@ -1,0 +1,927 @@
+<?xml version="1.0" ?>
+<Library name="VTE_objects_canopy_do_not_use" shape="rectangle" default_fill="-8355776" default_outline="-1" tex="0">
+    <Template>
+        <Name>VTE_canopy1</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_canopy1.p3d</File>
+        <Date>12/18/16 23:24:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-564247919</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>32.974091</BBRadius>
+        <BBHScale>1.185217</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-1.850430</XShift>
+        <YShift>0.757412</YShift>
+        <ZShift>0.021664</ZShift>
+        <Height>13.253884</Height>
+        <BoundingMin X="-41.962032" Y="-1.137758" Z="-37.000797" />
+        <BoundingMax X="42.224079" Y="25.711227" Z="33.493248" />
+        <BoundingCenter X="0.131023" Y="12.286735" Z="-1.753775" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_canopy2</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_canopy2.p3d</File>
+        <Date>08/15/10 18:57:59</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-564247918</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>26.111406</BBRadius>
+        <BBHScale>1.053548</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.060578</XShift>
+        <YShift>-0.039314</YShift>
+        <ZShift>-0.070906</ZShift>
+        <Height>6.463235</Height>
+        <BoundingMin X="-22.983875" Y="-1.484225" Z="-18.845737" />
+        <BoundingMax X="32.631977" Y="11.584057" Z="33.455704" />
+        <BoundingCenter X="4.824051" Y="5.049916" Z="7.304983" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_canopy3</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_canopy3.p3d</File>
+        <Date>08/15/10 18:57:59</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-564247917</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>25.242224</BBRadius>
+        <BBHScale>1.004320</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>2.875608</XShift>
+        <YShift>2.265627</YShift>
+        <ZShift>0.135051</ZShift>
+        <Height>0.889898</Height>
+        <BoundingMin X="-28.087748" Y="-0.300000" Z="-27.490501" />
+        <BoundingMax X="28.366024" Y="1.749898" Z="28.627628" />
+        <BoundingCenter X="0.139138" Y="0.724949" Z="0.568563" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_canopy4</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_canopy4.p3d</File>
+        <Date>11/17/12 05:52:44</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-564247916</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.266186</BBRadius>
+        <BBHScale>1.121276</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.672071</XShift>
+        <YShift>-1.059928</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>13.500000</Height>
+        <BoundingMin X="-28.087748" Y="-2.000000" Z="-27.727741" />
+        <BoundingMax X="27.789936" Y="25.000000" Z="28.583364" />
+        <BoundingCenter X="-0.148906" Y="11.500000" Z="0.427812" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_igrassfield</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_igrassfield.p3d</File>
+        <Date>08/15/10 19:02:31</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1873065493</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.043282</BBRadius>
+        <BBHScale>1.040879</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.094812</XShift>
+        <YShift>-0.130562</YShift>
+        <ZShift>0.023079</ZShift>
+        <Height>2.300658</Height>
+        <BoundingMin X="-29.842873" Y="-0.346158" Z="-30.275269" />
+        <BoundingMax X="29.678509" Y="4.301317" Z="29.656757" />
+        <BoundingCenter X="-0.082182" Y="1.977579" Z="-0.309256" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_igrassfield2</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_igrassfield2.p3d</File>
+        <Date>08/15/10 19:02:32</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>798871389</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>31.682476</BBRadius>
+        <BBHScale>1.002116</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.141700</YShift>
+        <ZShift>0.224863</ZShift>
+        <Height>0.390000</Height>
+        <BoundingMin X="-32.029438" Y="-0.500000" Z="-32.150696" />
+        <BoundingMax X="31.469599" Y="0.769928" Z="31.497658" />
+        <BoundingCenter X="-0.279920" Y="0.134964" Z="-0.326519" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_igrassfield3</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_igrassfield3.p3d</File>
+        <Date>08/15/10 19:02:33</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>798871390</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>30.177044</BBRadius>
+        <BBHScale>1.022025</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.365885</YShift>
+        <ZShift>0.224860</ZShift>
+        <Height>0.390000</Height>
+        <BoundingMin X="-30.346685" Y="-0.500000" Z="-31.064430" />
+        <BoundingMax X="31.336718" Y="0.769934" Z="30.935572" />
+        <BoundingCenter X="0.495016" Y="0.134967" Z="-0.064429" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_igrassfield4</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_igrassfield4.p3d</File>
+        <Date>11/17/12 11:07:07</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>798871391</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>30.300604</BBRadius>
+        <BBHScale>1.008511</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.130181</XShift>
+        <YShift>-0.288218</YShift>
+        <ZShift>0.234913</ZShift>
+        <Height>0.390000</Height>
+        <BoundingMin X="-30.384380" Y="-0.500000" Z="-30.502298" />
+        <BoundingMax X="31.328098" Y="0.749827" Z="30.935572" />
+        <BoundingCenter X="0.471859" Y="0.124913" Z="0.216637" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_igrassfield5</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_igrassfield5.p3d</File>
+        <Date>11/17/12 11:07:07</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>798871392</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>30.399754</BBRadius>
+        <BBHScale>1.008969</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.066767</XShift>
+        <YShift>-0.296821</YShift>
+        <ZShift>0.234913</ZShift>
+        <Height>0.390000</Height>
+        <BoundingMin X="-30.448236" Y="-0.500000" Z="-30.502298" />
+        <BoundingMax X="31.328098" Y="0.749827" Z="30.935572" />
+        <BoundingCenter X="0.439931" Y="0.124913" Z="0.216637" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_igrasspatch</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_igrasspatch.p3d</File>
+        <Date>08/15/10 19:02:33</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1442591613</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.269855</BBRadius>
+        <BBHScale>1.176937</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.256968</XShift>
+        <YShift>-0.067554</YShift>
+        <ZShift>0.135000</ZShift>
+        <Height>0.390000</Height>
+        <BoundingMin X="-6.773265" Y="-0.300000" Z="-5.344425" />
+        <BoundingMax X="6.259329" Y="0.750000" Z="5.479533" />
+        <BoundingCenter X="-0.256968" Y="0.225000" Z="0.067554" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_iles_su_ctver_pruhozi</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_iles_su_ctver_pruhozi.p3d</File>
+        <Date>11/17/12 08:54:11</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1322202709</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>35.417511</BBRadius>
+        <BBHScale>0.886087</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.080711</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>31.034267</Height>
+        <BoundingMin X="-31.568027" Y="-26.340038" Z="-34.918587" />
+        <BoundingMax X="31.359392" Y="35.728497" Z="35.916431" />
+        <BoundingCenter X="-0.104318" Y="4.694229" Z="0.498922" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_imangrove</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_imangrove.p3d</File>
+        <Date>11/17/12 08:03:21</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1842816938</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.225615</BBRadius>
+        <BBHScale>0.953030</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-1.910469</XShift>
+        <YShift>-0.951266</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>12.558545</Height>
+        <BoundingMin X="-28.872248" Y="-11.190896" Z="-28.577126" />
+        <BoundingMax X="29.718109" Y="13.926194" Z="30.074984" />
+        <BoundingCenter X="0.422931" Y="1.367649" Z="0.748929" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_imangrove2</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_imangrove2.p3d</File>
+        <Date>11/17/12 08:04:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>798802696</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.225615</BBRadius>
+        <BBHScale>0.953030</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-1.910469</XShift>
+        <YShift>-0.951266</YShift>
+        <ZShift>0.009667</ZShift>
+        <Height>5.965358</Height>
+        <BoundingMin X="-28.872248" Y="-1.023857" Z="-28.577126" />
+        <BoundingMax X="29.718109" Y="10.926194" Z="30.074984" />
+        <BoundingCenter X="0.422931" Y="4.951169" Z="0.748929" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_imangrove3</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_imangrove3.p3d</File>
+        <Date>11/17/12 08:06:13</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>798802697</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.225615</BBRadius>
+        <BBHScale>1.031528</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-1.095468</XShift>
+        <YShift>-0.951266</YShift>
+        <ZShift>0.248441</ZShift>
+        <Height>5.464656</Height>
+        <BoundingMin X="-28.872248" Y="-0.500000" Z="-28.577126" />
+        <BoundingMax X="29.718109" Y="10.926194" Z="30.074984" />
+        <BoundingCenter X="0.422931" Y="5.213097" Z="0.748929" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_imangrove4</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_imangrove4.p3d</File>
+        <Date>11/17/12 08:09:14</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>798802698</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.225615</BBRadius>
+        <BBHScale>1.031528</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-1.095468</XShift>
+        <YShift>-0.951266</YShift>
+        <ZShift>0.565523</ZShift>
+        <Height>5.464333</Height>
+        <BoundingMin X="-28.872248" Y="-1.133516" Z="-28.577126" />
+        <BoundingMax X="29.718109" Y="10.926194" Z="30.074984" />
+        <BoundingCenter X="0.422931" Y="4.896339" Z="0.748929" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_imangrove5</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_imangrove5.p3d</File>
+        <Date>11/17/12 08:10:16</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>798802699</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.225615</BBRadius>
+        <BBHScale>0.953030</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-1.910469</XShift>
+        <YShift>-0.951266</YShift>
+        <ZShift>0.565523</ZShift>
+        <Height>5.464333</Height>
+        <BoundingMin X="-28.872248" Y="-1.133516" Z="-28.577126" />
+        <BoundingMax X="29.718109" Y="10.926194" Z="30.074984" />
+        <BoundingCenter X="0.422931" Y="4.896339" Z="0.748929" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ipalms</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_ipalms.p3d</File>
+        <Date>11/17/12 08:11:29</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-342280912</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.355191</BBRadius>
+        <BBHScale>0.979253</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.094265</XShift>
+        <YShift>0.052072</YShift>
+        <ZShift>-0.325033</ZShift>
+        <Height>0.924200</Height>
+        <BoundingMin X="-2.469327" Y="-0.073903" Z="-2.311633" />
+        <BoundingMax X="2.331862" Y="2.424563" Z="2.502894" />
+        <BoundingCenter X="-0.068733" Y="1.175330" Z="0.095631" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ipalms2</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_ipalms2.p3d</File>
+        <Date>11/17/12 11:07:07</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>803477250</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.355191</BBRadius>
+        <BBHScale>0.979253</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.036271</XShift>
+        <YShift>0.052072</YShift>
+        <ZShift>-0.325033</ZShift>
+        <Height>0.924200</Height>
+        <BoundingMin X="-2.411332" Y="-0.040350" Z="-2.311633" />
+        <BoundingMax X="2.273867" Y="2.458116" Z="2.502894" />
+        <BoundingCenter X="-0.068733" Y="1.208883" Z="0.095631" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ipalms3</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_ipalms3.p3d</File>
+        <Date>11/14/12 00:01:03</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>803477251</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.355191</BBRadius>
+        <BBHScale>0.979253</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.036271</XShift>
+        <YShift>0.052072</YShift>
+        <ZShift>-0.313097</ZShift>
+        <Height>1.165910</Height>
+        <BoundingMin X="-2.411332" Y="-0.047644" Z="-2.311633" />
+        <BoundingMax X="2.273867" Y="2.958116" Z="2.502894" />
+        <BoundingCenter X="-0.068733" Y="1.455236" Z="0.095631" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_irssz_brush</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_irssz_brush.p3d</File>
+        <Date>11/17/12 08:15:20</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>325061972</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.191986</BBRadius>
+        <BBHScale>0.986288</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-2.536557</XShift>
+        <YShift>-1.342213</YShift>
+        <ZShift>-0.117613</ZShift>
+        <Height>1.793841</Height>
+        <BoundingMin X="-26.100601" Y="-0.199602" Z="-25.920298" />
+        <BoundingMax X="27.042583" Y="3.623304" Z="27.278900" />
+        <BoundingCenter X="0.470991" Y="1.711851" Z="0.679301" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_irssz_brushd</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_irssz_brushd.p3d</File>
+        <Date>08/15/10 19:02:38</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-772323312</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>20.515636</BBRadius>
+        <BBHScale>1.005980</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-2.211548</XShift>
+        <YShift>1.391595</YShift>
+        <ZShift>-0.126572</ZShift>
+        <Height>1.033723</Height>
+        <BoundingMin X="-26.100601" Y="-0.157000" Z="-25.920298" />
+        <BoundingMax X="27.042583" Y="2.485768" Z="27.278900" />
+        <BoundingCenter X="0.470991" Y="1.164384" Z="0.679301" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_irssz_trees</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_irssz_trees.p3d</File>
+        <Date>11/17/12 08:16:26</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-770719761</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>26.533615</BBRadius>
+        <BBHScale>1.081960</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.004768</XShift>
+        <YShift>-0.745285</YShift>
+        <ZShift>0.134010</ZShift>
+        <Height>5.686232</Height>
+        <BoundingMin X="-27.422020" Y="-1.492347" Z="-27.278900" />
+        <BoundingMax X="30.004124" Y="10.148137" Z="27.278900" />
+        <BoundingCenter X="1.291052" Y="4.327895" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_les_nw_ctver_pruhozi</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_les_nw_ctver_pruhozi.p3d</File>
+        <Date>12/18/16 23:26:10</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>201827043</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>34.714371</BBRadius>
+        <BBHScale>0.932167</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>1.605349</XShift>
+        <YShift>2.501158</YShift>
+        <ZShift>-0.171413</ZShift>
+        <Height>12.019195</Height>
+        <BoundingMin X="-37.092308" Y="-2.245744" Z="-39.098915" />
+        <BoundingMax X="35.492405" Y="22.457581" Z="39.334305" />
+        <BoundingCenter X="-0.799952" Y="10.105918" Z="0.117695" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_low_canopy</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_low_canopy.p3d</File>
+        <Date>11/17/12 08:28:45</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1401144395</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>24.593555</BBRadius>
+        <BBHScale>1.114621</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-2.685344</YShift>
+        <ZShift>0.134010</ZShift>
+        <Height>5.686232</Height>
+        <BoundingMin X="-27.412483" Y="-1.492347" Z="-27.278900" />
+        <BoundingMax X="27.412483" Y="10.148137" Z="27.278900" />
+        <BoundingCenter X="0.000000" Y="4.327895" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_low_canopy2</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_low_canopy2.p3d</File>
+        <Date>11/17/12 08:29:49</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1371033255</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.427502</BBRadius>
+        <BBHScale>0.981318</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-1.137666</XShift>
+        <YShift>-0.818930</YShift>
+        <ZShift>0.125385</ZShift>
+        <Height>5.908061</Height>
+        <BoundingMin X="-32.396812" Y="-1.349040" Z="-26.310720" />
+        <BoundingMax X="35.715626" Y="10.717852" Z="36.400536" />
+        <BoundingCenter X="1.659407" Y="4.684406" Z="5.044908" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_low_canopy3</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_low_canopy3.p3d</File>
+        <Date>08/15/10 19:02:43</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1371033256</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.511757</BBRadius>
+        <BBHScale>1.007912</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.184206</XShift>
+        <YShift>-0.365257</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>5.536085</Height>
+        <BoundingMin X="-28.087748" Y="-0.924034" Z="-27.727741" />
+        <BoundingMax X="27.789936" Y="10.148137" Z="28.583364" />
+        <BoundingCenter X="-0.148906" Y="4.612052" Z="0.427812" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_low_canopy4</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_low_canopy4.p3d</File>
+        <Date>08/15/10 19:02:43</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1371033257</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>29.376177</BBRadius>
+        <BBHScale>0.988035</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-3.667063</XShift>
+        <YShift>-4.351896</YShift>
+        <ZShift>0.003005</ZShift>
+        <Height>4.970214</Height>
+        <BoundingMin X="-28.087748" Y="-5.006010" Z="-30.614628" />
+        <BoundingMax X="38.471275" Y="4.940428" Z="36.871342" />
+        <BoundingCenter X="5.191764" Y="-0.032791" Z="3.128357" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_rubber</Name>
+        <File>O:\arma3work\pmc\VTE_objects\VTE_rubber.p3d</File>
+        <Date>11/17/12 08:34:55</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>811118376</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>21.710625</BBRadius>
+        <BBHScale>1.174720</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.205058</XShift>
+        <YShift>-0.430426</YShift>
+        <ZShift>-0.068472</ZShift>
+        <Height>6.178757</Height>
+        <BoundingMin X="-25.535316" Y="-0.101000" Z="-18.449816" />
+        <BoundingMax X="25.882629" Y="12.393457" Z="25.832283" />
+        <BoundingCenter X="0.173656" Y="6.146229" Z="3.691234" />
+        <Placement></Placement>
+    </Template>
+</Library>

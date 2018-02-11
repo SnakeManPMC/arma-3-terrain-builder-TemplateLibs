@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<Library name="VTE_bis_obj_bushes" shape="elipse" default_fill="-16744448" default_outline="-1" tex="0">
+    <Template>
+        <Name>VTE_bis_DD_bush01</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_DD_bush01.p3d</File>
+        <Date>11/18/12 05:56:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1806425053</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.355961</BBRadius>
+        <BBHScale>1.246902</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.090537</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.571637" Y="-0.006791" Z="-1.838109" />
+        <BoundingMax X="1.809865" Y="2.836443" Z="1.054886" />
+        <BoundingCenter X="0.119114" Y="1.414826" Z="-0.391612" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_ker_trs_travy3</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ker_trs_travy3.p3d</File>
+        <Date>10/14/17 09:44:33</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1314555351</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.476368</BBRadius>
+        <BBHScale>1.003081</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.002115</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.481115" Y="-0.004230" Z="-0.480720" />
+        <BoundingMax X="0.474556" Y="0.328061" Z="0.472015" />
+        <BoundingCenter X="-0.003280" Y="0.161916" Z="-0.004352" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_ker_trs_travy5</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ker_trs_travy5.p3d</File>
+        <Date>11/18/12 05:56:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1314555349</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.344406</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.349855" Y="-0.011196" Z="-0.338956" />
+        <BoundingMax X="0.338956" Y="1.172347" Z="0.349855" />
+        <BoundingCenter X="-0.005449" Y="0.580576" Z="0.005449" />
+        <Placement></Placement>
+    </Template>
+</Library>

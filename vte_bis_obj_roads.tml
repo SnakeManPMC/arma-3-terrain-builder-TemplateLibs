@@ -1,0 +1,993 @@
+<?xml version="1.0" ?>
+<Library name="VTE_bis_obj_roads" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
+    <Template>
+        <Name>VTE_bis_asf10_100</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf10_100.p3d</File>
+        <Date>11/18/12 05:56:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-701452902</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.986251</BBRadius>
+        <BBHScale>0.471054</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000022</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.966020" Y="0.000000" Z="17.972546" />
+        <BoundingCenter X="0.733010" Y="0.000000" Z="8.986273" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_asf10_25</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf10_25.p3d</File>
+        <Date>11/18/12 05:56:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1329833894</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.474475</BBRadius>
+        <BBHScale>1.480447</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.826660" Y="0.000000" Z="4.948950" />
+        <BoundingCenter X="0.163330" Y="0.000000" Z="2.474475" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_asf10_50</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf10_50.p3d</File>
+        <Date>11/18/12 05:56:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1329637102</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.645080</BBRadius>
+        <BBHScale>0.829528</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000002</XShift>
+        <YShift>-0.000002</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.206454" Y="0.000000" Z="9.290164" />
+        <BoundingCenter X="0.353227" Y="0.000000" Z="4.645082" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_asf10_75</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf10_75.p3d</File>
+        <Date>11/18/12 05:56:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1329505899</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.815701</BBRadius>
+        <BBHScale>0.593207</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.586240" Y="0.000000" Z="13.631401" />
+        <BoundingCenter X="0.543120" Y="0.000000" Z="6.815701" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_asf12</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf12.p3d</File>
+        <Date>11/18/12 05:56:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1888500490</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.560000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.500000" Y="0.000000" Z="12.500000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_asf25</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf25.p3d</File>
+        <Date>11/18/12 05:56:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1888566092</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.500000</BBRadius>
+        <BBHScale>0.280000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.500000" Y="0.000000" Z="25.000000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_asf6</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf6.p3d</File>
+        <Date>11/18/12 05:56:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2105249581</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.120000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.500000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_asf6konec</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf6konec.p3d</File>
+        <Date>11/18/12 05:56:47</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-214678533</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.120000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.500000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_ces10_100</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces10_100.p3d</File>
+        <Date>11/18/12 05:56:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1905954231</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.834350</BBRadius>
+        <BBHScale>0.282568</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="3.242610" Y="0.000000" Z="17.668699" />
+        <BoundingCenter X="0.746305" Y="0.000000" Z="8.834350" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_ces10_25</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces10_25.p3d</File>
+        <Date>11/18/12 05:56:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1623695613</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.322530</BBRadius>
+        <BBHScale>0.829535</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000002</XShift>
+        <YShift>-0.000002</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="2.103243" Y="0.000000" Z="4.645065" />
+        <BoundingCenter X="0.176621" Y="0.000000" Z="2.322532" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_ces10_50</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces10_50.p3d</File>
+        <Date>11/18/12 05:56:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1623892405</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.493140</BBRadius>
+        <BBHScale>0.471056</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="2.483041" Y="0.000000" Z="8.986280" />
+        <BoundingCenter X="0.366520" Y="0.000000" Z="4.493140" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_ces10_75</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces10_75.p3d</File>
+        <Date>11/18/12 05:56:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1624023608</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.663750</BBRadius>
+        <BBHScale>0.346114</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="2.862830" Y="0.000000" Z="13.327500" />
+        <BoundingCenter X="0.556415" Y="0.000000" Z="6.663750" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_ces12</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces12.p3d</File>
+        <Date>11/18/12 05:56:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1936742439</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.280000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="1.750000" Y="0.000000" Z="12.500001" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_ces25</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces25.p3d</File>
+        <Date>11/18/12 05:56:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1936808041</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.500001</BBRadius>
+        <BBHScale>0.140000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="1.750000" Y="0.000000" Z="25.000002" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_ces6</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces6.p3d</File>
+        <Date>11/18/12 05:56:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-743351600</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>0.560000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="1.750000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_ces6konec</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces6konec.p3d</File>
+        <Date>11/18/12 05:56:48</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1902238696</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>0.560000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="1.750000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_kos12</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kos12.p3d</File>
+        <Date>11/18/12 05:56:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1679259557</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.728000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.550000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.550000" Y="0.000000" Z="12.500001" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_kos25</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kos25.p3d</File>
+        <Date>11/18/12 05:56:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1679325159</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.500001</BBRadius>
+        <BBHScale>0.364000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.550000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.550000" Y="0.000000" Z="25.000002" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_kos6</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kos6.p3d</File>
+        <Date>11/18/12 05:56:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1288993746</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.456000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.550000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.550000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_kos6konec</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kos6konec.p3d</File>
+        <Date>11/18/12 05:56:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2044918378</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.456000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.550000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.550000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_sil10_100</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil10_100.p3d</File>
+        <Date>11/18/12 05:56:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1414573884</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.051401</BBRadius>
+        <BBHScale>0.549896</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.250000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="5.704660" Y="0.000000" Z="18.102802" />
+        <BoundingCenter X="0.727330" Y="0.000000" Z="9.051401" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_sil10_25</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil10_25.p3d</File>
+        <Date>11/18/12 05:56:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1331154488</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.539605</BBRadius>
+        <BBHScale>1.735553</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.250000" Y="-0.000000" Z="0.000000" />
+        <BoundingMax X="4.565240" Y="0.000000" Z="5.079210" />
+        <BoundingCenter X="0.157620" Y="-0.000000" Z="2.539605" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_sil10_50</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil10_50.p3d</File>
+        <Date>11/18/12 05:56:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1331351280</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.710210</BBRadius>
+        <BBHScale>0.976076</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.250000" Y="-0.000000" Z="0.000000" />
+        <BoundingMax X="4.945050" Y="0.000000" Z="9.420421" />
+        <BoundingCenter X="0.347525" Y="-0.000000" Z="4.710210" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_sil10_75</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil10_75.p3d</File>
+        <Date>11/18/12 05:56:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1331482483</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.880800</BBRadius>
+        <BBHScale>0.695766</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.250000" Y="-0.000000" Z="0.000000" />
+        <BoundingMax X="5.324851" Y="-0.000000" Z="13.761600" />
+        <BoundingCenter X="0.537425" Y="-0.000000" Z="6.880800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_sil12</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil12.p3d</File>
+        <Date>11/18/12 05:56:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1759452844</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.680000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.250000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.250000" Y="0.000000" Z="12.500001" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_sil25</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil25.p3d</File>
+        <Date>11/18/12 05:56:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1759518446</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.500001</BBRadius>
+        <BBHScale>0.340000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.250000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.250000" Y="0.000000" Z="25.000002" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500001" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_sil6</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil6.p3d</File>
+        <Date>11/18/12 05:56:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1106271477</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.360000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.250000" Y="0.000000" Z="0.000000" />
+        <BoundingMax X="4.250000" Y="0.000000" Z="6.250000" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_sil6konec</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil6konec.p3d</File>
+        <Date>11/18/12 05:56:51</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1901348253</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125001</BBRadius>
+        <BBHScale>1.360000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.250000" Y="0.000000" Z="-0.000000" />
+        <BoundingMax X="4.250000" Y="0.000000" Z="6.250001" />
+        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_kr_new_kos</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kr_new_kos.p3d</File>
+        <Date>11/18/12 05:56:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2138880259</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.864000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.033288</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="4.550000" Y="0.066575" Z="6.250000" />
+        <BoundingCenter X="-0.850000" Y="0.033288" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_bis_kr_new_kos_kos_t</Name>
+        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kr_new_kos_kos_t.p3d</File>
+        <Date>11/18/12 05:56:50</Date>
+        <Archive></Archive>
+        <Fill>-16777216</Fill>
+        <Outline>-1</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>303063528</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.250000</BBRadius>
+        <BBHScale>0.864000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.000124</ZShift>
+        <Height>0.033163</Height>
+        <BoundingMin X="-6.250000" Y="0.000000" Z="-6.250000" />
+        <BoundingMax X="4.550000" Y="0.066575" Z="6.250000" />
+        <BoundingCenter X="-0.850000" Y="0.033288" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>
