@@ -2,7 +2,7 @@
 <Library name="VTE_objects_bridges" shape="rectangle" default_fill="-65281" default_outline="-8355712" tex="0">
     <Template>
         <Name>VTE_bridge1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge1.p3d</File>
+        <File>pmc\VTE_objects\VTE_bridge1.p3d</File>
         <Date>08/15/10 18:57:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_bridge1b</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge1b.p3d</File>
+        <File>pmc\VTE_objects\VTE_bridge1b.p3d</File>
         <Date>08/15/10 18:57:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_bridge2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge2.p3d</File>
+        <File>pmc\VTE_objects\VTE_bridge2.p3d</File>
         <Date>11/18/12 04:44:34</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_bridge3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge3.p3d</File>
+        <File>pmc\VTE_objects\VTE_bridge3.p3d</File>
         <Date>08/15/10 18:57:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_bridge3b</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge3b.p3d</File>
+        <File>pmc\VTE_objects\VTE_bridge3b.p3d</File>
         <Date>08/15/10 18:57:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_bridge4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge4.p3d</File>
+        <File>pmc\VTE_objects\VTE_bridge4.p3d</File>
         <Date>08/15/10 18:57:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_bridge5</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge5.p3d</File>
+        <File>pmc\VTE_objects\VTE_bridge5.p3d</File>
         <Date>08/15/10 18:57:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_bridge6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bridge6.p3d</File>
+        <File>pmc\VTE_objects\VTE_bridge6.p3d</File>
         <Date>11/17/12 09:55:44</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_ironbridge</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_ironbridge.p3d</File>
+        <File>pmc\VTE_objects\VTE_ironbridge.p3d</File>
         <Date>08/15/10 19:02:38</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_RoadBridgeCenter</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_RoadBridgeCenter.p3d</File>
+        <File>pmc\VTE_objects\VTE_RoadBridgeCenter.p3d</File>
         <Date>11/17/12 05:38:27</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -332,7 +332,7 @@
     </Template>
     <Template>
         <Name>VTE_roadbridgedestrcenter</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_roadbridgedestrcenter.p3d</File>
+        <File>pmc\VTE_objects\VTE_roadbridgedestrcenter.p3d</File>
         <Date>11/17/12 05:42:26</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -365,7 +365,7 @@
     </Template>
     <Template>
         <Name>VTE_roadbridgedestrleft</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_roadbridgedestrleft.p3d</File>
+        <File>pmc\VTE_objects\VTE_roadbridgedestrleft.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -398,7 +398,7 @@
     </Template>
     <Template>
         <Name>VTE_roadbridgedestrright</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_roadbridgedestrright.p3d</File>
+        <File>pmc\VTE_objects\VTE_roadbridgedestrright.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -431,7 +431,7 @@
     </Template>
     <Template>
         <Name>VTE_sbridge</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sbridge.p3d</File>
+        <File>pmc\VTE_objects\VTE_sbridge.p3d</File>
         <Date>08/15/10 19:02:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -464,7 +464,7 @@
     </Template>
     <Template>
         <Name>VTE_sbridge_e1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sbridge_e1.p3d</File>
+        <File>pmc\VTE_objects\VTE_sbridge_e1.p3d</File>
         <Date>08/15/10 19:02:54</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -497,7 +497,7 @@
     </Template>
     <Template>
         <Name>VTE_sbridge_e2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sbridge_e2.p3d</File>
+        <File>pmc\VTE_objects\VTE_sbridge_e2.p3d</File>
         <Date>08/15/10 19:02:54</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -530,7 +530,7 @@
     </Template>
     <Template>
         <Name>VTE_sbridge_middle</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sbridge_middle.p3d</File>
+        <File>pmc\VTE_objects\VTE_sbridge_middle.p3d</File>
         <Date>08/15/10 19:02:54</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -563,7 +563,7 @@
     </Template>
     <Template>
         <Name>VTE_sbridge_rotten</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sbridge_rotten.p3d</File>
+        <File>pmc\VTE_objects\VTE_sbridge_rotten.p3d</File>
         <Date>08/15/10 19:02:54</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

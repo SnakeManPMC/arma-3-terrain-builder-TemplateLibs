@@ -2,7 +2,7 @@
 <Library name="VTE_objects_buildings" shape="rectangle" default_fill="-65536" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_bPanelak</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bPanelak.p3d</File>
+        <File>pmc\VTE_objects\VTE_bPanelak.p3d</File>
         <Date>11/17/12 07:52:34</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_buddha_statue</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_buddha_statue.p3d</File>
+        <File>pmc\VTE_objects\VTE_buddha_statue.p3d</File>
         <Date>11/17/12 09:59:11</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_chickencoop1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_chickencoop1.p3d</File>
+        <File>pmc\VTE_objects\VTE_chickencoop1.p3d</File>
         <Date>11/21/12 15:06:20</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_chickencoop2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_chickencoop2.p3d</File>
+        <File>pmc\VTE_objects\VTE_chickencoop2.p3d</File>
         <Date>11/21/12 15:25:11</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building01</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building01.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building01.p3d</File>
         <Date>11/17/12 10:01:37</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building02</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building02.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building02.p3d</File>
         <Date>11/18/12 03:43:29</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building03</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building03.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building03.p3d</File>
         <Date>11/17/12 10:02:37</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building04</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building04.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building04.p3d</File>
         <Date>11/18/12 03:45:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building05</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building05.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building05.p3d</File>
         <Date>11/18/12 03:47:25</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building06</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building06.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building06.p3d</File>
         <Date>11/18/12 03:49:39</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -332,7 +332,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building07</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building07.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building07.p3d</File>
         <Date>11/18/12 03:51:06</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -365,7 +365,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building08</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building08.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building08.p3d</File>
         <Date>11/17/12 10:12:13</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -398,7 +398,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building09</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building09.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building09.p3d</File>
         <Date>11/17/12 10:13:18</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -431,7 +431,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building10</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building10.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building10.p3d</File>
         <Date>11/17/12 10:14:18</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -464,7 +464,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building11</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building11.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building11.p3d</File>
         <Date>11/17/12 10:15:12</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -497,7 +497,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building12</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building12.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building12.p3d</File>
         <Date>11/17/12 10:28:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -530,7 +530,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building13</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building13.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building13.p3d</File>
         <Date>11/17/12 10:28:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -563,7 +563,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building14</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building14.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building14.p3d</File>
         <Date>11/17/12 10:28:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -596,7 +596,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building15</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building15.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building15.p3d</File>
         <Date>11/17/12 10:28:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -629,7 +629,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building16</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building16.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building16.p3d</File>
         <Date>11/17/12 10:28:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -662,7 +662,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building17</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building17.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building17.p3d</File>
         <Date>11/17/12 10:28:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -695,7 +695,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building18</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building18.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building18.p3d</File>
         <Date>11/17/12 10:28:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -728,7 +728,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building19</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building19.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building19.p3d</File>
         <Date>11/17/12 10:28:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -761,7 +761,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building20</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building20.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building20.p3d</File>
         <Date>11/17/12 10:28:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -794,7 +794,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building21</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building21.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building21.p3d</File>
         <Date>11/17/12 10:28:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -827,7 +827,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building22</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building22.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building22.p3d</File>
         <Date>11/18/12 03:55:44</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -860,7 +860,7 @@
     </Template>
     <Template>
         <Name>VTE_city_building23</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_city_building23.p3d</File>
+        <File>pmc\VTE_objects\VTE_city_building23.p3d</File>
         <Date>11/18/12 03:57:22</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -893,7 +893,7 @@
     </Template>
     <Template>
         <Name>VTE_factory1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_factory1.p3d</File>
+        <File>pmc\VTE_objects\VTE_factory1.p3d</File>
         <Date>11/17/12 06:35:41</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -926,7 +926,7 @@
     </Template>
     <Template>
         <Name>VTE_flathouse1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathouse1.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathouse1.p3d</File>
         <Date>08/15/10 18:58:14</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -959,7 +959,7 @@
     </Template>
     <Template>
         <Name>VTE_flathouse2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathouse2.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathouse2.p3d</File>
         <Date>08/15/10 18:58:14</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -992,7 +992,7 @@
     </Template>
     <Template>
         <Name>VTE_flathouse3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathouse3.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathouse3.p3d</File>
         <Date>08/15/10 18:58:14</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1025,7 +1025,7 @@
     </Template>
     <Template>
         <Name>VTE_flathouse4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathouse4.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathouse4.p3d</File>
         <Date>08/15/10 18:58:14</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1058,7 +1058,7 @@
     </Template>
     <Template>
         <Name>VTE_flathouse5</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathouse5.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathouse5.p3d</File>
         <Date>08/15/10 18:58:14</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1091,7 +1091,7 @@
     </Template>
     <Template>
         <Name>VTE_flathouse6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathouse6.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathouse6.p3d</File>
         <Date>08/15/10 18:58:15</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1124,7 +1124,7 @@
     </Template>
     <Template>
         <Name>VTE_flathouse7</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathouse7.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathouse7.p3d</File>
         <Date>08/15/10 18:58:16</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1157,7 +1157,7 @@
     </Template>
     <Template>
         <Name>VTE_flathouse8</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathouse8.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathouse8.p3d</File>
         <Date>08/15/10 18:58:16</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1190,7 +1190,7 @@
     </Template>
     <Template>
         <Name>VTE_flathouseC</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathouseC.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathouseC.p3d</File>
         <Date>08/15/10 18:58:16</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1223,7 +1223,7 @@
     </Template>
     <Template>
         <Name>VTE_flathouseL</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathouseL.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathouseL.p3d</File>
         <Date>08/15/10 18:58:17</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1256,7 +1256,7 @@
     </Template>
     <Template>
         <Name>VTE_flathousestairs1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_flathousestairs1.p3d</File>
+        <File>pmc\VTE_objects\VTE_flathousestairs1.p3d</File>
         <Date>08/15/10 18:58:17</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1289,7 +1289,7 @@
     </Template>
     <Template>
         <Name>VTE_frenchhouse1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_frenchhouse1.p3d</File>
+        <File>pmc\VTE_objects\VTE_frenchhouse1.p3d</File>
         <Date>08/15/10 18:58:18</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1322,7 +1322,7 @@
     </Template>
     <Template>
         <Name>VTE_frenchhouse2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_frenchhouse2.p3d</File>
+        <File>pmc\VTE_objects\VTE_frenchhouse2.p3d</File>
         <Date>11/17/12 06:39:16</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1355,7 +1355,7 @@
     </Template>
     <Template>
         <Name>VTE_frenchhouseL</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_frenchhouseL.p3d</File>
+        <File>pmc\VTE_objects\VTE_frenchhouseL.p3d</File>
         <Date>08/15/10 18:58:19</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1388,7 +1388,7 @@
     </Template>
     <Template>
         <Name>VTE_hoianhouse1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_hoianhouse1.p3d</File>
+        <File>pmc\VTE_objects\VTE_hoianhouse1.p3d</File>
         <Date>11/17/12 06:40:26</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1421,7 +1421,7 @@
     </Template>
     <Template>
         <Name>VTE_hoianhouse2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_hoianhouse2.p3d</File>
+        <File>pmc\VTE_objects\VTE_hoianhouse2.p3d</File>
         <Date>11/17/12 06:41:41</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1454,7 +1454,7 @@
     </Template>
     <Template>
         <Name>VTE_hoianhouse3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_hoianhouse3.p3d</File>
+        <File>pmc\VTE_objects\VTE_hoianhouse3.p3d</File>
         <Date>11/17/12 06:43:01</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1487,7 +1487,7 @@
     </Template>
     <Template>
         <Name>VTE_hoianhouse4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_hoianhouse4.p3d</File>
+        <File>pmc\VTE_objects\VTE_hoianhouse4.p3d</File>
         <Date>11/17/12 06:44:11</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1520,7 +1520,7 @@
     </Template>
     <Template>
         <Name>VTE_imperial_palace</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_imperial_palace.p3d</File>
+        <File>pmc\VTE_objects\VTE_imperial_palace.p3d</File>
         <Date>11/18/12 04:29:49</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1553,7 +1553,7 @@
     </Template>
     <Template>
         <Name>VTE_lumbershed</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_lumbershed.p3d</File>
+        <File>pmc\VTE_objects\VTE_lumbershed.p3d</File>
         <Date>08/15/10 19:02:43</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1586,7 +1586,7 @@
     </Template>
     <Template>
         <Name>VTE_marketcounter</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_marketcounter.p3d</File>
+        <File>pmc\VTE_objects\VTE_marketcounter.p3d</File>
         <Date>08/15/10 19:02:44</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1619,7 +1619,7 @@
     </Template>
     <Template>
         <Name>VTE_marketcounter2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_marketcounter2.p3d</File>
+        <File>pmc\VTE_objects\VTE_marketcounter2.p3d</File>
         <Date>08/15/10 19:02:44</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1652,7 +1652,7 @@
     </Template>
     <Template>
         <Name>VTE_marketcounter3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_marketcounter3.p3d</File>
+        <File>pmc\VTE_objects\VTE_marketcounter3.p3d</File>
         <Date>08/15/10 19:02:44</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1685,7 +1685,7 @@
     </Template>
     <Template>
         <Name>VTE_marketshed1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_marketshed1.p3d</File>
+        <File>pmc\VTE_objects\VTE_marketshed1.p3d</File>
         <Date>08/15/10 19:02:44</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1718,7 +1718,7 @@
     </Template>
     <Template>
         <Name>VTE_pagoda</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_pagoda.p3d</File>
+        <File>pmc\VTE_objects\VTE_pagoda.p3d</File>
         <Date>11/18/12 04:10:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1751,7 +1751,7 @@
     </Template>
     <Template>
         <Name>VTE_silo</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_silo.p3d</File>
+        <File>pmc\VTE_objects\VTE_silo.p3d</File>
         <Date>08/15/10 19:02:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1784,7 +1784,7 @@
     </Template>
     <Template>
         <Name>VTE_silo_open</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_silo_open.p3d</File>
+        <File>pmc\VTE_objects\VTE_silo_open.p3d</File>
         <Date>08/15/10 19:02:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1817,7 +1817,7 @@
     </Template>
     <Template>
         <Name>VTE_temple01</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple01.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple01.p3d</File>
         <Date>11/18/12 04:13:24</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1850,7 +1850,7 @@
     </Template>
     <Template>
         <Name>VTE_temple02</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple02.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple02.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1883,7 +1883,7 @@
     </Template>
     <Template>
         <Name>VTE_temple03</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple03.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple03.p3d</File>
         <Date>11/17/12 07:29:57</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1916,7 +1916,7 @@
     </Template>
     <Template>
         <Name>VTE_temple04</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple04.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple04.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1949,7 +1949,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin01</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin01.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin01.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1982,7 +1982,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin02</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin02.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin02.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2015,7 +2015,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin03</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin03.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin03.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2048,7 +2048,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin04</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin04.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin04.p3d</File>
         <Date>08/15/10 19:03:01</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2081,7 +2081,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin05</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin05.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin05.p3d</File>
         <Date>11/18/12 04:30:45</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2114,7 +2114,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin05b</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin05b.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin05b.p3d</File>
         <Date>11/18/12 04:22:37</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2147,7 +2147,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin06</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin06.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin06.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2180,7 +2180,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin07</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin07.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin07.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2213,7 +2213,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin08</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin08.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin08.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2246,7 +2246,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin09</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin09.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin09.p3d</File>
         <Date>11/18/12 04:23:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2279,7 +2279,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin10</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin10.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin10.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2312,7 +2312,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin11</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin11.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin11.p3d</File>
         <Date>11/18/12 04:32:19</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2345,7 +2345,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin12</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin12.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin12.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2378,7 +2378,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin13</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin13.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin13.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2411,7 +2411,7 @@
     </Template>
     <Template>
         <Name>VTE_temple_ruin14</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_temple_ruin14.p3d</File>
+        <File>pmc\VTE_objects\VTE_temple_ruin14.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2444,7 +2444,7 @@
     </Template>
     <Template>
         <Name>VTE_townhouse1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townhouse1.p3d</File>
+        <File>pmc\VTE_objects\VTE_townhouse1.p3d</File>
         <Date>08/15/10 19:03:06</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2477,7 +2477,7 @@
     </Template>
     <Template>
         <Name>VTE_townhouse2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townhouse2.p3d</File>
+        <File>pmc\VTE_objects\VTE_townhouse2.p3d</File>
         <Date>11/21/12 16:58:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2510,7 +2510,7 @@
     </Template>
     <Template>
         <Name>VTE_townhouse3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townhouse3.p3d</File>
+        <File>pmc\VTE_objects\VTE_townhouse3.p3d</File>
         <Date>08/15/10 19:03:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2543,7 +2543,7 @@
     </Template>
     <Template>
         <Name>VTE_townhouse4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townhouse4.p3d</File>
+        <File>pmc\VTE_objects\VTE_townhouse4.p3d</File>
         <Date>08/15/10 19:03:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2576,7 +2576,7 @@
     </Template>
     <Template>
         <Name>VTE_townhouse5</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townhouse5.p3d</File>
+        <File>pmc\VTE_objects\VTE_townhouse5.p3d</File>
         <Date>08/15/10 19:03:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2609,7 +2609,7 @@
     </Template>
     <Template>
         <Name>VTE_townshanty1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshanty1.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshanty1.p3d</File>
         <Date>11/17/12 07:31:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2642,7 +2642,7 @@
     </Template>
     <Template>
         <Name>VTE_townshanty2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshanty2.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshanty2.p3d</File>
         <Date>11/17/12 07:33:25</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2675,7 +2675,7 @@
     </Template>
     <Template>
         <Name>VTE_townshanty3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshanty3.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshanty3.p3d</File>
         <Date>11/17/12 09:18:55</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2708,7 +2708,7 @@
     </Template>
     <Template>
         <Name>VTE_townshanty4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshanty4.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshanty4.p3d</File>
         <Date>08/15/10 19:03:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2741,7 +2741,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop1.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop1.p3d</File>
         <Date>08/15/10 19:03:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2774,7 +2774,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop10</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop10.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop10.p3d</File>
         <Date>08/15/10 19:03:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2807,7 +2807,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop11</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop11.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop11.p3d</File>
         <Date>08/15/10 19:03:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2840,7 +2840,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop2.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop2.p3d</File>
         <Date>11/14/12 01:05:00</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2873,7 +2873,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop3.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop3.p3d</File>
         <Date>08/15/10 19:03:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2906,7 +2906,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop4.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop4.p3d</File>
         <Date>08/15/10 19:03:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2939,7 +2939,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop5</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop5.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop5.p3d</File>
         <Date>08/15/10 19:03:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2972,7 +2972,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop6.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop6.p3d</File>
         <Date>08/15/10 19:03:09</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3005,7 +3005,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop7</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop7.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop7.p3d</File>
         <Date>08/15/10 19:03:10</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3038,7 +3038,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop8</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop8.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop8.p3d</File>
         <Date>11/17/12 07:36:00</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3071,7 +3071,7 @@
     </Template>
     <Template>
         <Name>VTE_townshop9</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshop9.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshop9.p3d</File>
         <Date>08/15/10 19:03:10</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3104,7 +3104,7 @@
     </Template>
     <Template>
         <Name>VTE_townshopl</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townshopl.p3d</File>
+        <File>pmc\VTE_objects\VTE_townshopl.p3d</File>
         <Date>08/15/10 19:03:10</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3137,7 +3137,7 @@
     </Template>
     <Template>
         <Name>VTE_warehouse</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_warehouse.p3d</File>
+        <File>pmc\VTE_objects\VTE_warehouse.p3d</File>
         <Date>08/15/10 19:03:26</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3170,7 +3170,7 @@
     </Template>
     <Template>
         <Name>VTE_warehouse2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_warehouse2.p3d</File>
+        <File>pmc\VTE_objects\VTE_warehouse2.p3d</File>
         <Date>08/15/10 19:03:26</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3203,7 +3203,7 @@
     </Template>
     <Template>
         <Name>VTE_watertower</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_watertower.p3d</File>
+        <File>pmc\VTE_objects\VTE_watertower.p3d</File>
         <Date>08/15/10 19:03:27</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3236,7 +3236,7 @@
     </Template>
     <Template>
         <Name>VTE_watertower2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_watertower2.p3d</File>
+        <File>pmc\VTE_objects\VTE_watertower2.p3d</File>
         <Date>08/15/10 19:03:27</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3269,7 +3269,7 @@
     </Template>
     <Template>
         <Name>VTE_bdomek_hospoda</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bdomek_hospoda.p3d</File>
+        <File>pmc\VTE_objects\VTE_bdomek_hospoda.p3d</File>
         <Date>11/17/12 09:53:11</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3302,7 +3302,7 @@
     </Template>
     <Template>
         <Name>VTE_bdomek_ruina</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bdomek_ruina.p3d</File>
+        <File>pmc\VTE_objects\VTE_bdomek_ruina.p3d</File>
         <Date>11/17/12 07:51:22</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3335,7 +3335,7 @@
     </Template>
     <Template>
         <Name>VTE_bdum_rasovna_in</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bdum_rasovna_in.p3d</File>
+        <File>pmc\VTE_objects\VTE_bdum_rasovna_in.p3d</File>
         <Date>11/17/12 06:23:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3368,7 +3368,7 @@
     </Template>
     <Template>
         <Name>VTE_bdum_zboreny</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bdum_zboreny.p3d</File>
+        <File>pmc\VTE_objects\VTE_bdum_zboreny.p3d</File>
         <Date>11/17/12 06:25:11</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3401,7 +3401,7 @@
     </Template>
     <Template>
         <Name>VTE_bkostelik</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bkostelik.p3d</File>
+        <File>pmc\VTE_objects\VTE_bkostelik.p3d</File>
         <Date>11/17/12 09:54:40</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3434,7 +3434,7 @@
     </Template>
     <Template>
         <Name>VTE_bruiny_obvod_3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bruiny_obvod_3.p3d</File>
+        <File>pmc\VTE_objects\VTE_bruiny_obvod_3.p3d</File>
         <Date>11/17/12 09:56:55</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3467,7 +3467,7 @@
     </Template>
     <Template>
         <Name>VTE_bstanice</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bstanice.p3d</File>
+        <File>pmc\VTE_objects\VTE_bstanice.p3d</File>
         <Date>11/17/12 09:58:18</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3500,7 +3500,7 @@
     </Template>
     <Template>
         <Name>VTE_bstodola</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bstodola.p3d</File>
+        <File>pmc\VTE_objects\VTE_bstodola.p3d</File>
         <Date>11/17/12 06:27:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3533,7 +3533,7 @@
     </Template>
     <Template>
         <Name>VTE_bstodola_open</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bstodola_open.p3d</File>
+        <File>pmc\VTE_objects\VTE_bstodola_open.p3d</File>
         <Date>11/17/12 06:28:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3566,7 +3566,7 @@
     </Template>
     <Template>
         <Name>VTE_bzedcl</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bzedcl.p3d</File>
+        <File>pmc\VTE_objects\VTE_bzedcl.p3d</File>
         <Date>11/17/12 10:00:34</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3599,7 +3599,7 @@
     </Template>
     <Template>
         <Name>VTE_bzedpr</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bzedpr.p3d</File>
+        <File>pmc\VTE_objects\VTE_bzedpr.p3d</File>
         <Date>11/17/12 06:29:45</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3632,7 +3632,7 @@
     </Template>
     <Template>
         <Name>VTE_bzed_ker</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bzed_ker.p3d</File>
+        <File>pmc\VTE_objects\VTE_bzed_ker.p3d</File>
         <Date>11/17/12 08:52:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3665,7 +3665,7 @@
     </Template>
     <Template>
         <Name>VTE_estatek_hl_bud</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_estatek_hl_bud.p3d</File>
+        <File>pmc\VTE_objects\VTE_estatek_hl_bud.p3d</File>
         <Date>11/17/12 10:35:49</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -3698,7 +3698,7 @@
     </Template>
     <Template>
         <Name>VTE_estatek_kulna</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_estatek_kulna.p3d</File>
+        <File>pmc\VTE_objects\VTE_estatek_kulna.p3d</File>
         <Date>11/17/12 10:35:57</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

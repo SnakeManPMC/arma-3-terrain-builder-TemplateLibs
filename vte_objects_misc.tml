@@ -2,7 +2,7 @@
 <Library name="VTE_objects_misc" shape="rectangle" default_fill="-256" default_outline="-16777216" tex="0">
     <Template>
         <Name>VTE_bed1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bed1.p3d</File>
+        <File>pmc\VTE_objects\VTE_bed1.p3d</File>
         <Date>08/15/10 18:57:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_bench</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bench.p3d</File>
+        <File>pmc\VTE_objects\VTE_bench.p3d</File>
         <Date>08/15/10 18:57:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_billboard</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_billboard.p3d</File>
+        <File>pmc\VTE_objects\VTE_billboard.p3d</File>
         <Date>08/15/10 18:57:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_bkrater</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bkrater.p3d</File>
+        <File>pmc\VTE_objects\VTE_bkrater.p3d</File>
         <Date>08/15/10 18:57:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_crate1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_crate1.p3d</File>
+        <File>pmc\VTE_objects\VTE_crate1.p3d</File>
         <Date>08/15/10 18:58:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_crate2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_crate2.p3d</File>
+        <File>pmc\VTE_objects\VTE_crate2.p3d</File>
         <Date>08/15/10 18:58:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_crate3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_crate3.p3d</File>
+        <File>pmc\VTE_objects\VTE_crate3.p3d</File>
         <Date>08/15/10 18:58:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_crate4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_crate4.p3d</File>
+        <File>pmc\VTE_objects\VTE_crate4.p3d</File>
         <Date>08/15/10 18:58:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_crate5</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_crate5.p3d</File>
+        <File>pmc\VTE_objects\VTE_crate5.p3d</File>
         <Date>08/15/10 18:58:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_crate6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_crate6.p3d</File>
+        <File>pmc\VTE_objects\VTE_crate6.p3d</File>
         <Date>08/15/10 18:58:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -332,7 +332,7 @@
     </Template>
     <Template>
         <Name>VTE_ladderL</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_ladderL.p3d</File>
+        <File>pmc\VTE_objects\VTE_ladderL.p3d</File>
         <Date>08/15/10 19:02:40</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -365,7 +365,7 @@
     </Template>
     <Template>
         <Name>VTE_ladderM</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_ladderM.p3d</File>
+        <File>pmc\VTE_objects\VTE_ladderM.p3d</File>
         <Date>08/15/10 19:02:40</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -398,7 +398,7 @@
     </Template>
     <Template>
         <Name>VTE_ladderpM</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_ladderpM.p3d</File>
+        <File>pmc\VTE_objects\VTE_ladderpM.p3d</File>
         <Date>08/15/10 19:02:40</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -431,7 +431,7 @@
     </Template>
     <Template>
         <Name>VTE_ladderpS</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_ladderpS.p3d</File>
+        <File>pmc\VTE_objects\VTE_ladderpS.p3d</File>
         <Date>08/15/10 19:02:40</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -464,7 +464,7 @@
     </Template>
     <Template>
         <Name>VTE_ladderS</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_ladderS.p3d</File>
+        <File>pmc\VTE_objects\VTE_ladderS.p3d</File>
         <Date>08/15/10 19:02:41</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -497,7 +497,7 @@
     </Template>
     <Template>
         <Name>VTE_polehead</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_polehead.p3d</File>
+        <File>pmc\VTE_objects\VTE_polehead.p3d</File>
         <Date>08/15/10 19:02:46</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -530,7 +530,7 @@
     </Template>
     <Template>
         <Name>VTE_polehead2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_polehead2.p3d</File>
+        <File>pmc\VTE_objects\VTE_polehead2.p3d</File>
         <Date>08/15/10 19:02:46</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -563,7 +563,7 @@
     </Template>
     <Template>
         <Name>VTE_powerline25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_powerline25.p3d</File>
+        <File>pmc\VTE_objects\VTE_powerline25.p3d</File>
         <Date>11/17/12 08:59:16</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -596,7 +596,7 @@
     </Template>
     <Template>
         <Name>VTE_powerlinekonec</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_powerlinekonec.p3d</File>
+        <File>pmc\VTE_objects\VTE_powerlinekonec.p3d</File>
         <Date>11/17/12 09:00:59</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -629,7 +629,7 @@
     </Template>
     <Template>
         <Name>VTE_powerlineL10_100</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_powerlineL10_100.p3d</File>
+        <File>pmc\VTE_objects\VTE_powerlineL10_100.p3d</File>
         <Date>10/14/12 06:22:01</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -662,7 +662,7 @@
     </Template>
     <Template>
         <Name>VTE_powerliner10_100</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_powerliner10_100.p3d</File>
+        <File>pmc\VTE_objects\VTE_powerliner10_100.p3d</File>
         <Date>10/14/12 06:20:59</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -695,7 +695,7 @@
     </Template>
     <Template>
         <Name>VTE_radio1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_radio1.p3d</File>
+        <File>pmc\VTE_objects\VTE_radio1.p3d</File>
         <Date>08/15/10 19:02:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -728,7 +728,7 @@
     </Template>
     <Template>
         <Name>VTE_ropeladder</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_ropeladder.p3d</File>
+        <File>pmc\VTE_objects\VTE_ropeladder.p3d</File>
         <Date>08/15/10 19:02:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -761,7 +761,7 @@
     </Template>
     <Template>
         <Name>VTE_ropeladderL</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_ropeladderL.p3d</File>
+        <File>pmc\VTE_objects\VTE_ropeladderL.p3d</File>
         <Date>08/15/10 19:02:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -794,7 +794,7 @@
     </Template>
     <Template>
         <Name>VTE_sleaf1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sleaf1.p3d</File>
+        <File>pmc\VTE_objects\VTE_sleaf1.p3d</File>
         <Date>11/17/12 06:10:34</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -827,7 +827,7 @@
     </Template>
     <Template>
         <Name>VTE_sleaf2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sleaf2.p3d</File>
+        <File>pmc\VTE_objects\VTE_sleaf2.p3d</File>
         <Date>11/17/12 06:10:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -860,7 +860,7 @@
     </Template>
     <Template>
         <Name>VTE_sleaf3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sleaf3.p3d</File>
+        <File>pmc\VTE_objects\VTE_sleaf3.p3d</File>
         <Date>11/17/12 06:11:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -893,7 +893,7 @@
     </Template>
     <Template>
         <Name>VTE_sleaf4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sleaf4.p3d</File>
+        <File>pmc\VTE_objects\VTE_sleaf4.p3d</File>
         <Date>11/17/12 06:11:17</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -926,7 +926,7 @@
     </Template>
     <Template>
         <Name>VTE_sleaf5</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sleaf5.p3d</File>
+        <File>pmc\VTE_objects\VTE_sleaf5.p3d</File>
         <Date>11/17/12 06:11:28</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -959,7 +959,7 @@
     </Template>
     <Template>
         <Name>VTE_sleaf6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sleaf6.p3d</File>
+        <File>pmc\VTE_objects\VTE_sleaf6.p3d</File>
         <Date>11/17/12 06:11:40</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -992,7 +992,7 @@
     </Template>
     <Template>
         <Name>VTE_soldier1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_soldier1.p3d</File>
+        <File>pmc\VTE_objects\VTE_soldier1.p3d</File>
         <Date>11/25/09 13:49:57</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1025,7 +1025,7 @@
     </Template>
     <Template>
         <Name>VTE_soldier2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_soldier2.p3d</File>
+        <File>pmc\VTE_objects\VTE_soldier2.p3d</File>
         <Date>11/25/09 13:50:12</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1058,7 +1058,7 @@
     </Template>
     <Template>
         <Name>VTE_soldier3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_soldier3.p3d</File>
+        <File>pmc\VTE_objects\VTE_soldier3.p3d</File>
         <Date>11/25/09 13:50:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1091,7 +1091,7 @@
     </Template>
     <Template>
         <Name>VTE_soldier4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_soldier4.p3d</File>
+        <File>pmc\VTE_objects\VTE_soldier4.p3d</File>
         <Date>11/25/09 13:50:34</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1124,7 +1124,7 @@
     </Template>
     <Template>
         <Name>VTE_soldier5</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_soldier5.p3d</File>
+        <File>pmc\VTE_objects\VTE_soldier5.p3d</File>
         <Date>11/25/09 13:50:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1157,7 +1157,7 @@
     </Template>
     <Template>
         <Name>VTE_soldier6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_soldier6.p3d</File>
+        <File>pmc\VTE_objects\VTE_soldier6.p3d</File>
         <Date>11/25/09 13:51:00</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1190,7 +1190,7 @@
     </Template>
     <Template>
         <Name>VTE_table</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_table.p3d</File>
+        <File>pmc\VTE_objects\VTE_table.p3d</File>
         <Date>08/15/10 19:03:00</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1223,7 +1223,7 @@
     </Template>
     <Template>
         <Name>VTE_table2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_table2.p3d</File>
+        <File>pmc\VTE_objects\VTE_table2.p3d</File>
         <Date>08/15/10 19:03:00</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1256,7 +1256,7 @@
     </Template>
     <Template>
         <Name>VTE_table3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_table3.p3d</File>
+        <File>pmc\VTE_objects\VTE_table3.p3d</File>
         <Date>08/15/10 19:03:00</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1289,7 +1289,7 @@
     </Template>
     <Template>
         <Name>VTE_tire1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_tire1.p3d</File>
+        <File>pmc\VTE_objects\VTE_tire1.p3d</File>
         <Date>11/17/12 05:59:22</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1322,7 +1322,7 @@
     </Template>
     <Template>
         <Name>VTE_tirepile</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_tirepile.p3d</File>
+        <File>pmc\VTE_objects\VTE_tirepile.p3d</File>
         <Date>08/15/10 19:03:06</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1355,7 +1355,7 @@
     </Template>
     <Template>
         <Name>VTE_umbrella</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_umbrella.p3d</File>
+        <File>pmc\VTE_objects\VTE_umbrella.p3d</File>
         <Date>08/15/10 19:03:17</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1388,7 +1388,7 @@
     </Template>
     <Template>
         <Name>VTE_woodplank</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_woodplank.p3d</File>
+        <File>pmc\VTE_objects\VTE_woodplank.p3d</File>
         <Date>11/17/12 06:06:14</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1421,7 +1421,7 @@
     </Template>
     <Template>
         <Name>VTE_woodwalk</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_woodwalk.p3d</File>
+        <File>pmc\VTE_objects\VTE_woodwalk.p3d</File>
         <Date>11/17/12 08:49:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1454,7 +1454,7 @@
     </Template>
     <Template>
         <Name>VTE_woodwalk_se</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_woodwalk_se.p3d</File>
+        <File>pmc\VTE_objects\VTE_woodwalk_se.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

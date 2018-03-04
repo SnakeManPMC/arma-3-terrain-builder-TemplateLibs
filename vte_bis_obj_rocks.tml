@@ -2,7 +2,7 @@
 <Library name="VTE_bis_obj_rocks" shape="elipse" default_fill="-8355712" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_bis_Skala1_1</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Skala1_1.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Skala1_1.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Skala1_2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Skala1_2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Skala1_2.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Skala1_3</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Skala1_3.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Skala1_3.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Skala1_4</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Skala1_4.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Skala1_4.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Skala1_5</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Skala1_5.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Skala1_5.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Skala3_1</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Skala3_1.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Skala3_1.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Skala3_2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Skala3_2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Skala3_2.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Skala3_3</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Skala3_3.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Skala3_3.p3d</File>
         <Date>12/18/16 21:49:43</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Skala3_4</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Skala3_4.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Skala3_4.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Skala3_5</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Skala3_5.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Skala3_5.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -332,7 +332,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_skala_new</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_skala_new.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_skala_new.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -365,7 +365,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_skala_newK</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_skala_newK.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_skala_newK.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -398,7 +398,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kamen1_piskovec</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kamen1_piskovec.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kamen1_piskovec.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -431,7 +431,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kamen1_zula</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kamen1_zula.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kamen1_zula.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -464,7 +464,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kamen2_piskovec</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kamen2_piskovec.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kamen2_piskovec.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -497,7 +497,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kamen2_zula</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kamen2_zula.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kamen2_zula.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -530,7 +530,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kamen3_piskovec</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kamen3_piskovec.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kamen3_piskovec.p3d</File>
         <Date>12/18/16 21:48:36</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -563,7 +563,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kamen3_zula</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kamen3_zula.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kamen3_zula.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -596,7 +596,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kamen4_piskovec</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kamen4_piskovec.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kamen4_piskovec.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -629,7 +629,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kamen4_zula</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kamen4_zula.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kamen4_zula.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -662,7 +662,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kamen5_piskovec</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kamen5_piskovec.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kamen5_piskovec.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -695,7 +695,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kamen5_zula</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kamen5_zula.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kamen5_zula.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -728,7 +728,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kopa_kameni</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kopa_kameni.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kopa_kameni.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -761,7 +761,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Kopa_kameni2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Kopa_kameni2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Kopa_kameni2.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

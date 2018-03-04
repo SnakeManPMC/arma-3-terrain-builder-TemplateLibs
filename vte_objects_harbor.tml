@@ -2,7 +2,7 @@
 <Library name="VTE_objects_harbor" shape="rectangle" default_fill="-65408" default_outline="-16777216" tex="0">
     <Template>
         <Name>VTE_dockhouse1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_dockhouse1.p3d</File>
+        <File>pmc\VTE_objects\VTE_dockhouse1.p3d</File>
         <Date>08/15/10 18:58:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_dockhouse2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_dockhouse2.p3d</File>
+        <File>pmc\VTE_objects\VTE_dockhouse2.p3d</File>
         <Date>08/15/10 18:58:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_dockhouse3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_dockhouse3.p3d</File>
+        <File>pmc\VTE_objects\VTE_dockhouse3.p3d</File>
         <Date>08/15/10 18:58:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_dockhouse4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_dockhouse4.p3d</File>
+        <File>pmc\VTE_objects\VTE_dockhouse4.p3d</File>
         <Date>08/15/10 18:58:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_pier6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_pier6.p3d</File>
+        <File>pmc\VTE_objects\VTE_pier6.p3d</File>
         <Date>08/15/10 19:02:45</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_pier6conckonec</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_pier6conckonec.p3d</File>
+        <File>pmc\VTE_objects\VTE_pier6conckonec.p3d</File>
         <Date>08/15/10 19:02:45</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_pier6konec</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_pier6konec.p3d</File>
+        <File>pmc\VTE_objects\VTE_pier6konec.p3d</File>
         <Date>08/15/10 19:02:46</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_pierconc6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_pierconc6.p3d</File>
+        <File>pmc\VTE_objects\VTE_pierconc6.p3d</File>
         <Date>08/15/10 19:02:46</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_wharf1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_wharf1.p3d</File>
+        <File>pmc\VTE_objects\VTE_wharf1.p3d</File>
         <Date>08/15/10 19:03:28</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_wharf2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_wharf2.p3d</File>
+        <File>pmc\VTE_objects\VTE_wharf2.p3d</File>
         <Date>05/12/11 10:18:40</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

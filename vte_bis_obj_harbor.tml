@@ -2,7 +2,7 @@
 <Library name="VTE_bis_obj_harbor" shape="rectangle" default_fill="-65408" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_bis_Molo_beton</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Molo_beton.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Molo_beton.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Molo_drevo</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Molo_drevo.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Molo_drevo.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Molo_drevo_bs</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Molo_drevo_bs.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Molo_drevo_bs.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Molo_krychle</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Molo_krychle.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Molo_krychle.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

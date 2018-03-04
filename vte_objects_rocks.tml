@@ -2,7 +2,7 @@
 <Library name="VTE_objects_rocks" shape="elipse" default_fill="-8355712" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_grassrock1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grassrock1.p3d</File>
+        <File>pmc\VTE_objects\VTE_grassrock1.p3d</File>
         <Date>08/15/10 18:58:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_grassrock2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grassrock2.p3d</File>
+        <File>pmc\VTE_objects\VTE_grassrock2.p3d</File>
         <Date>08/15/10 18:58:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_grassrock3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grassrock3.p3d</File>
+        <File>pmc\VTE_objects\VTE_grassrock3.p3d</File>
         <Date>08/15/10 18:58:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_sandrock1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sandrock1.p3d</File>
+        <File>pmc\VTE_objects\VTE_sandrock1.p3d</File>
         <Date>08/15/10 19:02:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_sandrock2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sandrock2.p3d</File>
+        <File>pmc\VTE_objects\VTE_sandrock2.p3d</File>
         <Date>08/15/10 19:02:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_sandrock3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sandrock3.p3d</File>
+        <File>pmc\VTE_objects\VTE_sandrock3.p3d</File>
         <Date>08/15/10 19:02:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

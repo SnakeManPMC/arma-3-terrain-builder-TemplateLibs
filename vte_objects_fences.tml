@@ -2,7 +2,7 @@
 <Library name="VTE_objects_fences" shape="rectangle" default_fill="-16711681" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_bamboofence</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bamboofence.p3d</File>
+        <File>pmc\VTE_objects\VTE_bamboofence.p3d</File>
         <Date>08/15/10 18:57:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_concfence</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_concfence.p3d</File>
+        <File>pmc\VTE_objects\VTE_concfence.p3d</File>
         <Date>08/15/10 18:58:06</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_concfence2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_concfence2.p3d</File>
+        <File>pmc\VTE_objects\VTE_concfence2.p3d</File>
         <Date>08/15/10 18:58:06</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_concfence3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_concfence3.p3d</File>
+        <File>pmc\VTE_objects\VTE_concfence3.p3d</File>
         <Date>08/15/10 18:58:06</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_concfence3b</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_concfence3b.p3d</File>
+        <File>pmc\VTE_objects\VTE_concfence3b.p3d</File>
         <Date>08/15/10 18:58:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_concfence3c</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_concfence3c.p3d</File>
+        <File>pmc\VTE_objects\VTE_concfence3c.p3d</File>
         <Date>08/15/10 18:58:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_concfence3d</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_concfence3d.p3d</File>
+        <File>pmc\VTE_objects\VTE_concfence3d.p3d</File>
         <Date>08/15/10 18:58:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_concfenceend1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_concfenceend1.p3d</File>
+        <File>pmc\VTE_objects\VTE_concfenceend1.p3d</File>
         <Date>08/15/10 18:58:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_concfenceend2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_concfenceend2.p3d</File>
+        <File>pmc\VTE_objects\VTE_concfenceend2.p3d</File>
         <Date>08/15/10 18:58:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_cwirefence</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_cwirefence.p3d</File>
+        <File>pmc\VTE_objects\VTE_cwirefence.p3d</File>
         <Date>08/15/10 18:58:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -332,7 +332,7 @@
     </Template>
     <Template>
         <Name>VTE_picketfence</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_picketfence.p3d</File>
+        <File>pmc\VTE_objects\VTE_picketfence.p3d</File>
         <Date>08/15/10 19:02:45</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -365,7 +365,7 @@
     </Template>
     <Template>
         <Name>VTE_rwall05</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_rwall05.p3d</File>
+        <File>pmc\VTE_objects\VTE_rwall05.p3d</File>
         <Date>08/15/10 19:02:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -398,7 +398,7 @@
     </Template>
     <Template>
         <Name>VTE_rwall1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_rwall1.p3d</File>
+        <File>pmc\VTE_objects\VTE_rwall1.p3d</File>
         <Date>11/17/12 05:58:14</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -431,7 +431,7 @@
     </Template>
     <Template>
         <Name>VTE_rwall2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_rwall2.p3d</File>
+        <File>pmc\VTE_objects\VTE_rwall2.p3d</File>
         <Date>08/15/10 19:02:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -464,7 +464,7 @@
     </Template>
     <Template>
         <Name>VTE_rwallB</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_rwallB.p3d</File>
+        <File>pmc\VTE_objects\VTE_rwallB.p3d</File>
         <Date>08/15/10 19:02:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -497,7 +497,7 @@
     </Template>
     <Template>
         <Name>VTE_rwallL</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_rwallL.p3d</File>
+        <File>pmc\VTE_objects\VTE_rwallL.p3d</File>
         <Date>08/15/10 19:02:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -530,7 +530,7 @@
     </Template>
     <Template>
         <Name>VTE_rwallU</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_rwallU.p3d</File>
+        <File>pmc\VTE_objects\VTE_rwallU.p3d</File>
         <Date>11/17/12 05:58:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -563,7 +563,7 @@
     </Template>
     <Template>
         <Name>VTE_rwallv</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_rwallv.p3d</File>
+        <File>pmc\VTE_objects\VTE_rwallv.p3d</File>
         <Date>08/15/10 19:02:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -596,7 +596,7 @@
     </Template>
     <Template>
         <Name>VTE_sbwall2_5</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sbwall2_5.p3d</File>
+        <File>pmc\VTE_objects\VTE_sbwall2_5.p3d</File>
         <Date>08/15/10 19:02:55</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -629,7 +629,7 @@
     </Template>
     <Template>
         <Name>VTE_sbwall4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sbwall4.p3d</File>
+        <File>pmc\VTE_objects\VTE_sbwall4.p3d</File>
         <Date>08/15/10 19:02:55</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -662,7 +662,7 @@
     </Template>
     <Template>
         <Name>VTE_sbwall4h</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_sbwall4h.p3d</File>
+        <File>pmc\VTE_objects\VTE_sbwall4h.p3d</File>
         <Date>08/15/10 19:02:55</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -695,7 +695,7 @@
     </Template>
     <Template>
         <Name>VTE_townarch</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townarch.p3d</File>
+        <File>pmc\VTE_objects\VTE_townarch.p3d</File>
         <Date>08/15/10 19:03:06</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -728,7 +728,7 @@
     </Template>
     <Template>
         <Name>VTE_townarchend</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_townarchend.p3d</File>
+        <File>pmc\VTE_objects\VTE_townarchend.p3d</File>
         <Date>08/15/10 19:03:06</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -761,7 +761,7 @@
     </Template>
     <Template>
         <Name>VTE_wfence</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_wfence.p3d</File>
+        <File>pmc\VTE_objects\VTE_wfence.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -794,7 +794,7 @@
     </Template>
     <Template>
         <Name>VTE_wfence2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_wfence2.p3d</File>
+        <File>pmc\VTE_objects\VTE_wfence2.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

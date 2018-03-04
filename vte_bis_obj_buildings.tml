@@ -2,7 +2,7 @@
 <Library name="VTE_bis_obj_buildings" shape="rectangle" default_fill="-65536" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_bis_AFbarabizna</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_AFbarabizna.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_AFbarabizna.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_AFDum_mesto2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_AFDum_mesto2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_AFDum_mesto2.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_AFDum_mesto2L</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_AFDum_mesto2L.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_AFDum_mesto2L.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_AFDum_mesto3</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_AFDum_mesto3.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_AFDum_mesto3.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_AFHospoda_mesto</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_AFHospoda_mesto.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_AFHospoda_mesto.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_ammostore2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ammostore2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_ammostore2.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_bouda1</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_bouda1.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_bouda1.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_bouda2_vnitrek</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_bouda2_vnitrek.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_bouda2_vnitrek.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_bouda3</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_bouda3.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_bouda3.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_bouda_plech</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_bouda_plech.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_bouda_plech.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -332,7 +332,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_budova1</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_budova1.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_budova1.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -365,7 +365,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_budova2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_budova2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_budova2.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -398,7 +398,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_budova3</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_budova3.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_budova3.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -431,7 +431,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_budova4</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_budova4.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_budova4.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -464,7 +464,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_budova4_in</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_budova4_in.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_budova4_in.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -497,7 +497,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_budova5</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_budova5.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_budova5.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -530,7 +530,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Cihlovej_dum</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Cihlovej_dum.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Cihlovej_dum.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -563,7 +563,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Cihlovej_dum_in</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Cihlovej_dum_in.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Cihlovej_dum_in.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -596,7 +596,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Cihlovej_dum_mini</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Cihlovej_dum_mini.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Cihlovej_dum_mini.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -629,7 +629,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Deutshe_mini</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Deutshe_mini.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Deutshe_mini.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -662,7 +662,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dhangar_brownskrin</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dhangar_brownskrin.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dhangar_brownskrin.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -695,7 +695,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dhangar_knihovna</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dhangar_knihovna.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dhangar_knihovna.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -728,7 +728,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dhangar_psacistul</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dhangar_psacistul.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dhangar_psacistul.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -761,7 +761,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dulni_bs</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dulni_bs.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dulni_bs.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -794,7 +794,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_dum01</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_dum01.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_dum01.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -827,7 +827,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dumruina</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dumruina.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dumruina.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -860,7 +860,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dumruina_mini</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dumruina_mini.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dumruina_mini.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -893,7 +893,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dum_m2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dum_m2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dum_m2.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -926,7 +926,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dum_mesto</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dum_mesto.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dum_mesto.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -959,7 +959,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dum_mesto2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dum_mesto2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dum_mesto2.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -992,7 +992,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dum_mesto2L</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dum_mesto2L.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dum_mesto2L.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1025,7 +1025,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Dum_mesto3</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Dum_mesto3.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Dum_mesto3.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1058,7 +1058,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_dum_mesto_in</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_dum_mesto_in.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_dum_mesto_in.p3d</File>
         <Date>11/18/12 05:56:49</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1091,7 +1091,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_dum_olezlina</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_dum_olezlina.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_dum_olezlina.p3d</File>
         <Date>11/18/12 05:56:49</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1124,7 +1124,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_dum_zboreny</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_dum_zboreny.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_dum_zboreny.p3d</File>
         <Date>11/18/12 05:56:49</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1157,7 +1157,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_dum_zboreny_Lidice</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_dum_zboreny_Lidice.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_dum_zboreny_Lidice.p3d</File>
         <Date>11/18/12 05:56:49</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1190,7 +1190,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_dum_zboreny_total</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_dum_zboreny_total.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_dum_zboreny_total.p3d</File>
         <Date>11/18/12 05:56:49</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1223,7 +1223,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_hospital</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_hospital.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_hospital.p3d</File>
         <Date>11/18/12 05:56:49</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1256,7 +1256,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_hospoda_mesto</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_hospoda_mesto.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_hospoda_mesto.p3d</File>
         <Date>11/18/12 05:56:49</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1289,7 +1289,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Majak</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Majak.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Majak.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1322,7 +1322,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_skola</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_skola.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_skola.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1355,7 +1355,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Tovarna1</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Tovarna1.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Tovarna1.p3d</File>
         <Date>11/18/12 05:56:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

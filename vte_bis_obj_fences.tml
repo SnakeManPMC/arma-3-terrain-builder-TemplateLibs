@@ -2,7 +2,7 @@
 <Library name="VTE_bis_obj_fences" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_bis_AFNewplot2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_AFNewplot2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_AFNewplot2.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_brana02nodoor</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_brana02nodoor.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_brana02nodoor.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_DD_pletivo</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_DD_pletivo.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_DD_pletivo.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_DD_pletivo_sl</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_DD_pletivo_sl.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_DD_pletivo_sl.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_jablon</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_jablon.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_jablon.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_jezek_kov</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_jezek_kov.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_jezek_kov.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Newplot2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Newplot2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Newplot2.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_pletivo</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_pletivo.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_pletivo.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_pletivo_dira</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_pletivo_dira.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_pletivo_dira.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_pletivo_wired</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_pletivo_wired.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_pletivo_wired.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -332,7 +332,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_pletivo_wired_branaL</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_pletivo_wired_branaL.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_pletivo_wired_branaL.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -365,7 +365,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_pletivo_wired_branaP</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_pletivo_wired_branaP.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_pletivo_wired_branaP.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -398,7 +398,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_plot_green_cihlsloup</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_plot_green_cihlsloup.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_plot_green_cihlsloup.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -467,7 +467,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_plot_green_draty</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_plot_green_draty.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_plot_green_draty.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -536,7 +536,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_plot_provizorni</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_plot_provizorni.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_plot_provizorni.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -569,7 +569,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_plot_rust_cihlsloup</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_plot_rust_cihlsloup.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_plot_rust_cihlsloup.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -638,7 +638,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_plot_rust_draty</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_plot_rust_draty.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_plot_rust_draty.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -707,7 +707,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_plot_vlnplech1</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_plot_vlnplech1.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_plot_vlnplech1.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -830,7 +830,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_plot_zed_drevo1</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_plot_zed_drevo1.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_plot_zed_drevo1.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -899,7 +899,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_plot_zed_drevo2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_plot_zed_drevo2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_plot_zed_drevo2.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

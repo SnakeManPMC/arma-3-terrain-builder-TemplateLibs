@@ -2,7 +2,7 @@
 <Library name="VTE_bis_obj_roads" shape="rectangle" default_fill="-16777216" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_bis_asf10_100</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf10_100.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_asf10_100.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_asf10_25</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf10_25.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_asf10_25.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_asf10_50</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf10_50.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_asf10_50.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_asf10_75</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf10_75.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_asf10_75.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_asf12</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf12.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_asf12.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_asf25</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf25.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_asf25.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_asf6</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf6.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_asf6.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_asf6konec</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_asf6konec.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_asf6konec.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_ces10_100</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces10_100.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_ces10_100.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_ces10_25</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces10_25.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_ces10_25.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -332,7 +332,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_ces10_50</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces10_50.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_ces10_50.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -365,7 +365,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_ces10_75</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces10_75.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_ces10_75.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -398,7 +398,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_ces12</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces12.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_ces12.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -431,7 +431,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_ces25</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces25.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_ces25.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -464,7 +464,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_ces6</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces6.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_ces6.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -497,7 +497,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_ces6konec</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_ces6konec.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_ces6konec.p3d</File>
         <Date>11/18/12 05:56:48</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -530,7 +530,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_kos12</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kos12.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_kos12.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -563,7 +563,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_kos25</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kos25.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_kos25.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -596,7 +596,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_kos6</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kos6.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_kos6.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -629,7 +629,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_kos6konec</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kos6konec.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_kos6konec.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -662,7 +662,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_sil10_100</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil10_100.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_sil10_100.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -695,7 +695,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_sil10_25</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil10_25.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_sil10_25.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -728,7 +728,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_sil10_50</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil10_50.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_sil10_50.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -761,7 +761,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_sil10_75</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil10_75.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_sil10_75.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -794,7 +794,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_sil12</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil12.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_sil12.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -827,7 +827,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_sil25</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil25.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_sil25.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -860,7 +860,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_sil6</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil6.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_sil6.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -893,7 +893,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_sil6konec</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_sil6konec.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_sil6konec.p3d</File>
         <Date>11/18/12 05:56:51</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -926,7 +926,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_kr_new_kos</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kr_new_kos.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_kr_new_kos.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -959,7 +959,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_kr_new_kos_kos_t</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_kr_new_kos_kos_t.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_kr_new_kos_kos_t.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

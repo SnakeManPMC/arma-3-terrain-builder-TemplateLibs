@@ -2,7 +2,7 @@
 <Library name="VTE_objects_roads" shape="rectangle" default_fill="-32768" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_gravel10_100</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_gravel10_100.p3d</File>
+        <File>pmc\VTE_objects\VTE_gravel10_100.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_gravel10_25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_gravel10_25.p3d</File>
+        <File>pmc\VTE_objects\VTE_gravel10_25.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_gravel10_50</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_gravel10_50.p3d</File>
+        <File>pmc\VTE_objects\VTE_gravel10_50.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_gravel10_75</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_gravel10_75.p3d</File>
+        <File>pmc\VTE_objects\VTE_gravel10_75.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_gravel12</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_gravel12.p3d</File>
+        <File>pmc\VTE_objects\VTE_gravel12.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_gravel25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_gravel25.p3d</File>
+        <File>pmc\VTE_objects\VTE_gravel25.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_gravel6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_gravel6.p3d</File>
+        <File>pmc\VTE_objects\VTE_gravel6.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_gravel6konec</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_gravel6konec.p3d</File>
+        <File>pmc\VTE_objects\VTE_gravel6konec.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpaddy10_100</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpaddy10_100.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpaddy10_100.p3d</File>
         <Date>11/17/12 08:18:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpaddy10_25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpaddy10_25.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpaddy10_25.p3d</File>
         <Date>11/17/12 08:19:36</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -332,7 +332,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpaddy10_50</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpaddy10_50.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpaddy10_50.p3d</File>
         <Date>11/17/12 08:20:55</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -365,7 +365,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpaddy10_75</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpaddy10_75.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpaddy10_75.p3d</File>
         <Date>11/17/12 08:22:12</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -398,7 +398,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpaddy12</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpaddy12.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpaddy12.p3d</File>
         <Date>11/17/12 08:23:29</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -431,7 +431,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpaddy25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpaddy25.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpaddy25.p3d</File>
         <Date>11/17/12 08:24:42</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -464,7 +464,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpaddy6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpaddy6.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpaddy6.p3d</File>
         <Date>11/17/12 08:25:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -497,7 +497,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpaddy6konec</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpaddy6konec.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpaddy6konec.p3d</File>
         <Date>11/17/12 08:27:12</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -530,7 +530,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpath10_100</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpath10_100.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpath10_100.p3d</File>
         <Date>11/17/12 06:12:35</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -563,7 +563,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpath10_25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpath10_25.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpath10_25.p3d</File>
         <Date>11/17/12 06:13:02</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -596,7 +596,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpath10_50</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpath10_50.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpath10_50.p3d</File>
         <Date>11/17/12 06:13:19</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -629,7 +629,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpath10_75</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpath10_75.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpath10_75.p3d</File>
         <Date>11/17/12 06:13:37</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -662,7 +662,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpath12</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpath12.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpath12.p3d</File>
         <Date>11/17/12 06:13:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -695,7 +695,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpath25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpath25.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpath25.p3d</File>
         <Date>11/17/12 06:14:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -728,7 +728,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpath6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpath6.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpath6.p3d</File>
         <Date>11/17/12 06:14:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -761,7 +761,7 @@
     </Template>
     <Template>
         <Name>VTE_itrailpath6konec</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_itrailpath6konec.p3d</File>
+        <File>pmc\VTE_objects\VTE_itrailpath6konec.p3d</File>
         <Date>11/17/12 06:14:36</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -794,7 +794,7 @@
     </Template>
     <Template>
         <Name>VTE_swamproad12</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_swamproad12.p3d</File>
+        <File>pmc\VTE_objects\VTE_swamproad12.p3d</File>
         <Date>08/15/10 19:02:58</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -827,7 +827,7 @@
     </Template>
     <Template>
         <Name>VTE_swamproad25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_swamproad25.p3d</File>
+        <File>pmc\VTE_objects\VTE_swamproad25.p3d</File>
         <Date>08/15/10 19:02:58</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -860,7 +860,7 @@
     </Template>
     <Template>
         <Name>VTE_swamproad6konec</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_swamproad6konec.p3d</File>
+        <File>pmc\VTE_objects\VTE_swamproad6konec.p3d</File>
         <Date>08/15/10 19:02:58</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -893,7 +893,7 @@
     </Template>
     <Template>
         <Name>VTE_swamproadl</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_swamproadl.p3d</File>
+        <File>pmc\VTE_objects\VTE_swamproadl.p3d</File>
         <Date>08/15/10 19:02:58</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -926,7 +926,7 @@
     </Template>
     <Template>
         <Name>VTE_swamproadt</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_swamproadt.p3d</File>
+        <File>pmc\VTE_objects\VTE_swamproadt.p3d</File>
         <Date>08/15/10 19:02:58</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -959,7 +959,7 @@
     </Template>
     <Template>
         <Name>VTE_swamproadx</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_swamproadx.p3d</File>
+        <File>pmc\VTE_objects\VTE_swamproadx.p3d</File>
         <Date>11/14/12 01:03:17</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -992,7 +992,7 @@
     </Template>
     <Template>
         <Name>VTE_swamproadx2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_swamproadx2.p3d</File>
+        <File>pmc\VTE_objects\VTE_swamproadx2.p3d</File>
         <Date>11/17/12 08:36:42</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1025,7 +1025,7 @@
     </Template>
     <Template>
         <Name>VTE_swamproadx3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_swamproadx3.p3d</File>
+        <File>pmc\VTE_objects\VTE_swamproadx3.p3d</File>
         <Date>08/15/10 19:02:59</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1058,7 +1058,7 @@
     </Template>
     <Template>
         <Name>VTE_trailpath10_100</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_trailpath10_100.p3d</File>
+        <File>pmc\VTE_objects\VTE_trailpath10_100.p3d</File>
         <Date>11/17/12 06:15:11</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1091,7 +1091,7 @@
     </Template>
     <Template>
         <Name>VTE_trailpath10_25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_trailpath10_25.p3d</File>
+        <File>pmc\VTE_objects\VTE_trailpath10_25.p3d</File>
         <Date>11/17/12 06:15:27</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1124,7 +1124,7 @@
     </Template>
     <Template>
         <Name>VTE_trailpath10_50</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_trailpath10_50.p3d</File>
+        <File>pmc\VTE_objects\VTE_trailpath10_50.p3d</File>
         <Date>11/17/12 06:15:45</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1157,7 +1157,7 @@
     </Template>
     <Template>
         <Name>VTE_trailpath10_75</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_trailpath10_75.p3d</File>
+        <File>pmc\VTE_objects\VTE_trailpath10_75.p3d</File>
         <Date>11/17/12 06:16:03</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1190,7 +1190,7 @@
     </Template>
     <Template>
         <Name>VTE_trailpath12</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_trailpath12.p3d</File>
+        <File>pmc\VTE_objects\VTE_trailpath12.p3d</File>
         <Date>11/17/12 06:16:17</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1223,7 +1223,7 @@
     </Template>
     <Template>
         <Name>VTE_trailpath25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_trailpath25.p3d</File>
+        <File>pmc\VTE_objects\VTE_trailpath25.p3d</File>
         <Date>11/17/12 06:16:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1256,7 +1256,7 @@
     </Template>
     <Template>
         <Name>VTE_trailpath6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_trailpath6.p3d</File>
+        <File>pmc\VTE_objects\VTE_trailpath6.p3d</File>
         <Date>11/17/12 06:17:28</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1289,7 +1289,7 @@
     </Template>
     <Template>
         <Name>VTE_trailpath6konec</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_trailpath6konec.p3d</File>
+        <File>pmc\VTE_objects\VTE_trailpath6konec.p3d</File>
         <Date>11/17/12 06:17:41</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

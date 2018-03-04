@@ -2,7 +2,7 @@
 <Library name="VTE_objects_bushes" shape="elipse" default_fill="-16744448" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_bush01</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush01.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush01.p3d</File>
         <Date>11/14/12 00:19:28</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_bush02</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush02.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush02.p3d</File>
         <Date>11/17/12 08:50:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_bush03</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush03.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush03.p3d</File>
         <Date>09/18/10 04:34:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_bush04</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush04.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush04.p3d</File>
         <Date>11/17/12 08:51:38</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_bush05</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush05.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush05.p3d</File>
         <Date>11/22/12 12:01:10</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_bush06</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush06.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush06.p3d</File>
         <Date>11/22/12 12:01:43</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -200,7 +200,7 @@
     </Template>
     <Template>
         <Name>VTE_bush07</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush07.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush07.p3d</File>
         <Date>11/22/12 12:02:11</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -233,7 +233,7 @@
     </Template>
     <Template>
         <Name>VTE_bush08</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush08.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush08.p3d</File>
         <Date>11/22/12 12:02:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -266,7 +266,7 @@
     </Template>
     <Template>
         <Name>VTE_bush09</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush09.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush09.p3d</File>
         <Date>11/22/12 12:02:53</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -299,7 +299,7 @@
     </Template>
     <Template>
         <Name>VTE_bush10</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush10.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush10.p3d</File>
         <Date>11/22/12 12:03:15</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -332,7 +332,7 @@
     </Template>
     <Template>
         <Name>VTE_bush11</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush11.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush11.p3d</File>
         <Date>11/22/12 12:03:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -365,7 +365,7 @@
     </Template>
     <Template>
         <Name>VTE_bush12</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush12.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush12.p3d</File>
         <Date>11/22/12 12:03:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -398,7 +398,7 @@
     </Template>
     <Template>
         <Name>VTE_bush13</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush13.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush13.p3d</File>
         <Date>11/22/12 12:04:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -431,7 +431,7 @@
     </Template>
     <Template>
         <Name>VTE_bush14</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush14.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush14.p3d</File>
         <Date>11/22/12 12:04:25</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -464,7 +464,7 @@
     </Template>
     <Template>
         <Name>VTE_bush15</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush15.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush15.p3d</File>
         <Date>11/22/12 12:04:43</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -497,7 +497,7 @@
     </Template>
     <Template>
         <Name>VTE_bush16</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush16.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush16.p3d</File>
         <Date>11/22/12 12:05:01</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -530,7 +530,7 @@
     </Template>
     <Template>
         <Name>VTE_bush17</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush17.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush17.p3d</File>
         <Date>11/22/12 12:05:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -563,7 +563,7 @@
     </Template>
     <Template>
         <Name>VTE_bush18</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush18.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush18.p3d</File>
         <Date>11/22/12 12:05:39</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -596,7 +596,7 @@
     </Template>
     <Template>
         <Name>VTE_bush19</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush19.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush19.p3d</File>
         <Date>11/22/12 12:05:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -629,7 +629,7 @@
     </Template>
     <Template>
         <Name>VTE_bush20</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush20.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush20.p3d</File>
         <Date>11/22/12 12:06:17</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -662,7 +662,7 @@
     </Template>
     <Template>
         <Name>VTE_bush21</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush21.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush21.p3d</File>
         <Date>11/22/12 12:06:34</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -695,7 +695,7 @@
     </Template>
     <Template>
         <Name>VTE_bush22</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush22.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush22.p3d</File>
         <Date>11/22/12 12:06:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -728,7 +728,7 @@
     </Template>
     <Template>
         <Name>VTE_bush23</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush23.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush23.p3d</File>
         <Date>11/22/12 12:07:11</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -761,7 +761,7 @@
     </Template>
     <Template>
         <Name>VTE_bush24</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush24.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush24.p3d</File>
         <Date>11/22/12 12:07:28</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -794,7 +794,7 @@
     </Template>
     <Template>
         <Name>VTE_bush25</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush25.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush25.p3d</File>
         <Date>11/22/12 12:07:46</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -827,7 +827,7 @@
     </Template>
     <Template>
         <Name>VTE_bush26</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush26.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush26.p3d</File>
         <Date>11/22/12 12:08:06</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -860,7 +860,7 @@
     </Template>
     <Template>
         <Name>VTE_bush27</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush27.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush27.p3d</File>
         <Date>11/22/12 12:08:24</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -893,7 +893,7 @@
     </Template>
     <Template>
         <Name>VTE_bush28</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush28.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush28.p3d</File>
         <Date>11/22/12 12:08:41</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -926,7 +926,7 @@
     </Template>
     <Template>
         <Name>VTE_bush29</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush29.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush29.p3d</File>
         <Date>11/22/12 12:08:59</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -959,7 +959,7 @@
     </Template>
     <Template>
         <Name>VTE_bush30</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush30.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush30.p3d</File>
         <Date>11/22/12 12:09:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -992,7 +992,7 @@
     </Template>
     <Template>
         <Name>VTE_bush31</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush31.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush31.p3d</File>
         <Date>11/22/12 12:09:39</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1025,7 +1025,7 @@
     </Template>
     <Template>
         <Name>VTE_bush32</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush32.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush32.p3d</File>
         <Date>11/22/12 12:09:58</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1058,7 +1058,7 @@
     </Template>
     <Template>
         <Name>VTE_bush33</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush33.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush33.p3d</File>
         <Date>11/22/12 11:58:36</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1091,7 +1091,7 @@
     </Template>
     <Template>
         <Name>VTE_bush34</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush34.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush34.p3d</File>
         <Date>11/22/12 11:58:49</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1124,7 +1124,7 @@
     </Template>
     <Template>
         <Name>VTE_bush35</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush35.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush35.p3d</File>
         <Date>11/22/12 12:10:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1157,7 +1157,7 @@
     </Template>
     <Template>
         <Name>VTE_bush36</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush36.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush36.p3d</File>
         <Date>11/22/12 12:11:14</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1190,7 +1190,7 @@
     </Template>
     <Template>
         <Name>VTE_bush37</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush37.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush37.p3d</File>
         <Date>11/22/12 12:11:31</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1223,7 +1223,7 @@
     </Template>
     <Template>
         <Name>VTE_bush38</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush38.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush38.p3d</File>
         <Date>11/22/12 12:11:54</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1256,7 +1256,7 @@
     </Template>
     <Template>
         <Name>VTE_bush_dry_01</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush_dry_01.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush_dry_01.p3d</File>
         <Date>09/24/10 13:41:26</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1289,7 +1289,7 @@
     </Template>
     <Template>
         <Name>VTE_bush_dry_02</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush_dry_02.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush_dry_02.p3d</File>
         <Date>09/24/10 13:42:11</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1322,7 +1322,7 @@
     </Template>
     <Template>
         <Name>VTE_bush_dry_03</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_bush_dry_03.p3d</File>
+        <File>pmc\VTE_objects\VTE_bush_dry_03.p3d</File>
         <Date>09/24/10 13:42:37</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1355,7 +1355,7 @@
     </Template>
     <Template>
         <Name>VTE_drygrass1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_drygrass1.p3d</File>
+        <File>pmc\VTE_objects\VTE_drygrass1.p3d</File>
         <Date>11/17/12 07:53:24</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1388,7 +1388,7 @@
     </Template>
     <Template>
         <Name>VTE_drygrass2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_drygrass2.p3d</File>
+        <File>pmc\VTE_objects\VTE_drygrass2.p3d</File>
         <Date>11/17/12 10:34:16</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1421,7 +1421,7 @@
     </Template>
     <Template>
         <Name>VTE_grass</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grass.p3d</File>
+        <File>pmc\VTE_objects\VTE_grass.p3d</File>
         <Date>11/17/12 07:57:10</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1454,7 +1454,7 @@
     </Template>
     <Template>
         <Name>VTE_grass02</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grass02.p3d</File>
+        <File>pmc\VTE_objects\VTE_grass02.p3d</File>
         <Date>11/22/12 12:13:27</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1487,7 +1487,7 @@
     </Template>
     <Template>
         <Name>VTE_grass03</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grass03.p3d</File>
+        <File>pmc\VTE_objects\VTE_grass03.p3d</File>
         <Date>06/30/13 17:26:26</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1520,7 +1520,7 @@
     </Template>
     <Template>
         <Name>VTE_grass04</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grass04.p3d</File>
+        <File>pmc\VTE_objects\VTE_grass04.p3d</File>
         <Date>11/22/12 12:14:04</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1553,7 +1553,7 @@
     </Template>
     <Template>
         <Name>VTE_grass05</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grass05.p3d</File>
+        <File>pmc\VTE_objects\VTE_grass05.p3d</File>
         <Date>11/22/12 12:14:24</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1586,7 +1586,7 @@
     </Template>
     <Template>
         <Name>VTE_grasspatch</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grasspatch.p3d</File>
+        <File>pmc\VTE_objects\VTE_grasspatch.p3d</File>
         <Date>11/17/12 07:58:41</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1619,7 +1619,7 @@
     </Template>
     <Template>
         <Name>VTE_grasspatch2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grasspatch2.p3d</File>
+        <File>pmc\VTE_objects\VTE_grasspatch2.p3d</File>
         <Date>11/17/12 07:59:14</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1652,7 +1652,7 @@
     </Template>
     <Template>
         <Name>VTE_grass_tall_01</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_grass_tall_01.p3d</File>
+        <File>pmc\VTE_objects\VTE_grass_tall_01.p3d</File>
         <Date>11/22/12 12:13:05</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1685,7 +1685,7 @@
     </Template>
     <Template>
         <Name>VTE_iban1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_iban1.p3d</File>
+        <File>pmc\VTE_objects\VTE_iban1.p3d</File>
         <Date>11/14/12 00:21:46</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1718,7 +1718,7 @@
     </Template>
     <Template>
         <Name>VTE_iban2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_iban2.p3d</File>
+        <File>pmc\VTE_objects\VTE_iban2.p3d</File>
         <Date>11/17/12 08:01:23</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1751,7 +1751,7 @@
     </Template>
     <Template>
         <Name>VTE_iban3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_iban3.p3d</File>
+        <File>pmc\VTE_objects\VTE_iban3.p3d</File>
         <Date>11/17/12 08:02:08</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1784,7 +1784,7 @@
     </Template>
     <Template>
         <Name>VTE_ibush01</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_ibush01.p3d</File>
+        <File>pmc\VTE_objects\VTE_ibush01.p3d</File>
         <Date>09/24/10 15:14:45</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1817,7 +1817,7 @@
     </Template>
     <Template>
         <Name>VTE_iplant1</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_iplant1.p3d</File>
+        <File>pmc\VTE_objects\VTE_iplant1.p3d</File>
         <Date>11/14/12 00:03:44</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1850,7 +1850,7 @@
     </Template>
     <Template>
         <Name>VTE_iplant2</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_iplant2.p3d</File>
+        <File>pmc\VTE_objects\VTE_iplant2.p3d</File>
         <Date>11/14/12 00:04:22</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1883,7 +1883,7 @@
     </Template>
     <Template>
         <Name>VTE_iplant3</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_iplant3.p3d</File>
+        <File>pmc\VTE_objects\VTE_iplant3.p3d</File>
         <Date>11/14/12 00:04:59</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1916,7 +1916,7 @@
     </Template>
     <Template>
         <Name>VTE_iplant4</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_iplant4.p3d</File>
+        <File>pmc\VTE_objects\VTE_iplant4.p3d</File>
         <Date>11/14/12 00:05:35</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1949,7 +1949,7 @@
     </Template>
     <Template>
         <Name>VTE_iplant5</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_iplant5.p3d</File>
+        <File>pmc\VTE_objects\VTE_iplant5.p3d</File>
         <Date>11/14/12 00:06:11</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -1982,7 +1982,7 @@
     </Template>
     <Template>
         <Name>VTE_iplant6</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_iplant6.p3d</File>
+        <File>pmc\VTE_objects\VTE_iplant6.p3d</File>
         <Date>11/14/12 00:06:56</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2015,7 +2015,7 @@
     </Template>
     <Template>
         <Name>VTE_iplant7</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_iplant7.p3d</File>
+        <File>pmc\VTE_objects\VTE_iplant7.p3d</File>
         <Date>11/14/12 00:07:32</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2048,7 +2048,7 @@
     </Template>
     <Template>
         <Name>VTE_plant01</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_plant01.p3d</File>
+        <File>pmc\VTE_objects\VTE_plant01.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2081,7 +2081,7 @@
     </Template>
     <Template>
         <Name>VTE_plant02</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_plant02.p3d</File>
+        <File>pmc\VTE_objects\VTE_plant02.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2114,7 +2114,7 @@
     </Template>
     <Template>
         <Name>VTE_plant03</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_plant03.p3d</File>
+        <File>pmc\VTE_objects\VTE_plant03.p3d</File>
         <Date>11/17/12 11:07:07</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2147,7 +2147,7 @@
     </Template>
     <Template>
         <Name>VTE_plant04</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_plant04.p3d</File>
+        <File>pmc\VTE_objects\VTE_plant04.p3d</File>
         <Date>11/14/12 02:49:21</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2180,7 +2180,7 @@
     </Template>
     <Template>
         <Name>VTE_plant05</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_plant05.p3d</File>
+        <File>pmc\VTE_objects\VTE_plant05.p3d</File>
         <Date>11/14/12 02:48:33</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2213,7 +2213,7 @@
     </Template>
     <Template>
         <Name>VTE_plant06</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_plant06.p3d</File>
+        <File>pmc\VTE_objects\VTE_plant06.p3d</File>
         <Date>11/14/12 02:47:52</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -2246,7 +2246,7 @@
     </Template>
     <Template>
         <Name>VTE_tallgrass</Name>
-        <File>O:\arma3work\pmc\VTE_objects\VTE_tallgrass.p3d</File>
+        <File>pmc\VTE_objects\VTE_tallgrass.p3d</File>
         <Date>10/14/12 06:18:18</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>

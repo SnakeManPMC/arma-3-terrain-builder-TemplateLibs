@@ -2,7 +2,7 @@
 <Library name="VTE_bis_obj_trees" shape="elipse" default_fill="-16760832" default_outline="-1" tex="0">
     <Template>
         <Name>VTE_bis_Akat02S</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Akat02S.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Akat02S.p3d</File>
         <Date>11/18/12 05:56:47</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -35,7 +35,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Krovi</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Krovi.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Krovi.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -68,7 +68,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Krovi2</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Krovi2.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Krovi2.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -101,7 +101,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Krovi4</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Krovi4.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Krovi4.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -134,7 +134,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Krovi_bigest</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Krovi_bigest.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Krovi_bigest.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
@@ -167,7 +167,7 @@
     </Template>
     <Template>
         <Name>VTE_bis_Krovi_long</Name>
-        <File>O:\arma3work\pmc\VTE_bis_obj\VTE_bis_Krovi_long.p3d</File>
+        <File>pmc\VTE_bis_obj\VTE_bis_Krovi_long.p3d</File>
         <Date>11/18/12 05:56:50</Date>
         <Archive></Archive>
         <Fill>-16777216</Fill>
