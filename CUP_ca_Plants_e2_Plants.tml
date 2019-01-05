@@ -3,7 +3,7 @@
     <Template>
         <Name>p_articum_summer</Name>
         <File>ca\plants_e2\Plants\p_articum_summer.p3d</File>
-        <Date>03/02/17 10:57:37</Date>
+        <Date>01/05/19 20:17:02</Date>
         <Archive></Archive>
         <Fill>-16760832</Fill>
         <Outline>-16777216</Outline>
@@ -36,7 +36,7 @@
     <Template>
         <Name>p_carduus_summer</Name>
         <File>ca\plants_e2\Plants\p_carduus_summer.p3d</File>
-        <Date>03/02/17 10:57:37</Date>
+        <Date>01/05/19 20:17:02</Date>
         <Archive></Archive>
         <Fill>-16760832</Fill>
         <Outline>-16777216</Outline>
@@ -69,7 +69,7 @@
     <Template>
         <Name>p_Helianthus_summer</Name>
         <File>ca\plants_e2\Plants\p_Helianthus_summer.p3d</File>
-        <Date>03/02/17 10:57:37</Date>
+        <Date>01/05/19 20:17:02</Date>
         <Archive></Archive>
         <Fill>-16760832</Fill>
         <Outline>-16777216</Outline>
@@ -102,7 +102,7 @@
     <Template>
         <Name>p_heracleum_summer</Name>
         <File>ca\plants_e2\Plants\p_heracleum_summer.p3d</File>
-        <Date>03/02/17 10:57:37</Date>
+        <Date>01/05/19 20:17:02</Date>
         <Archive></Archive>
         <Fill>-16760832</Fill>
         <Outline>-16777216</Outline>
@@ -135,7 +135,7 @@
     <Template>
         <Name>p_Phragmites_summer</Name>
         <File>ca\plants_e2\Plants\p_Phragmites_summer.p3d</File>
-        <Date>03/02/17 10:57:37</Date>
+        <Date>01/05/19 20:17:02</Date>
         <Archive></Archive>
         <Fill>-16760832</Fill>
         <Outline>-16777216</Outline>
@@ -167,8 +167,8 @@
     </Template>
     <Template>
         <Name>p_pumpkin2_summer</Name>
-        <File>ca\plants_e2\Plants\p_pumpkin2_summer.p3d</File>
-        <Date>03/02/17 10:57:37</Date>
+        <File>ca\plants_e2\plants\p_pumpkin2_summer.p3d</File>
+        <Date>12/26/18 19:43:24</Date>
         <Archive></Archive>
         <Fill>-16760832</Fill>
         <Outline>-16777216</Outline>
@@ -186,22 +186,22 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.712069</BBRadius>
+        <BBHScale>2.225311</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.058089" Y="-0.159756" Z="-0.618158" />
+        <BoundingMax X="0.111061" Y="0.538499" Z="0.805980" />
+        <BoundingCenter X="-1.473514" Y="0.189371" Z="0.093911" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>p_pumpkin_summer</Name>
         <File>ca\plants_e2\Plants\p_pumpkin_summer.p3d</File>
-        <Date>03/02/17 10:57:37</Date>
+        <Date>01/05/19 20:17:02</Date>
         <Archive></Archive>
         <Fill>-16760832</Fill>
         <Outline>-16777216</Outline>
