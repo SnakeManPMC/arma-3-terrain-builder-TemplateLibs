@@ -1,0 +1,432 @@
+<?xml version="1.0" ?>
+<Library name="A3_Structures_Furniture" shape="rectangle" default_fill="-4144960" default_outline="-16777216" tex="0">
+    <Template>
+        <Name>Bench_F</Name>
+        <File>a3\structures_f\Furniture\Bench_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1474087799</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>CashDesk_F</Name>
+        <File>a3\structures_f\Furniture\CashDesk_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1954822803</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ChairPlastic_F</Name>
+        <File>a3\structures_f\furniture\chairplastic_f.p3d</File>
+        <Date>07/10/19 18:36:08</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>13800098</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.371228</BBRadius>
+        <BBHScale>0.924289</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.482102</Height>
+        <BoundingMin X="-0.343494" Y="-0.008394" Z="-0.371228" />
+        <BoundingMax X="0.342750" Y="0.955810" Z="0.371228" />
+        <BoundingCenter X="-0.000372" Y="0.473708" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ChairWood_F</Name>
+        <File>a3\structures_f\Furniture\ChairWood_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2114040889</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>HeatPump_F</Name>
+        <File>a3\structures_f\Furniture\HeatPump_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-24537985</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Icebox_F</Name>
+        <File>a3\structures_f\Furniture\Icebox_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2056226439</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Metal_rack_F</Name>
+        <File>a3\structures_f\Furniture\Metal_rack_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-661630314</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Metal_rack_Tall_F</Name>
+        <File>a3\structures_f\Furniture\Metal_rack_Tall_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-637391772</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Metal_wooden_rack_F</Name>
+        <File>a3\structures_f\Furniture\Metal_wooden_rack_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1115385009</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Rack_F</Name>
+        <File>a3\structures_f\Furniture\Rack_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>167342590</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ShelvesMetal_F</Name>
+        <File>a3\structures_f\Furniture\ShelvesMetal_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1150220442</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>ShelvesWooden_blue_F</Name>
+        <File>a3\structures_f\Furniture\ShelvesWooden_blue_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-470606526</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>TableDesk_F</Name>
+        <File>a3\structures_f\Furniture\TableDesk_F.p3d</File>
+        <Date>12/21/19 16:30:06</Date>
+        <Archive></Archive>
+        <Fill>-4144960</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1041268082</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>
