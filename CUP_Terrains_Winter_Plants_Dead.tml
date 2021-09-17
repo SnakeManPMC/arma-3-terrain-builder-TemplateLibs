@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="CUP_Winter_Objects_Dead" shape="elipse" default_fill="-16744448" default_outline="-16777216" tex="0">
+<Library name="CUP_Terrains_Winter_Plants_Dead" shape="elipse" default_fill="-8323200" default_outline="-16777216" tex="0">
     <Template>
         <Name>cup_misc_FallenSpruceW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_misc_FallenSpruceW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <File>cup\terrains\cup_terrains_winter_plants\dead\cup_misc_fallensprucew.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
         <Hash>303938783</Hash>
@@ -21,24 +21,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.184115</BBRadius>
+        <BBHScale>0.431349</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.084496" Y="-1.252235" Z="-3.896635" />
+        <BoundingMax X="2.250533" Y="2.361234" Z="8.471595" />
+        <BoundingCenter X="-0.416981" Y="0.554500" Z="2.287480" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>cup_misc_FallenTree1W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_misc_FallenTree1W.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <File>cup\terrains\cup_terrains_winter_plants\dead\cup_misc_fallentree1w.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
         <Hash>-920903014</Hash>
@@ -54,24 +54,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>6.982593</BBRadius>
+        <BBHScale>0.780391</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-7.109713" Y="-0.640864" Z="-6.736943" />
+        <BoundingMax X="3.788587" Y="2.528449" Z="7.228242" />
+        <BoundingCenter X="-1.660563" Y="0.943793" Z="0.245649" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>cup_misc_FallenTree2W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_misc_FallenTree2W.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <File>cup\terrains\cup_terrains_winter_plants\dead\cup_misc_fallentree2w.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
         <Hash>-920837415</Hash>
@@ -87,24 +87,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>10.839804</BBRadius>
+        <BBHScale>0.249354</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-2.282866" Y="-2.035904" Z="-10.166734" />
+        <BoundingMax X="3.123026" Y="2.115733" Z="11.512874" />
+        <BoundingCenter X="0.420080" Y="0.039915" Z="0.673070" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>cup_misc_stub1W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_misc_stub1W.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <File>cup\terrains\cup_terrains_winter_plants\dead\cup_misc_stub1w.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
         <Hash>-442049850</Hash>
@@ -120,24 +120,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>0.802614</BBRadius>
+        <BBHScale>1.118794</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-0.712749" Y="-0.357405" Z="-0.822328" />
+        <BoundingMax X="1.083171" Y="0.564063" Z="0.782900" />
+        <BoundingCenter X="0.185211" Y="0.103329" Z="-0.019714" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>cup_misc_stub2W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_misc_stub2W.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <File>cup\terrains\cup_terrains_winter_plants\dead\cup_misc_stub2w.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
         <Hash>-441984251</Hash>
@@ -153,24 +153,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.814107</BBRadius>
+        <BBHScale>0.679550</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.616923" Y="-4.319183" Z="-1.336770" />
+        <BoundingMax X="0.848628" Y="3.031415" Z="2.291444" />
+        <BoundingCenter X="-0.384147" Y="-0.643884" Z="0.477337" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>cup_Misc_trunk_torzoW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_Misc_trunk_torzoW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <File>cup\terrains\cup_terrains_winter_plants\dead\cup_misc_trunk_torzow.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1767759640</Hash>
@@ -186,24 +186,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
+        <BBRadius>2.064572</BBRadius>
+        <BBHScale>3.383341</BBHScale>
         <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-3.072532" Y="-0.886685" Z="-2.955556" />
+        <BoundingMax X="10.897772" Y="1.709139" Z="1.173589" />
+        <BoundingCenter X="3.912620" Y="0.411227" Z="-0.890983" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>cup_Misc_trunk_waterW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_Misc_trunk_waterW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <File>cup\terrains\cup_terrains_winter_plants\dead\cup_misc_trunk_waterw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
         <Hash>1962110781</Hash>
@@ -219,24 +219,24 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>2.508575</BBRadius>
+        <BBHScale>1.038556</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.920458" Y="-5.143384" Z="-2.995070" />
+        <BoundingMax X="3.290131" Y="7.862605" Z="2.022080" />
+        <BoundingCenter X="0.684837" Y="1.359611" Z="-0.486495" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>cup_TimbersW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_TimbersW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <File>cup\terrains\cup_terrains_winter_plants\dead\cup_timbersw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
         <Hash>1083471100</Hash>
@@ -252,16 +252,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>4.557626</BBRadius>
+        <BBHScale>0.338020</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-1.226226" Y="-0.156949" Z="-8.995461" />
+        <BoundingMax X="1.854908" Y="1.473478" Z="0.119791" />
+        <BoundingCenter X="0.314341" Y="0.658264" Z="-4.437835" />
         <Placement></Placement>
     </Template>
 </Library>

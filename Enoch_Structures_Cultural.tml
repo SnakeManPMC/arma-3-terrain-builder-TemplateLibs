@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
-<Library name="CUP_Winter_Plants" shape="elipse" default_fill="-16744448" default_outline="-16777216" tex="0">
+<Library name="Enoch_Structures_Cultural" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
     <Template>
-        <Name>cup_b_canina2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_canina2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Calvary_03_F</Name>
+        <File>a3\structures_f_enoch\cultural\Calvary_03\Calvary_03_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1967650924</Hash>
+        <Hash>400287241</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -34,14 +34,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_corylus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_corylus2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Calvary_04_EnochSaints_F</Name>
+        <File>a3\structures_f_enoch\cultural\Calvary_04\Calvary_04_EnochSaints_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>569636669</Hash>
+        <Hash>-169128824</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -67,14 +67,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_craet1W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_craet1W.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Calvary_04_F</Name>
+        <File>a3\structures_f_enoch\cultural\Calvary_04\Calvary_04_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>522383433</Hash>
+        <Hash>408548746</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -100,14 +100,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_craet2W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_craet2W.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>CastleRuins_01_bastion_F</Name>
+        <File>a3\structures_f_enoch\cultural\CastleRuins\CastleRuins_01_bastion_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>522449032</Hash>
+        <Hash>-357360483</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -133,14 +133,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_prunusW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_prunusW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>CastleRuins_01_wall_10m_F</Name>
+        <File>a3\structures_f_enoch\cultural\CastleRuins\CastleRuins_01_wall_10m_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-247074976</Hash>
+        <Hash>-1252512750</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -166,14 +166,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_salix2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_salix2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>CastleRuins_01_wall_d_L_F</Name>
+        <File>a3\structures_f_enoch\cultural\CastleRuins\CastleRuins_01_wall_d_L_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1349675719</Hash>
+        <Hash>-1209045835</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -199,14 +199,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_sambucusW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_sambucusW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>CastleRuins_01_wall_d_R_F</Name>
+        <File>a3\structures_f_enoch\cultural\CastleRuins\CastleRuins_01_wall_d_R_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1895527798</Hash>
+        <Hash>-1159476805</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -232,14 +232,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_p_heracleumW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_p_heracleumW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Cross_01_small_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Cross_01_small_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1742332255</Hash>
+        <Hash>-324036465</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -265,14 +265,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_p_urticaW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_p_urticaW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>GraveFence_01_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\GraveFence_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1980198327</Hash>
+        <Hash>-635911909</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -298,14 +298,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_blueBerryW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Clutter\cup_blueBerryW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>GraveFence_02_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\GraveFence_02_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-50873540</Hash>
+        <Hash>-627650404</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -331,14 +331,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_fernW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Clutter\cup_fernW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>GraveFence_03_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\GraveFence_03_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1153802725</Hash>
+        <Hash>-619388899</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -364,14 +364,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_GrassCrookedW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Clutter\cup_GrassCrookedW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>GraveFence_04_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\GraveFence_04_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-470690991</Hash>
+        <Hash>-611127394</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -397,14 +397,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_GrassTallW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Clutter\cup_GrassTallW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Grave_08_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Grave_08_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-700847147</Hash>
+        <Hash>2071462825</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -430,14 +430,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_PhragmitesW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Clutter\cup_PhragmitesW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Grave_09_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Grave_09_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1877068560</Hash>
+        <Hash>2079724330</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -463,14 +463,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_piceaW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Clutter\cup_piceaW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Grave_10_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Grave_10_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1600475854</Hash>
+        <Hash>-1509009312</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -496,14 +496,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_raspBerryW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Clutter\cup_raspBerryW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Grave_11_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Grave_11_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-302149330</Hash>
+        <Hash>-1500747807</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -529,14 +529,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_misc_FallenSpruceW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_misc_FallenSpruceW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_04_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_04_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>303938783</Hash>
+        <Hash>-259443787</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -562,14 +562,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_misc_FallenTree1W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_misc_FallenTree1W.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_05_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_05_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-920903014</Hash>
+        <Hash>-251182282</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -595,14 +595,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_misc_FallenTree2W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_misc_FallenTree2W.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_06_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_06_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-920837415</Hash>
+        <Hash>-242920777</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -628,14 +628,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_misc_stub1W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_misc_stub1W.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_07_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_07_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-442049850</Hash>
+        <Hash>-234659272</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -661,14 +661,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_misc_stub2W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_misc_stub2W.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_08_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_08_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-441984251</Hash>
+        <Hash>-1716355633</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -694,14 +694,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_Misc_trunk_torzoW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_Misc_trunk_torzoW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_08_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_08_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1767759640</Hash>
+        <Hash>-226397767</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -727,14 +727,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_Misc_trunk_waterW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_Misc_trunk_waterW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_09_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_09_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1962110781</Hash>
+        <Hash>-218136262</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -760,14 +760,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_TimbersW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\dead\cup_TimbersW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_10_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_10_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1083471100</Hash>
+        <Hash>488097392</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -793,14 +793,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_betulaHumilisW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_b_betulaHumilisW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_11_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_11_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-540087103</Hash>
+        <Hash>-660573689</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -826,14 +826,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_corylusW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_b_corylusW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_11_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_11_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1943218370</Hash>
+        <Hash>496358897</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -859,14 +859,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_pmugoW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_b_pmugoW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_12_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_12_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-561351275</Hash>
+        <Hash>504620402</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -892,14 +892,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_acer2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_acer2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_13_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_13_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1246683995</Hash>
+        <Hash>512881907</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -925,14 +925,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_alnus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_alnus2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_14_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_14_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-135203295</Hash>
+        <Hash>521143412</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -958,14 +958,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_betula1fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_betula1fW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_15_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_15_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-337262147</Hash>
+        <Hash>529404917</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -991,14 +991,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_betula2fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_betula2fW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_16_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_16_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-329000642</Hash>
+        <Hash>537666422</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1024,14 +1024,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_betula2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_betula2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Tombstone_17_F</Name>
+        <File>a3\structures_f_enoch\cultural\Cemeteries\Tombstone_17_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-328147855</Hash>
+        <Hash>545927927</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1057,14 +1057,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_betula2wW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_betula2wW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Chapel_01_F</Name>
+        <File>a3\structures_f_enoch\cultural\Chapel_01\Chapel_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-327885459</Hash>
+        <Hash>434309196</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1090,14 +1090,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_carpinus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_carpinus2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Chapel_02_white_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Chapel_02\Chapel_02_white_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1609655467</Hash>
+        <Hash>-417574867</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1123,14 +1123,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_fagus2fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_fagus2fW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Chapel_02_white_F</Name>
+        <File>a3\structures_f_enoch\cultural\Chapel_02\Chapel_02_white_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1479377765</Hash>
+        <Hash>-132939753</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1156,14 +1156,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_fagus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_fagus2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Chapel_02_white_ruins_F</Name>
+        <File>a3\structures_f_enoch\cultural\Chapel_02\Chapel_02_white_ruins_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1480230552</Hash>
+        <Hash>1698239907</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1189,14 +1189,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_fagus2WW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_fagus2WW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Chapel_02_yellow_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Chapel_02\Chapel_02_yellow_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1478393780</Hash>
+        <Hash>158073194</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1222,14 +1222,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_fraxinus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_fraxinus2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Chapel_02_yellow_F</Name>
+        <File>a3\structures_f_enoch\cultural\Chapel_02\Chapel_02_yellow_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1851171652</Hash>
+        <Hash>1356262228</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1255,14 +1255,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_fraxinus2WW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_fraxinus2WW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Chapel_02_yellow_ruins_F</Name>
+        <File>a3\structures_f_enoch\cultural\Chapel_02\Chapel_02_yellow_ruins_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1849334880</Hash>
+        <Hash>1667683680</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1288,14 +1288,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_larix3fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_larix3fW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-661943612</Hash>
+        <Hash>537479289</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1321,14 +1321,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_larix3sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_larix3sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-661090825</Hash>
+        <Hash>-629403549</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1354,14 +1354,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_malus1sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_malus1sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_lightblue_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_lightblue_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1008089483</Hash>
+        <Hash>-2089176630</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1387,14 +1387,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_picea1sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_picea1sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_lightblue_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_lightblue_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1965901285</Hash>
+        <Hash>1780308916</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1420,14 +1420,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_picea2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_picea2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_lightyellow_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_lightyellow_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1957639780</Hash>
+        <Hash>932175748</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1453,14 +1453,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_picea3fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_picea3fW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_lightyellow_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_lightyellow_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1950231062</Hash>
+        <Hash>872512878</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1486,14 +1486,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_pinusN1sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pinusN1sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_red_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_red_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1712683982</Hash>
+        <Hash>1859794699</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1519,14 +1519,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_pinusN2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pinusN2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_red_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_red_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1720945487</Hash>
+        <Hash>574792437</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1552,14 +1552,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_pinusS2fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pinusS2fW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_small_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1328061399</Hash>
+        <Hash>-356222335</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1585,14 +1585,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_populus3sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_populus3sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_small_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1895503837</Hash>
+        <Hash>-1955769749</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1618,14 +1618,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_pyrus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pyrus2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_small_lightblue_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_lightblue_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1093008933</Hash>
+        <Hash>2006863826</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1651,14 +1651,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_quercus2fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_quercus2fW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_small_lightblue_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_lightblue_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-930193025</Hash>
+        <Hash>709888444</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1684,14 +1684,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_quercus3sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_quercus3sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_small_lightyellow_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_lightyellow_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-921078733</Hash>
+        <Hash>724957580</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1717,14 +1717,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_salix2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_salix2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_small_lightyellow_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_lightyellow_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-930344139</Hash>
+        <Hash>-1381128330</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1750,14 +1750,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_sorbus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_sorbus2sW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_small_red_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_red_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1493148736</Hash>
+        <Hash>-393846509</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1783,14 +1783,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_xmastree</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\s_xmastree.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_small_red_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_red_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-659046223</Hash>
+        <Hash>1377099005</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -1816,14 +1816,608 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_sambucusW_1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Clutter\cup_b_sambucusW.p3d</File>
-        <Date>01/05/19 20:17:02</Date>
+        <Name>Church_04_small_white_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_white_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1895527798</Hash>
+        <Hash>108659147</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_small_white_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_white_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-5771851</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_small_white_red_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_white_red_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>2007522909</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_small_white_red_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_white_red_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>203943495</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_small_yellow_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_yellow_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1930999628</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_small_yellow_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_small_yellow_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1677990602</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_white_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_white_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-263038013</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_white_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_white_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>90322861</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_white_red_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_white_red_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2088517547</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_white_red_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_white_red_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1274363967</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_yellow_damaged_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_yellow_damaged_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1498340180</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_04_yellow_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_04\Church_04_yellow_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1321998654</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Church_05_F</Name>
+        <File>a3\structures_f_enoch\cultural\Church_05\Church_05_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-621142044</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>OrthodoxChurch_02_F</Name>
+        <File>a3\structures_f_enoch\cultural\OrthodoxChurches\OrthodoxChurch_02_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1924466124</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>OrthodoxChurch_03_F</Name>
+        <File>a3\structures_f_enoch\cultural\OrthodoxChurches\OrthodoxChurch_03_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1932727629</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>OrthodoxChurch_03_ruins_F</Name>
+        <File>a3\structures_f_enoch\cultural\OrthodoxChurches\OrthodoxChurch_03_ruins_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1807186393</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Monument_02_F</Name>
+        <File>a3\structures_f_enoch\cultural\Statues\Monument_02_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1481603807</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>OldSculpture_01_F</Name>
+        <File>a3\structures_f_enoch\cultural\Statues\OldSculpture_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>697514993</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>Statue_03_F</Name>
+        <File>a3\structures_f_enoch\cultural\Statues\Statue_03_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>675029157</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>

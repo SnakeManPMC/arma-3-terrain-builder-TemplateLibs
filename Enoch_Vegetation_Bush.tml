@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
-<Library name="CUP_Winter_Objects" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
+<Library name="Enoch_Vegetation_Bush" shape="elipse" default_fill="-8323200" default_outline="-16777216" tex="0">
     <Template>
-        <Name>s_fortified_nest_big</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_fortified_nest_big.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>B_Betula_nana</Name>
+        <File>a3\vegetation_f_enoch\Bush\B_Betula_nana.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>294347108</Hash>
+        <Hash>1433880591</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -34,14 +34,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_fort_rampart_ep1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_fort_rampart_ep1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>B_Caragana_arborescens</Name>
+        <File>a3\vegetation_f_enoch\Bush\B_Caragana_arborescens.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1548866384</Hash>
+        <Hash>-1376374751</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -67,14 +67,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_fort_rampart_ep1_flat</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_fort_rampart_ep1_flat.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>B_Corylus_heterophylla_1</Name>
+        <File>a3\vegetation_f_enoch\Bush\B_Corylus_heterophylla_1.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-554540824</Hash>
+        <Hash>-758616094</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -100,14 +100,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_R_tk_Boulder_01_EP1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_R_tk_Boulder_01_EP1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>B_Corylus_heterophylla_2</Name>
+        <File>a3\vegetation_f_enoch\Bush\B_Corylus_heterophylla_2.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>319044873</Hash>
+        <Hash>-758616093</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -133,14 +133,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_R_tk_Boulder_02_EP1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_R_tk_Boulder_02_EP1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>b_FagusSylvatica_1f</Name>
+        <File>a3\vegetation_f_enoch\Bush\b_FagusSylvatica_1f.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1458609162</Hash>
+        <Hash>-1178077123</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -166,14 +166,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_R_tk_Boulder_03_EP1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_R_tk_Boulder_03_EP1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>B_Phragmites_australis</Name>
+        <File>a3\vegetation_f_enoch\Bush\B_Phragmites_australis.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1696793845</Hash>
+        <Hash>1026346134</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -199,14 +199,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_R_tk_Rock_01_EP1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_R_tk_Rock_01_EP1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>b_PiceaAbies_1f</Name>
+        <File>a3\vegetation_f_enoch\Bush\b_PiceaAbies_1f.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>704284627</Hash>
+        <Hash>-1277962041</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -232,14 +232,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_R_tk_Rock_02_EP1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_R_tk_Rock_02_EP1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>b_PiceaAbies_1fb</Name>
+        <File>a3\vegetation_f_enoch\Bush\b_PiceaAbies_1fb.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1843848916</Hash>
+        <Hash>434723163</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -265,14 +265,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_R_tk_Rock_03_EP1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_R_tk_Rock_03_EP1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>b_prunusSpinosa_1s</Name>
+        <File>a3\vegetation_f_enoch\Bush\b_prunusSpinosa_1s.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1311554091</Hash>
+        <Hash>1238714652</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -298,14 +298,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_R_tk_Stone_01_EP1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_R_tk_Stone_01_EP1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>b_prunusSpinosa_2s</Name>
+        <File>a3\vegetation_f_enoch\Bush\b_prunusSpinosa_2s.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1107061137</Hash>
+        <Hash>1238780251</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -331,14 +331,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_R_tk_Stone_02_EP1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_R_tk_Stone_02_EP1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>b_rosaCanina_1s</Name>
+        <File>a3\vegetation_f_enoch\Bush\b_rosaCanina_1s.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-2048341870</Hash>
+        <Hash>-1647788563</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -364,14 +364,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_snow</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_snow.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>b_rosaCanina_2s</Name>
+        <File>a3\vegetation_f_enoch\Bush\b_rosaCanina_2s.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1204845487</Hash>
+        <Hash>-1647722964</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -397,14 +397,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_snowman</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_snowman.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>b_sambucusNigra_1s</Name>
+        <File>a3\vegetation_f_enoch\Bush\b_sambucusNigra_1s.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1588734411</Hash>
+        <Hash>-1319102606</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -430,47 +430,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_Wall_Stone</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_Wall_Stone.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>b_sambucusNigra_2s</Name>
+        <File>a3\vegetation_f_enoch\Bush\b_sambucusNigra_2s.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-382723556</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>s_Wall_StoneD</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\s_Wall_StoneD.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-65536</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>2096262440</Hash>
+        <Hash>-1319037007</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>

@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
-<Library name="CUP_Winter_Plants_Trees" shape="elipse" default_fill="-16744448" default_outline="-16777216" tex="0">
+<Library name="Enoch_Vegetation_Clutter" shape="elipse" default_fill="-8323200" default_outline="-16777216" tex="0">
     <Template>
-        <Name>cup_b_betulaHumilisW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_b_betulaHumilisW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_beech_big</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_beech_big.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-540087103</Hash>
+        <Hash>-1057867732</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -34,14 +34,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_corylusW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_b_corylusW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_beech_mid</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_beech_mid.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1943218370</Hash>
+        <Hash>-966991180</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -67,14 +67,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_pmugoW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_b_pmugoW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_beech_small</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_beech_small.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-561351275</Hash>
+        <Hash>1262891571</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -100,14 +100,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_acer2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_acer2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_branchesBig_picea</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_branchesBig_picea.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1246683995</Hash>
+        <Hash>2085285275</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -133,14 +133,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_alnus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_alnus2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_branches_deciduous</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_branches_deciduous.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-135203295</Hash>
+        <Hash>-376576798</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -166,14 +166,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_betula1fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_betula1fW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_branches_picea</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_branches_picea.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-337262147</Hash>
+        <Hash>-770701453</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -199,14 +199,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_betula2fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_betula2fW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_Cones</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_Cones.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-329000642</Hash>
+        <Hash>921924884</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -232,14 +232,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_betula2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_betula2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_fern_amanita_single</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_fern_amanita_single.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-328147855</Hash>
+        <Hash>-437859534</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -265,14 +265,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_betula2wW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_betula2wW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_fern_boletus_group</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_fern_boletus_group.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-327885459</Hash>
+        <Hash>-1511879868</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -298,14 +298,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_carpinus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_carpinus2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_Grass</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_Grass.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1609655467</Hash>
+        <Hash>-874472134</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -331,14 +331,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_fagus2fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_fagus2fW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassAnthoxanthum</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassAnthoxanthum.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1479377765</Hash>
+        <Hash>2078113245</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -364,14 +364,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_fagus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_fagus2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassAnthoxanthum_bended</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassAnthoxanthum_bended.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1480230552</Hash>
+        <Hash>-1817065990</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -397,14 +397,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_fagus2WW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_fagus2WW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassDry</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassDry.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1478393780</Hash>
+        <Hash>1990109457</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -430,14 +430,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_fraxinus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_fraxinus2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassDryCarduus_f</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassDryCarduus_f.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1851171652</Hash>
+        <Hash>-1821727655</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -463,14 +463,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_fraxinus2WW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_fraxinus2WW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassDryHypericum</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassDryHypericum.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1849334880</Hash>
+        <Hash>1686679533</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -496,14 +496,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_larix3fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_larix3fW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassDryPlant1</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassDryPlant1.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-661943612</Hash>
+        <Hash>-1489676745</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -529,14 +529,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_larix3sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_larix3sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassDryTall</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassDryTall.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-661090825</Hash>
+        <Hash>443838878</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -562,14 +562,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_malus1sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_malus1sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassDryTall2</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassDryTall2.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1008089483</Hash>
+        <Hash>-196741612</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -595,14 +595,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_picea1sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_picea1sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassDryTall3</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassDryTall3.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1965901285</Hash>
+        <Hash>-196741611</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -628,14 +628,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_picea2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_picea2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassLow</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassLow.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1957639780</Hash>
+        <Hash>2056004698</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -661,14 +661,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_picea3fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_picea3fW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassPlant1</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassPlant1.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1950231062</Hash>
+        <Hash>1126792416</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -694,14 +694,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_pinusN1sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pinusN1sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassPlant2</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassPlant2.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1712683982</Hash>
+        <Hash>1126792417</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -727,14 +727,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_pinusN2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pinusN2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassSmall</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassSmall.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1720945487</Hash>
+        <Hash>1326142669</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -760,14 +760,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_pinusS2fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pinusS2fW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassSmallConc</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassSmallConc.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1328061399</Hash>
+        <Hash>-1143022034</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -793,14 +793,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_populus3sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_populus3sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassTall2</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassTall2.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1895503837</Hash>
+        <Hash>1779471659</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -826,14 +826,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_pyrus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pyrus2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassTall3</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassTall3.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1093008933</Hash>
+        <Hash>1779471660</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -859,14 +859,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_quercus2fW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_quercus2fW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassTiny</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassTiny.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-930193025</Hash>
+        <Hash>-1106241190</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -892,14 +892,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_quercus3sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_quercus3sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_GrassTinyConc</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_GrassTinyConc.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-921078733</Hash>
+        <Hash>147846587</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -925,14 +925,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_salix2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_salix2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_Grass_flower1</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_Grass_flower1.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-930344139</Hash>
+        <Hash>586621297</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -958,14 +958,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_t_sorbus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_sorbus2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_leaves_dead</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_leaves_dead.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1493148736</Hash>
+        <Hash>1691793483</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -991,14 +991,311 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_xmastree</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\s_xmastree.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>c_leaves_dead_half</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_leaves_dead_half.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-8323200</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-659046223</Hash>
+        <Hash>-1757687993</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_Pines</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_Pines.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1832164441</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_plantsSmall1</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_plantsSmall1.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>629927918</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_plantsSmall2</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_plantsSmall2.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>629927919</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_Vaccinium</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_Vaccinium.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1536051755</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_weat</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_weat.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1700193347</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_weatTall</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_weatTall.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-644040630</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_fern_1</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_fern.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2084158665</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_fernTall_1</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_fernTall.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-422042172</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>c_stubble_1</Name>
+        <File>a3\vegetation_f_enoch\clutter\c_stubble.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1933312945</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>

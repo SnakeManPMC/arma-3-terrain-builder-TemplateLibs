@@ -1,14 +1,509 @@
 <?xml version="1.0" ?>
-<Library name="CUP_Winter_Objects_Railway" shape="rectangle" default_fill="-4144960" default_outline="-16777216" tex="0">
+<Library name="CUP_Terrains_Winter_Plants_Trees" shape="elipse" default_fill="-16744448" default_outline="-16777216" tex="0">
     <Template>
-        <Name>rails_bridge_rail</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\Data\rails_bridge_rail.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_b_betulaHumilisW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_b_betulahumilisw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1347863446</Hash>
+        <Hash>-540087103</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.254778</BBRadius>
+        <BBHScale>1.115933</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.453076" Y="-0.303813" Z="-1.435541" />
+        <BoundingMax X="1.347421" Y="2.381070" Z="1.074016" />
+        <BoundingCenter X="-0.052827" Y="1.038628" Z="-0.180763" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_b_corylusW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_b_corylusw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1943218370</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.233371</BBRadius>
+        <BBHScale>0.892442</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.796731" Y="-0.572937" Z="-3.082317" />
+        <BoundingMax X="2.974460" Y="5.116961" Z="3.384425" />
+        <BoundingCenter X="0.088864" Y="2.272012" Z="0.151054" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_b_pmugoW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_b_pmugow.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-561351275</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.082465</BBRadius>
+        <BBHScale>1.163467</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.177991" Y="-0.282074" Z="-1.193663" />
+        <BoundingMax X="1.340834" Y="1.622942" Z="0.971266" />
+        <BoundingCenter X="0.081422" Y="0.670434" Z="-0.111199" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_acer2sW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_acer2sw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1246683995</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.074729</BBRadius>
+        <BBHScale>1.099742</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.621933" Y="-2.173203" Z="-10.068594" />
+        <BoundingMax X="10.537275" Y="19.666023" Z="10.080864" />
+        <BoundingCenter X="-0.542329" Y="8.746410" Z="0.006135" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_alnus2sW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_alnus2sw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-135203295</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.658607</BBRadius>
+        <BBHScale>1.070346</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.513226" Y="-2.147643" Z="-8.148207" />
+        <BoundingMax X="8.881495" Y="15.961743" Z="7.169006" />
+        <BoundingCenter X="0.684134" Y="6.907050" Z="-0.489600" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_betula1fW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_betula1fw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-337262147</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.570978</BBRadius>
+        <BBHScale>1.020888</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.425051" Y="-0.000588" Z="-1.542643" />
+        <BoundingMax X="1.782534" Y="5.175188" Z="1.599313" />
+        <BoundingCenter X="0.178741" Y="2.587300" Z="0.028335" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_betula2fW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_betula2fw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-329000642</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.852593</BBRadius>
+        <BBHScale>0.992043</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.702139" Y="-2.290377" Z="-6.628737" />
+        <BoundingMax X="5.909915" Y="23.271385" Z="5.076449" />
+        <BoundingCenter X="0.103888" Y="10.490504" Z="-0.776144" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_betula2sW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_betula2sw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-328147855</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.640326</BBRadius>
+        <BBHScale>1.189641</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.464670" Y="-1.997711" Z="-8.327940" />
+        <BoundingMax X="8.713827" Y="22.394644" Z="6.952713" />
+        <BoundingCenter X="-0.375422" Y="10.198466" Z="-0.687613" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_betula2wW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_betula2ww.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-327885459</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.099535</BBRadius>
+        <BBHScale>0.949624</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.984090" Y="-0.971801" Z="-4.228663" />
+        <BoundingMax X="3.801942" Y="5.856558" Z="3.970406" />
+        <BoundingCenter X="-0.091074" Y="2.442379" Z="-0.129129" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_carpinus2sW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_carpinus2sw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1609655467</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.098537</BBRadius>
+        <BBHScale>1.209974</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.425297" Y="-1.649877" Z="-10.223573" />
+        <BoundingMax X="10.592682" Y="17.666098" Z="7.973502" />
+        <BoundingCenter X="-0.416307" Y="8.008110" Z="-1.125035" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_fagus2fW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_fagus2fw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1479377765</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.526256</BBRadius>
+        <BBHScale>0.955992</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.851520" Y="-3.819111" Z="-8.841669" />
+        <BoundingMax X="7.362536" Y="29.800808" Z="10.210842" />
+        <BoundingCenter X="-1.744492" Y="12.990849" Z="0.684587" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_fagus2sW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_fagus2sw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1480230552</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.595388</BBRadius>
+        <BBHScale>1.001176</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.248315" Y="-2.081673" Z="-6.903721" />
+        <BoundingMax X="7.960320" Y="17.534117" Z="8.287056" />
+        <BoundingCenter X="0.356002" Y="7.726222" Z="0.691668" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_fagus2WW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_fagus2ww.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1478393780</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.153092</BBRadius>
+        <BBHScale>1.050684</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.362076" Y="-1.338140" Z="-3.111490" />
+        <BoundingMax X="3.263729" Y="8.286372" Z="3.194695" />
+        <BoundingCenter X="-0.049174" Y="3.474116" Z="0.041602" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_fraxinus2sW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_fraxinus2sw.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1851171652</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.781159</BBRadius>
+        <BBHScale>0.990956</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.590250" Y="-3.146589" Z="-10.092489" />
+        <BoundingMax X="10.777052" Y="19.841806" Z="11.469830" />
+        <BoundingCenter X="0.093401" Y="8.347609" Z="0.688670" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_fraxinus2WW</Name>
+        <File>cup\terrains\cup_terrains_winter_plants\trees\cup_t_fraxinus2ww.p3d</File>
+        <Date>09/23/20 02:29:30</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1849334880</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.493764</BBRadius>
+        <BBHScale>1.019467</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.507094" Y="-1.247097" Z="-5.773740" />
+        <BoundingMax X="5.694329" Y="8.189058" Z="5.213789" />
+        <BoundingCenter X="0.093617" Y="3.470981" Z="-0.279975" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>cup_t_larix3fW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_larix3fW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-16744448</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-661943612</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -34,14 +529,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>s_rails_bridge_rail</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\Data\s_rails_bridge_rail.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_larix3sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_larix3sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-274335042</Hash>
+        <Hash>-661090825</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -67,14 +562,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>railsN_25</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\railsN_25.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_malus1sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_malus1sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-591666091</Hash>
+        <Hash>1008089483</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -100,14 +595,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>railsN_40</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\railsN_40.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_picea1sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_picea1sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-591534898</Hash>
+        <Hash>-1965901285</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -133,14 +628,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>railsN_curve_L25_10</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\railsN_curve_L25_10.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_picea2sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_picea2sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>169590513</Hash>
+        <Hash>-1957639780</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -166,14 +661,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>railsN_curve_L25_5</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\railsN_curve_L25_5.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_picea3fW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_picea3fW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1740865795</Hash>
+        <Hash>-1950231062</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -199,14 +694,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>railsN_curve_L30_20</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\railsN_curve_L30_20.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_pinusN1sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pinusN1sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1701251702</Hash>
+        <Hash>1712683982</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -232,14 +727,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>railsN_curve_R25_10</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\railsN_curve_R25_10.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_pinusN2sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pinusN2sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1893333397</Hash>
+        <Hash>1720945487</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -265,14 +760,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>railsN_curve_R25_5</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\railsN_curve_R25_5.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_pinusS2fW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pinusS2fW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-11683063</Hash>
+        <Hash>1328061399</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -298,14 +793,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>railsN_curve_R30_20</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\railsN_curve_R30_20.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_populus3sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_populus3sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-361672208</Hash>
+        <Hash>1895503837</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -331,14 +826,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>railsN_turnout_L</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\railsN_turnout_L.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_pyrus2sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_pyrus2sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-376749620</Hash>
+        <Hash>-1093008933</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -364,14 +859,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>railsN_turnout_R</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\railsN_turnout_R.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_quercus2fW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_quercus2fW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-376749614</Hash>
+        <Hash>-930193025</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -397,14 +892,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>rails_25</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_25.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_quercus3sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_quercus3sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1717890975</Hash>
+        <Hash>-921078733</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -430,14 +925,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>rails_bridge_40</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_bridge_40.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_salix2sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_salix2sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>2042132020</Hash>
+        <Hash>-930344139</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -463,14 +958,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>rails_curve_L25_10</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_curve_L25_10.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>cup_t_sorbus2sW</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\cup_t_sorbus2sW.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-604599043</Hash>
+        <Hash>-1493148736</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -496,542 +991,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>rails_curve_R25_10</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_curve_R25_10.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>s_xmastree</Name>
+        <File>CUP\Terrains\cup_terrains_winter_plants\Trees\s_xmastree.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-16744448</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1627444343</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_down_25</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_down_25.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1329729346</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_down_40</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_down_40.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1329860539</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_linebreak_concrete</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_linebreak_concrete.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-743458441</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_linebreak_iron</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_linebreak_iron.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-354676774</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_passing_10</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_passing_10.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>484654539</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_passing_25</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_passing_25.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>484720143</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_turnout_L</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_turnout_L.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-1303549248</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_turnout_R</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_turnout_R.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-1303549242</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_up_25</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_up_25.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1202638601</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_up_40</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_up_40.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1202769794</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_v1_LB_RE</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_v1_LB_RE.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-523313962</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_v1_LE_RB</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_v1_LE_RB.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>1818447632</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_v_LB_RE</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_v_LB_RE.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-1816071595</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_v_LE_RB</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_v_LE_RB.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>525689999</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>rails_v_SP</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\rails_v_SP.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-39320956</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>wc_rails_bridge_40</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Railway\wc_rails_bridge_40.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
-        <Archive></Archive>
-        <Fill>-4144960</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>814340033</Hash>
+        <Hash>-659046223</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>

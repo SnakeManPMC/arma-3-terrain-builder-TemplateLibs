@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
-<Library name="CUP_Winter_Plants_Bushes" shape="elipse" default_fill="-16744448" default_outline="-16777216" tex="0">
+<Library name="Enoch_Props_Civilian" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
     <Template>
-        <Name>cup_b_canina2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_canina2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>WoodenTable_02_large_F</Name>
+        <File>a3\props_f_enoch\Civilian\Camping\WoodenTable_02_large_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1967650924</Hash>
+        <Hash>2009088172</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -34,14 +34,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_corylus2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_corylus2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>Anthill_01_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\Anthill_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>569636669</Hash>
+        <Hash>621004223</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -67,14 +67,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_craet1W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_craet1W.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>Bark_Beetle_Trap_01_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\Bark_Beetle_Trap_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>522383433</Hash>
+        <Hash>-413474963</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -100,14 +100,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_craet2W</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_craet2W.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>Bark_Beetle_Trap_02_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\Bark_Beetle_Trap_02_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>522449032</Hash>
+        <Hash>-405213458</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -133,14 +133,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_prunusW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_prunusW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>Bark_Beetle_Trap_03_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\Bark_Beetle_Trap_03_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-247074976</Hash>
+        <Hash>-396951953</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -166,14 +166,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_salix2sW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_salix2sW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>DeerSkeleton_damaged_01_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\DeerSkeleton_damaged_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1349675719</Hash>
+        <Hash>-504300010</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -199,14 +199,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_b_sambucusW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_b_sambucusW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>DeerSkeleton_full_01_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\DeerSkeleton_full_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1895527798</Hash>
+        <Hash>961813172</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -232,14 +232,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_p_heracleumW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_p_heracleumW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>DeerSkeleton_pile_01_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\DeerSkeleton_pile_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1742332255</Hash>
+        <Hash>944408849</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -265,14 +265,212 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>cup_p_urticaW</Name>
-        <File>CUP\Terrains\cup_terrains_winter_plants\Bushes\cup_p_urticaW.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>DeerSkeleton_skull_01_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\DeerSkeleton_skull_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-16744448</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1980198327</Hash>
+        <Hash>134091022</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>DeerStand_01_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\DeerStand_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1636855873</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>DeerStand_02_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\DeerStand_02_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1628594368</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>FeedRack_01_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\FeedRack_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1591628690</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>FeedShack_01_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\FeedShack_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1765677649</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>WoodenLog_02_F</Name>
+        <File>a3\props_f_enoch\Civilian\Forest\WoodenLog_02_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1077251930</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>GarbageBin_03_F</Name>
+        <File>a3\props_f_enoch\Civilian\Garbage\GarbageBin_03_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-691582825</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>

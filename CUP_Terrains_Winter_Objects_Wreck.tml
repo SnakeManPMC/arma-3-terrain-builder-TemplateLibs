@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
-<Library name="CUP_Winter_Objects_Wreck" shape="rectangle" default_fill="-4144960" default_outline="-16777216" tex="0">
+<Library name="CUP_Terrains_Winter_Objects_Wreck" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
     <Template>
         <Name>s_Wreck_Ship_1</Name>
         <File>CUP\Terrains\cup_terrains_winter_objects\Wreck\s_Wreck_Ship_1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
         <Hash>-868515033</Hash>
@@ -36,9 +36,9 @@
     <Template>
         <Name>s_Wreck_Ship_2</Name>
         <File>CUP\Terrains\cup_terrains_winter_objects\Wreck\s_Wreck_Ship_2.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-4144960</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
         <Hash>-868515032</Hash>

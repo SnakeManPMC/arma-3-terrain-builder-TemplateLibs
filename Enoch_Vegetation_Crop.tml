@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
-<Library name="CUP_Winter_Objects_Billboards" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
+<Library name="Enoch_Vegetation_Crop" shape="elipse" default_fill="-32768" default_outline="-16777216" tex="0">
     <Template>
-        <Name>s_billboard_1_ep1</Name>
-        <File>CUP\Terrains\cup_terrains_winter_objects\Billboards\s_billboard_1_ep1.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>b_Corn_row_F</Name>
+        <File>a3\vegetation_f_enoch\Crop\b_Corn_row_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-65536</Fill>
+        <Fill>-32768</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-110201300</Hash>
+        <Hash>-1902411865</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>

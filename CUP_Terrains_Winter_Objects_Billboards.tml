@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<Library name="CUP_Terrains_Winter_Objects_Billboards" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
+    <Template>
+        <Name>s_billboard_1_ep1</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\billboards\s_billboard_1_ep1.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-110201300</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.596515</BBRadius>
+        <BBHScale>3.521451</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.100000" Y="-0.500001" Z="-0.043541" />
+        <BoundingMax X="2.101193" Y="3.550000" Z="1.149488" />
+        <BoundingCenter X="0.000597" Y="1.525000" Z="0.552973" />
+        <Placement></Placement>
+    </Template>
+</Library>

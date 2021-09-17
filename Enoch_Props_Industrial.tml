@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
-<Library name="CUP_Winter_Roads" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
+<Library name="Enoch_Props_Industrial" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
     <Template>
-        <Name>wc_bridge_asf1_25</Name>
-        <File>CUP\Terrains\cup_terrains_winter_roads\bridges\wc_bridge_asf1_25.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>TransferSwitch_01_F</Name>
+        <File>a3\props_f_enoch\Industrial\Electric\TransferSwitch_01_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1525745826</Hash>
+        <Hash>-264090264</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -34,14 +34,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>wc_Bridge_stone_asf2_25</Name>
-        <File>CUP\Terrains\cup_terrains_winter_roads\bridges\wc_Bridge_stone_asf2_25.p3d</File>
-        <Date>01/05/19 21:09:26</Date>
+        <Name>WoodenBox_02_F</Name>
+        <File>a3\props_f_enoch\Industrial\Supplies\WoodenBox_02_F.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>230836807</Hash>
+        <Hash>1517753107</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>

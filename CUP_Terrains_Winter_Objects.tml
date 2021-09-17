@@ -1,14 +1,47 @@
 <?xml version="1.0" ?>
-<Library name="Enoch_Rocks" shape="elipse" default_fill="-8355712" default_outline="-16777216" tex="0">
+<Library name="CUP_Terrains_Winter_Objects" shape="rectangle" default_fill="-65536" default_outline="-16777216" tex="0">
     <Template>
-        <Name>Sinkhole_01_F</Name>
-        <File>a3\rocks_f_enoch\Sinkhole\Sinkhole_01_F.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
+        <Name>s_fortified_nest_big</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_fortified_nest_big.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>2090518644</Hash>
+        <Hash>294347108</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.089205</BBRadius>
+        <BBHScale>0.906930</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.058160" Y="-0.804696" Z="-3.365130" />
+        <BoundingMax X="5.986810" Y="2.644940" Z="8.813279" />
+        <BoundingCenter X="0.464325" Y="0.920122" Z="2.724074" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>s_fort_rampart_ep1</Name>
+        <File>CUP\Terrains\cup_terrains_winter_objects\s_fort_rampart_ep1.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1548866384</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -34,14 +67,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>Bare_boulder_01_F</Name>
-        <File>a3\rocks_f_enoch\Bare_boulder_01_F.p3d</File>
+        <Name>s_fort_rampart_ep1_flat</Name>
+        <File>CUP\Terrains\cup_terrains_winter_objects\s_fort_rampart_ep1_flat.p3d</File>
         <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-670641753</Hash>
+        <Hash>-554540824</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -67,14 +100,278 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>Bare_boulder_02_F</Name>
-        <File>a3\rocks_f_enoch\Bare_boulder_02_F.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
+        <Name>s_R_tk_Boulder_01_EP1</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_r_tk_boulder_01_ep1.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
         <Archive></Archive>
         <Fill>-8355712</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-662380248</Hash>
+        <Hash>319044873</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.203660</BBRadius>
+        <BBHScale>1.049395</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.936410" Y="-10.224100" Z="-5.953290" />
+        <BoundingMax X="5.083770" Y="5.034340" Z="6.454030" />
+        <BoundingCenter X="-1.426320" Y="-2.594880" Z="0.250370" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>s_R_tk_Boulder_02_EP1</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_r_tk_boulder_02_ep1.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1458609162</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.451515</BBRadius>
+        <BBHScale>0.943605</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.579930" Y="-9.270310" Z="-8.423731" />
+        <BoundingMax X="7.369861" Y="5.978820" Z="8.479300" />
+        <BoundingCenter X="-0.605035" Y="-1.645745" Z="0.027784" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>s_R_tk_Boulder_03_EP1</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_r_tk_boulder_03_ep1.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1696793845</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.947580</BBRadius>
+        <BBHScale>0.938178</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.006071" Y="-14.518801" Z="-9.450251" />
+        <BoundingMax X="7.782770" Y="6.393560" Z="8.444910" />
+        <BoundingCenter X="-0.611650" Y="-4.062620" Z="-0.502670" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>s_R_tk_Rock_01_EP1</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_r_tk_rock_01_ep1.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>704284627</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>9.142595</BBRadius>
+        <BBHScale>1.006674</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.665020" Y="-9.323151" Z="-9.405430" />
+        <BoundingMax X="8.742201" Y="17.088402" Z="8.879761" />
+        <BoundingCenter X="-0.461410" Y="3.882626" Z="-0.262835" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>s_R_tk_Rock_02_EP1</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_r_tk_rock_02_ep1.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1843848916</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.126751</BBRadius>
+        <BBHScale>0.915550</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.853901" Y="-21.428001" Z="-16.672302" />
+        <BoundingMax X="16.675802" Y="14.451500" Z="15.581200" />
+        <BoundingCenter X="1.910951" Y="-3.488251" Z="-0.545551" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>s_R_tk_Rock_03_EP1</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_r_tk_rock_03_ep1.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1311554091</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>23.880550</BBRadius>
+        <BBHScale>0.964714</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-23.509901" Y="-29.750198" Z="-24.103500" />
+        <BoundingMax X="22.565901" Y="19.005302" Z="23.657600" />
+        <BoundingCenter X="-0.472000" Y="-5.372448" Z="-0.222950" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>s_R_tk_Stone_01_EP1</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_r_tk_stone_01_ep1.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1107061137</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.698160</BBRadius>
+        <BBHScale>1.151302</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.990741" Y="-0.967133" Z="-1.866960" />
+        <BoundingMax X="1.919450" Y="0.836295" Z="1.529361" />
+        <BoundingCenter X="-0.035645" Y="-0.065419" Z="-0.168800" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>s_R_tk_Stone_02_EP1</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_r_tk_stone_02_ep1.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
+        <Archive></Archive>
+        <Fill>-8355712</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-2048341870</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.780359</BBRadius>
+        <BBHScale>1.064751</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.074091" Y="-0.514424" Z="-0.933761" />
+        <BoundingMax X="0.587684" Y="0.603895" Z="0.626957" />
+        <BoundingCenter X="-0.243204" Y="0.044735" Z="-0.153402" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>s_snow</Name>
+        <File>CUP\Terrains\cup_terrains_winter_objects\s_snow.p3d</File>
+        <Date>09/16/21 02:43:05</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-16777216</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1204845487</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -100,14 +397,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>Bare_boulder_03_F</Name>
-        <File>a3\rocks_f_enoch\Bare_boulder_03_F.p3d</File>
+        <Name>s_snowman</Name>
+        <File>CUP\Terrains\cup_terrains_winter_objects\s_snowman.p3d</File>
         <Date>09/16/21 02:43:05</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-654118743</Hash>
+        <Hash>1588734411</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -133,14 +430,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>Bare_boulder_04_F</Name>
-        <File>a3\rocks_f_enoch\Bare_boulder_04_F.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
+        <Name>s_Wall_Stone</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_wall_stone.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-645857238</Hash>
+        <Hash>-382723556</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -153,27 +450,27 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.364299</BBRadius>
+        <BBHScale>3.872627</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-5.216890" Y="-0.885739" Z="-0.929198" />
+        <BoundingMax X="5.349954" Y="1.147950" Z="1.799400" />
+        <BoundingCenter X="0.066532" Y="0.131106" Z="0.435101" />
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>Bare_boulder_05_F</Name>
-        <File>a3\rocks_f_enoch\Bare_boulder_05_F.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
+        <Name>s_Wall_StoneD</Name>
+        <File>cup\terrains\cup_terrains_winter_objects\s_wall_stoned.p3d</File>
+        <Date>09/23/20 02:28:46</Date>
         <Archive></Archive>
-        <Fill>-8355712</Fill>
+        <Fill>-65536</Fill>
         <Outline>-16777216</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-637595733</Hash>
+        <Hash>2096262440</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -186,280 +483,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
+        <BBRadius>1.869070</BBRadius>
+        <BBHScale>3.191921</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>RM_boulder1</Name>
-        <File>a3\rocks_f_enoch\RM_boulder1.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
-        <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-53247320</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>RM_boulder2</Name>
-        <File>a3\rocks_f_enoch\RM_boulder2.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
-        <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-53247319</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>RM_boulder3</Name>
-        <File>a3\rocks_f_enoch\RM_boulder3.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
-        <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-53247318</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>RM_boulder4</Name>
-        <File>a3\rocks_f_enoch\RM_boulder4.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
-        <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-53247317</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>RM_boulder5</Name>
-        <File>a3\rocks_f_enoch\RM_boulder5.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
-        <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-53247316</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>R_rock_general1</Name>
-        <File>a3\rocks_f_enoch\R_rock_general1.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
-        <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-1701388938</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>R_rock_general2</Name>
-        <File>a3\rocks_f_enoch\R_rock_general2.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
-        <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-1701388937</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <Placement></Placement>
-    </Template>
-    <Template>
-        <Name>R_rock_general3</Name>
-        <File>a3\rocks_f_enoch\R_rock_general3.p3d</File>
-        <Date>09/16/21 02:43:05</Date>
-        <Archive></Archive>
-        <Fill>-8355712</Fill>
-        <Outline>-16777216</Outline>
-        <Scale>1.000000</Scale>
-        <Hash>-1701388936</Hash>
-        <ScaleRandMin>0.000000</ScaleRandMin>
-        <ScaleRandMax>0.000000</ScaleRandMax>
-        <YawRandMin>0.000000</YawRandMin>
-        <YawRandMax>0.000000</YawRandMax>
-        <PitchRandMin>0.000000</PitchRandMin>
-        <PitchRandMax>0.000000</PitchRandMax>
-        <RollRandMin>0.000000</RollRandMin>
-        <RollRandMax>0.000000</RollRandMax>
-        <TexLLU>0.000000</TexLLU>
-        <TexLLV>0.000000</TexLLV>
-        <TexURU>1.000000</TexURU>
-        <TexURV>1.000000</TexURV>
-        <BBRadius>-1.000000</BBRadius>
-        <BBHScale>1.000000</BBHScale>
-        <AutoCenter>0</AutoCenter>
-        <XShift>0.000000</XShift>
-        <YShift>0.000000</YShift>
-        <ZShift>0.000000</ZShift>
-        <Height>0.000000</Height>
-        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
-        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
-        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingMin X="-7.117530" Y="-0.831251" Z="-1.493060" />
+        <BoundingMax X="4.814320" Y="0.836414" Z="2.245080" />
+        <BoundingCenter X="-1.151605" Y="0.002581" Z="0.376010" />
         <Placement></Placement>
     </Template>
 </Library>
