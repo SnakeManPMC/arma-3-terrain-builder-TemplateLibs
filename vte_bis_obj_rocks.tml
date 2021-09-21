@@ -1,5 +1,5 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<Library name="VTE_bis_obj_rocks" shape="elipse" default_fill="-8355712" default_outline="-8355712" tex="0">
+<Library name="VTE_bis_Obj_Rocks" shape="elipse" default_fill="-8355712" default_outline="-8355712" tex="0">
     <Template>
         <Name>VTE_bis_Skala1_1</Name>
         <File>pmc\VTE_bis_obj\VTE_bis_Skala1_1.p3d</File>

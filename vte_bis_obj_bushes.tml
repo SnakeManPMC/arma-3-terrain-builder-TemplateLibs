@@ -1,5 +1,5 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<Library name="VTE_bis_obj_bushes" shape="elipse" default_fill="-8323200" default_outline="-8323200" tex="0">
+<Library name="VTE_bis_Obj_Bushes" shape="elipse" default_fill="-8323200" default_outline="-8323200" tex="0">
     <Template>
         <Name>VTE_bis_DD_bush01</Name>
         <File>pmc\vte_bis_obj\vte_bis_dd_bush01.p3d</File>

@@ -1,5 +1,5 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<Library name="VTE_bis_obj_buildings" shape="rectangle" default_fill="-65536" default_outline="-65536" tex="0">
+<Library name="VTE_bis_Obj_Buildings" shape="rectangle" default_fill="-65536" default_outline="-65536" tex="0">
     <Template>
         <Name>VTE_bis_AFbarabizna</Name>
         <File>pmc\vte_bis_obj\vte_bis_afbarabizna.p3d</File>

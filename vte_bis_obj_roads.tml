@@ -1,5 +1,5 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<Library name="VTE_bis_obj_roads" shape="rectangle" default_fill="-32768" default_outline="-32768" tex="0">
+<Library name="VTE_bis_Obj_Roads" shape="rectangle" default_fill="-32768" default_outline="-32768" tex="0">
     <Template>
         <Name>VTE_bis_asf10_100</Name>
         <File>pmc\VTE_bis_obj\VTE_bis_asf10_100.p3d</File>

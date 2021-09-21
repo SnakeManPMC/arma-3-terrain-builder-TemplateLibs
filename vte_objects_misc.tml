@@ -1,5 +1,5 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<Library name="VTE_objects_misc" shape="rectangle" default_fill="-256" default_outline="-256" tex="0">
+<Library name="VTE_Objects_Misc" shape="rectangle" default_fill="-256" default_outline="-256" tex="0">
     <Template>
         <Name>VTE_bed1</Name>
         <File>pmc\VTE_objects\VTE_bed1.p3d</File>

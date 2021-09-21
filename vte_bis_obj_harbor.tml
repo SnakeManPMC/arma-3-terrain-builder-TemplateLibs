@@ -1,5 +1,5 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<Library name="VTE_bis_obj_harbor" shape="rectangle" default_fill="-65408" default_outline="-65408" tex="0">
+<Library name="VTE_bis_Obj_Harbor" shape="rectangle" default_fill="-65408" default_outline="-65408" tex="0">
     <Template>
         <Name>VTE_bis_Molo_beton</Name>
         <File>pmc\VTE_bis_obj\VTE_bis_Molo_beton.p3d</File>
