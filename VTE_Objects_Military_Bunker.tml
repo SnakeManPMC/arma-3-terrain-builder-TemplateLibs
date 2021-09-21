@@ -1,0 +1,399 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<Library name="VTE_Objects_Military_Bunker" shape="rectangle" default_fill="-256" default_outline="-256" tex="0">
+    <Template>
+        <Name>VTE_bunker1</Name>
+        <File>pmc\VTE_objects\VTE_bunker1.p3d</File>
+        <Date>09/20/21 11:44:41</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>69074364</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_fbbunker1</Name>
+        <File>pmc\vte_objects\vte_fbbunker1.p3d</File>
+        <Date>11/17/12 04:36:59</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-184604352</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.151719</BBRadius>
+        <BBHScale>1.032253</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.003993</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.360002" Y="-0.008089" Z="-3.038381" />
+        <BoundingMax X="3.146739" Y="2.908773" Z="3.265056" />
+        <BoundingCenter X="-0.106632" Y="1.450342" Z="0.113338" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_fbbunker2</Name>
+        <File>pmc\VTE_objects\VTE_fbbunker2.p3d</File>
+        <Date>09/20/21 11:44:41</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-184604351</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_fbbunker3</Name>
+        <File>pmc\VTE_objects\VTE_fbbunker3.p3d</File>
+        <Date>09/20/21 11:44:41</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-184604350</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_fbbunker4</Name>
+        <File>pmc\VTE_objects\VTE_fbbunker4.p3d</File>
+        <Date>09/20/21 11:44:41</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-184604349</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_fortress1</Name>
+        <File>pmc\vte_objects\vte_fortress1.p3d</File>
+        <Date>08/15/10 16:58:17</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1999231077</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.856385</BBRadius>
+        <BBHScale>0.933434</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.399982" Y="-2.000463" Z="-7.312788" />
+        <BoundingMax X="6.399982" Y="4.453849" Z="6.399983" />
+        <BoundingCenter X="0.000000" Y="1.226693" Z="-0.456402" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_fortress2</Name>
+        <File>pmc\vte_objects\vte_fortress2.p3d</File>
+        <Date>08/15/10 16:58:18</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1999231076</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.879601</BBRadius>
+        <BBHScale>0.801784</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000659</YShift>
+        <ZShift>0.000005</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.912387" Y="-0.000010" Z="-7.743774" />
+        <BoundingMax X="3.912387" Y="2.443850" Z="2.016747" />
+        <BoundingCenter X="-0.000000" Y="1.221920" Z="-2.863513" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_fortress3</Name>
+        <File>pmc\vte_objects\vte_fortress3.p3d</File>
+        <Date>08/15/10 16:58:18</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1999231075</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.462039</BBRadius>
+        <BBHScale>0.768797</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>-0.168533</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.642000" Y="-1.000000" Z="-2.963142" />
+        <BoundingMax X="4.642000" Y="2.192200" Z="8.298000" />
+        <BoundingCenter X="0.000000" Y="0.596100" Z="2.667429" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_gbunker</Name>
+        <File>pmc\vte_objects\vte_gbunker.p3d</File>
+        <Date>11/17/12 05:55:57</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-140782612</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.017421</BBRadius>
+        <BBHScale>1.051462</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.009624</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.182081" Y="-0.059565" Z="-3.026339" />
+        <BoundingMax X="3.182081" Y="0.955189" Z="3.026339" />
+        <BoundingCenter X="0.000000" Y="0.447812" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ivcbunker</Name>
+        <File>pmc\VTE_objects\VTE_ivcbunker.p3d</File>
+        <Date>09/20/21 11:44:41</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-964664741</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_sfbunker1</Name>
+        <File>pmc\VTE_objects\VTE_sfbunker1.p3d</File>
+        <Date>09/20/21 11:44:41</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>966039113</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_sfbunker2</Name>
+        <File>pmc\VTE_objects\VTE_sfbunker2.p3d</File>
+        <Date>09/20/21 11:44:41</Date>
+        <Archive></Archive>
+        <Fill>-256</Fill>
+        <Outline>-256</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>966039114</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>
