@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <Library name="VTE_bis_obj_trees" shape="elipse" default_fill="-16760832" default_outline="-16760832" tex="0">
     <Template>
         <Name>VTE_bis_Akat02S</Name>

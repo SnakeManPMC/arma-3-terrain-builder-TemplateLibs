@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <Library name="VTE_objects_bushes" shape="elipse" default_fill="-8323200" default_outline="-8323200" tex="0">
     <Template>
         <Name>VTE_bush01</Name>

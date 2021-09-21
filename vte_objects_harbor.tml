@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <Library name="VTE_objects_harbor" shape="rectangle" default_fill="-65408" default_outline="-65408" tex="0">
     <Template>
         <Name>VTE_dockhouse1</Name>

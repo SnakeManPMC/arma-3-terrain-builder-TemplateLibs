@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <Library name="VTE_objects_fences" shape="rectangle" default_fill="-65536" default_outline="-65536" tex="0">
     <Template>
         <Name>VTE_bamboofence</Name>

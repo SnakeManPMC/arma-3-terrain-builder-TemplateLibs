@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <Library name="VTE_objects_canopy_do_not_use" shape="rectangle" default_fill="-8355776" default_outline="-8355776" tex="0">
     <Template>
         <Name>VTE_canopy1</Name>

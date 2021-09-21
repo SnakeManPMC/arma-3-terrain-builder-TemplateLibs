@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"  encoding="UTF-8"?>
 <Library name="VTE_bis_obj_roads" shape="rectangle" default_fill="-32768" default_outline="-32768" tex="0">
     <Template>
         <Name>VTE_bis_asf10_100</Name>
