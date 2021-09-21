@@ -1,14 +1,14 @@
 <?xml version="1.0"  encoding="UTF-8"?>
-<Library name="VTE_Objects_Fences" shape="rectangle" default_fill="-65536" default_outline="-65536" tex="0">
+<Library name="VTE_Objects_Fences_Military" shape="rectangle" default_fill="-65536" default_outline="-65536" tex="0">
     <Template>
-        <Name>VTE_concfence</Name>
-        <File>pmc\VTE_objects\VTE_concfence.p3d</File>
+        <Name>VTE_rwall05</Name>
+        <File>pmc\VTE_objects\VTE_rwall05.p3d</File>
         <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-65536</Outline>
         <Scale>1.000000</Scale>
-        <Hash>206567704</Hash>
+        <Hash>1373373001</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -34,14 +34,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>VTE_concfence2</Name>
-        <File>pmc\VTE_objects\VTE_concfence2.p3d</File>
+        <Name>VTE_rwall1</Name>
+        <File>pmc\VTE_objects\VTE_rwall1.p3d</File>
         <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-65536</Outline>
         <Scale>1.000000</Scale>
-        <Hash>12995866</Hash>
+        <Hash>-1902233363</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -67,14 +67,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>VTE_concfence3</Name>
-        <File>pmc\VTE_objects\VTE_concfence3.p3d</File>
+        <Name>VTE_rwall2</Name>
+        <File>pmc\VTE_objects\VTE_rwall2.p3d</File>
         <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-65536</Outline>
         <Scale>1.000000</Scale>
-        <Hash>12995867</Hash>
+        <Hash>-1902233362</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -100,14 +100,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>VTE_concfence3b</Name>
-        <File>pmc\VTE_objects\VTE_concfence3b.p3d</File>
+        <Name>VTE_rwallB</Name>
+        <File>pmc\VTE_objects\VTE_rwallB.p3d</File>
         <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-65536</Outline>
         <Scale>1.000000</Scale>
-        <Hash>2112354823</Hash>
+        <Hash>-1902233346</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -133,14 +133,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>VTE_concfence3c</Name>
-        <File>pmc\VTE_objects\VTE_concfence3c.p3d</File>
+        <Name>VTE_rwallL</Name>
+        <File>pmc\VTE_objects\VTE_rwallL.p3d</File>
         <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-65536</Outline>
         <Scale>1.000000</Scale>
-        <Hash>2112354824</Hash>
+        <Hash>-1902233336</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -166,14 +166,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>VTE_concfence3d</Name>
-        <File>pmc\VTE_objects\VTE_concfence3d.p3d</File>
+        <Name>VTE_rwallU</Name>
+        <File>pmc\VTE_objects\VTE_rwallU.p3d</File>
         <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-65536</Outline>
         <Scale>1.000000</Scale>
-        <Hash>2112354825</Hash>
+        <Hash>-1902233327</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -199,14 +199,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>VTE_concfenceend1</Name>
-        <File>pmc\VTE_objects\VTE_concfenceend1.p3d</File>
+        <Name>VTE_rwallv</Name>
+        <File>pmc\VTE_objects\VTE_rwallv.p3d</File>
         <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-65536</Outline>
         <Scale>1.000000</Scale>
-        <Hash>899612334</Hash>
+        <Hash>-1902233294</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -232,14 +232,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>VTE_concfenceend2</Name>
-        <File>pmc\VTE_objects\VTE_concfenceend2.p3d</File>
+        <Name>VTE_sbwall2_5</Name>
+        <File>pmc\VTE_objects\VTE_sbwall2_5.p3d</File>
         <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-65536</Outline>
         <Scale>1.000000</Scale>
-        <Hash>899612335</Hash>
+        <Hash>282705495</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -265,14 +265,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>VTE_townarch</Name>
-        <File>pmc\VTE_objects\VTE_townarch.p3d</File>
+        <Name>VTE_sbwall4</Name>
+        <File>pmc\VTE_objects\VTE_sbwall4.p3d</File>
         <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-65536</Outline>
         <Scale>1.000000</Scale>
-        <Hash>1288022944</Hash>
+        <Hash>757348163</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
@@ -298,14 +298,14 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>VTE_townarchend</Name>
-        <File>pmc\VTE_objects\VTE_townarchend.p3d</File>
+        <Name>VTE_sbwall4h</Name>
+        <File>pmc\VTE_objects\VTE_sbwall4h.p3d</File>
         <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
         <Fill>-65536</Fill>
         <Outline>-65536</Outline>
         <Scale>1.000000</Scale>
-        <Hash>-1428732485</Hash>
+        <Hash>1395431909</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
         <ScaleRandMax>0.000000</ScaleRandMax>
         <YawRandMin>0.000000</YawRandMin>
