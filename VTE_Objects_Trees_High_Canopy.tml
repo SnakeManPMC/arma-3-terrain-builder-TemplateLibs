@@ -1,0 +1,333 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<Library name="VTE_Objects_Trees_High_Canopy" shape="elipse" default_fill="-16760832" default_outline="-16760832" tex="0">
+    <Template>
+        <Name>VTE_tree01</Name>
+        <File>pmc\vte_objects\vte_tree01.p3d</File>
+        <Date>11/13/12 22:16:35</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>499509271</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.355700</BBRadius>
+        <BBHScale>1.266956</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.044107</XShift>
+        <YShift>0.006410</YShift>
+        <ZShift>0.000120</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-7.025630" Y="-0.006141" Z="-5.652600" />
+        <BoundingMax X="6.633455" Y="9.028286" Z="5.071620" />
+        <BoundingCenter X="-0.196087" Y="4.511072" Z="-0.290490" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_tree02</Name>
+        <File>pmc\vte_objects\vte_tree02.p3d</File>
+        <Date>12/18/16 21:27:10</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>499509272</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.068007</BBRadius>
+        <BBHScale>0.974293</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.677508" Y="-0.019698" Z="-3.600727" />
+        <BoundingMax X="4.249355" Y="8.714403" Z="4.535286" />
+        <BoundingCenter X="0.285924" Y="4.347353" Z="0.467279" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_tree10</Name>
+        <File>pmc\vte_objects\vte_tree10.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>499574869</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>15.690569</BBRadius>
+        <BBHScale>0.767243</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000062</XShift>
+        <YShift>-0.000319</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.038542" Y="-0.773524" Z="-15.690887" />
+        <BoundingMax X="12.038542" Y="22.435524" Z="15.690887" />
+        <BoundingCenter X="0.000000" Y="10.831000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_tree11</Name>
+        <File>pmc\vte_objects\vte_tree11.p3d</File>
+        <Date>11/22/12 10:22:37</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>499574870</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.262516</BBRadius>
+        <BBHScale>1.292711</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.009865</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.144604" Y="-0.699686" Z="-13.262516" />
+        <BoundingMax X="17.144604" Y="23.079956" Z="13.262516" />
+        <BoundingCenter X="0.000000" Y="11.190135" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_tree12</Name>
+        <File>pmc\vte_objects\vte_tree12.p3d</File>
+        <Date>11/22/12 10:22:55</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>499574871</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>13.138245</BBRadius>
+        <BBHScale>1.309701</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.207176" Y="-0.774493" Z="-13.138245" />
+        <BoundingMax X="17.207176" Y="22.985420" Z="13.138245" />
+        <BoundingCenter X="0.000000" Y="11.105463" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_tree13</Name>
+        <File>pmc\vte_objects\vte_tree13.p3d</File>
+        <Date>11/22/12 10:23:12</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>499574872</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.935810</BBRadius>
+        <BBHScale>0.779620</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.305397" Y="-0.913843" Z="-11.935810" />
+        <BoundingMax X="9.305397" Y="24.913843" Z="11.935810" />
+        <BoundingCenter X="0.000000" Y="12.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_tree14</Name>
+        <File>pmc\vte_objects\vte_tree14.p3d</File>
+        <Date>11/22/12 10:23:29</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>499574873</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>12.180252</BBRadius>
+        <BBHScale>1.045783</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.737899" Y="-1.127016" Z="-12.180252" />
+        <BoundingMax X="12.737899" Y="25.127016" Z="12.180252" />
+        <BoundingCenter X="0.000000" Y="12.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_tree15</Name>
+        <File>pmc\vte_objects\vte_tree15.p3d</File>
+        <Date>11/22/12 10:23:46</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>499574874</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.912586</BBRadius>
+        <BBHScale>0.789772</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.408224" Y="-0.913843" Z="-11.912586" />
+        <BoundingMax X="9.408224" Y="24.913843" Z="11.912586" />
+        <BoundingCenter X="0.000000" Y="12.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_tree16</Name>
+        <File>pmc\vte_objects\vte_tree16.p3d</File>
+        <Date>11/22/12 10:24:05</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>499574875</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>11.952122</BBRadius>
+        <BBHScale>0.779427</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.315811" Y="-0.913843" Z="-11.952122" />
+        <BoundingMax X="9.315811" Y="24.913843" Z="11.952122" />
+        <BoundingCenter X="0.000000" Y="12.000000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_tree17</Name>
+        <File>pmc\vte_objects\vte_tree17.p3d</File>
+        <Date>11/22/12 10:24:25</Date>
+        <Archive></Archive>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>499574876</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.020647</BBRadius>
+        <BBHScale>0.974293</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.007837</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.865877" Y="-1.478908" Z="-6.020647" />
+        <BoundingMax X="5.865877" Y="11.463235" Z="6.020647" />
+        <BoundingCenter X="0.000000" Y="4.992163" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>
