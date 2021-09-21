@@ -1,0 +1,696 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<Library name="VTE_Objects_Buildings_Town" shape="rectangle" default_fill="-65536" default_outline="-65536" tex="0">
+    <Template>
+        <Name>VTE_townhouse1</Name>
+        <File>pmc\vte_objects\vte_townhouse1.p3d</File>
+        <Date>08/15/10 17:03:07</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-668608421</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.200000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.200000" Y="-0.300000" Z="-5.200000" />
+        <BoundingMax X="5.200000" Y="10.000000" Z="5.200000" />
+        <BoundingCenter X="0.000000" Y="4.850000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townhouse2</Name>
+        <File>pmc\vte_objects\vte_townhouse2.p3d</File>
+        <Date>11/21/12 14:58:33</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-668608420</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.400000</BBRadius>
+        <BBHScale>1.101563</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.050000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-9.300000" Y="-0.400000" Z="-6.600000" />
+        <BoundingMax X="4.800000" Y="9.600000" Z="6.300000" />
+        <BoundingCenter X="-2.250000" Y="4.600000" Z="-0.150000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townhouse3</Name>
+        <File>pmc\vte_objects\vte_townhouse3.p3d</File>
+        <Date>08/15/10 17:03:07</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-668608419</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.406028</BBRadius>
+        <BBHScale>1.044024</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.600000" Y="-0.500000" Z="-4.406027" />
+        <BoundingMax X="4.600000" Y="8.831563" Z="4.406028" />
+        <BoundingCenter X="-0.000000" Y="4.165781" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townhouse4</Name>
+        <File>pmc\vte_objects\vte_townhouse4.p3d</File>
+        <Date>08/15/10 17:03:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-668608418</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>8.100000</BBRadius>
+        <BBHScale>0.592593</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.800001" Y="-0.500000" Z="-8.500000" />
+        <BoundingMax X="4.800000" Y="11.452989" Z="7.700000" />
+        <BoundingCenter X="-0.000000" Y="5.476494" Z="-0.400000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townhouse5</Name>
+        <File>pmc\vte_objects\vte_townhouse5.p3d</File>
+        <Date>08/15/10 17:03:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-668608417</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.100000</BBRadius>
+        <BBHScale>1.196078</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-26.950001</XShift>
+        <YShift>0.250000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.100000" Y="-0.450000" Z="-7.000000" />
+        <BoundingMax X="60.000000" Y="4.400000" Z="3.700000" />
+        <BoundingCenter X="26.950001" Y="1.975000" Z="-1.650000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshanty1</Name>
+        <File>pmc\vte_objects\vte_townshanty1.p3d</File>
+        <Date>11/17/12 05:31:52</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1927172064</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.100000</BBRadius>
+        <BBHScale>1.532258</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.500000" Y="-0.250000" Z="-3.100000" />
+        <BoundingMax X="3.000000" Y="3.722112" Z="3.100000" />
+        <BoundingCenter X="-1.750000" Y="1.736056" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshanty2</Name>
+        <File>pmc\vte_objects\vte_townshanty2.p3d</File>
+        <Date>11/17/12 05:33:25</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1927172065</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.125000</BBRadius>
+        <BBHScale>1.436049</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.001604</XShift>
+        <YShift>-0.050000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.650000" Y="0.000000" Z="-2.700000" />
+        <BoundingMax X="3.650000" Y="2.210000" Z="1.650000" />
+        <BoundingCenter X="0.500000" Y="1.105000" Z="-0.525000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshanty3</Name>
+        <File>pmc\vte_objects\vte_townshanty3.p3d</File>
+        <Date>11/17/12 07:18:55</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1927172066</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.720000</BBRadius>
+        <BBHScale>1.683824</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.042500</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.675000" Y="0.000000" Z="-2.850000" />
+        <BoundingMax X="4.675000" Y="3.015000" Z="2.675000" />
+        <BoundingCenter X="0.000000" Y="1.507500" Z="-0.087500" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshanty4</Name>
+        <File>pmc\vte_objects\vte_townshanty4.p3d</File>
+        <Date>08/15/10 17:03:09</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1927172067</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.600206</BBRadius>
+        <BBHScale>1.249839</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.150000" Y="0.000000" Z="-2.150000" />
+        <BoundingMax X="2.150000" Y="3.010000" Z="1.150000" />
+        <BoundingCenter X="0.000000" Y="1.505000" Z="-0.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop1</Name>
+        <File>pmc\vte_objects\vte_townshop1.p3d</File>
+        <Date>08/15/10 17:03:09</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1953464527</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.250000</BBRadius>
+        <BBHScale>0.615385</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.075000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.000000" Y="-1.000000" Z="-3.500000" />
+        <BoundingMax X="2.000000" Y="3.500000" Z="3.150000" />
+        <BoundingCenter X="0.000000" Y="1.250000" Z="-0.175000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop10</Name>
+        <File>pmc\vte_objects\vte_townshop10.p3d</File>
+        <Date>08/15/10 17:03:09</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-675263169</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.025000</BBRadius>
+        <BBHScale>0.796020</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.075000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.000000" Y="-1.000000" Z="-6.050000" />
+        <BoundingMax X="4.000000" Y="13.000000" Z="4.150000" />
+        <BoundingCenter X="0.000000" Y="6.000000" Z="-0.950000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop11</Name>
+        <File>pmc\vte_objects\vte_townshop11.p3d</File>
+        <Date>08/15/10 17:03:09</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-675263168</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.025000</BBRadius>
+        <BBHScale>0.796020</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.075000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.000000" Y="-1.000000" Z="-6.050000" />
+        <BoundingMax X="4.000000" Y="12.000000" Z="4.150000" />
+        <BoundingCenter X="0.000000" Y="5.500000" Z="-0.950000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop2</Name>
+        <File>pmc\vte_objects\vte_townshop2.p3d</File>
+        <Date>11/13/12 23:05:00</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1953464526</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.250000</BBRadius>
+        <BBHScale>0.923077</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.075000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.000000" Y="-1.000000" Z="-3.500000" />
+        <BoundingMax X="3.000000" Y="3.125000" Z="3.150000" />
+        <BoundingCenter X="0.000000" Y="1.062500" Z="-0.175000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop3</Name>
+        <File>pmc\vte_objects\vte_townshop3.p3d</File>
+        <Date>08/15/10 17:03:10</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1953464525</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.575000</BBRadius>
+        <BBHScale>0.839161</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.075000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.000000" Y="-1.000000" Z="-4.150000" />
+        <BoundingMax X="3.000000" Y="3.000000" Z="3.150000" />
+        <BoundingCenter X="0.000000" Y="1.000000" Z="-0.500000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop4</Name>
+        <File>pmc\vte_objects\vte_townshop4.p3d</File>
+        <Date>08/15/10 17:03:10</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1953464524</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.100000</BBRadius>
+        <BBHScale>1.290323</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.075000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.000000" Y="-1.000000" Z="-3.200000" />
+        <BoundingMax X="4.000000" Y="4.420000" Z="3.150000" />
+        <BoundingCenter X="0.000000" Y="1.710000" Z="-0.025000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop5</Name>
+        <File>pmc\vte_objects\vte_townshop5.p3d</File>
+        <Date>08/15/10 17:03:10</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1953464523</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.280000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.000000" Y="-1.000000" Z="-3.250000" />
+        <BoundingMax X="4.000000" Y="6.365000" Z="3.000000" />
+        <BoundingCenter X="0.000000" Y="2.682500" Z="-0.125000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop6</Name>
+        <File>pmc\vte_objects\vte_townshop6.p3d</File>
+        <Date>08/15/10 17:03:10</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1953464522</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.150000</BBRadius>
+        <BBHScale>1.269841</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.075000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.000000" Y="-1.000000" Z="-3.300000" />
+        <BoundingMax X="4.000000" Y="5.540000" Z="3.150000" />
+        <BoundingCenter X="0.000000" Y="2.270000" Z="-0.075000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop7</Name>
+        <File>pmc\vte_objects\vte_townshop7.p3d</File>
+        <Date>08/15/10 17:03:10</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1953464521</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.125000</BBRadius>
+        <BBHScale>1.600000</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.075000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-5.000000" Y="-1.000000" Z="-3.250000" />
+        <BoundingMax X="5.000000" Y="6.310000" Z="3.150000" />
+        <BoundingCenter X="0.000000" Y="2.655000" Z="-0.050000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop8</Name>
+        <File>pmc\vte_objects\vte_townshop8.p3d</File>
+        <Date>11/17/12 05:36:00</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1953464520</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.050000</BBRadius>
+        <BBHScale>1.018518</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.250000" Y="-1.000000" Z="-4.150000" />
+        <BoundingMax X="4.000000" Y="5.540000" Z="4.150000" />
+        <BoundingCenter X="-0.125000" Y="2.270000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshop9</Name>
+        <File>pmc\vte_objects\vte_townshop9.p3d</File>
+        <Date>08/15/10 17:03:10</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1953464519</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.025000</BBRadius>
+        <BBHScale>0.796020</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.075000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.000000" Y="-1.000000" Z="-6.050000" />
+        <BoundingMax X="4.000000" Y="11.000000" Z="4.150000" />
+        <BoundingCenter X="0.000000" Y="5.000000" Z="-0.950000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_townshopl</Name>
+        <File>pmc\vte_objects\vte_townshopl.p3d</File>
+        <Date>08/15/10 17:03:10</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1953464468</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.250000</BBRadius>
+        <BBHScale>0.923077</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.075000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.000000" Y="-1.000000" Z="-3.500000" />
+        <BoundingMax X="3.000000" Y="3.500000" Z="3.150000" />
+        <BoundingCenter X="0.000000" Y="1.250000" Z="-0.175000" />
+        <Placement></Placement>
+    </Template>
+</Library>
