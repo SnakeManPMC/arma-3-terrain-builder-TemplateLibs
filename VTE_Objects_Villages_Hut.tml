@@ -1,0 +1,531 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<Library name="VTE_Objects_Villages_Hut" shape="rectangle" default_fill="-65536" default_outline="-65536" tex="0">
+    <Template>
+        <Name>VTE_ehut1</Name>
+        <File>pmc\VTE_objects\VTE_ehut1.p3d</File>
+        <Date>09/20/21 11:44:41</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1301676503</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ehut2</Name>
+        <File>pmc\VTE_objects\VTE_ehut2.p3d</File>
+        <Date>09/20/21 11:44:41</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1301676504</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_hut1</Name>
+        <File>pmc\vte_objects\vte_hut1.p3d</File>
+        <Date>11/17/12 07:29:07</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1569419298</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.870804</BBRadius>
+        <BBHScale>0.669979</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.916891" Y="-8.413967" Z="-9.554870" />
+        <BoundingMax X="5.649536" Y="8.040267" Z="12.186737" />
+        <BoundingCenter X="-1.633678" Y="-0.186850" Z="1.315934" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_hut2</Name>
+        <File>pmc\vte_objects\vte_hut2.p3d</File>
+        <Date>11/17/12 07:30:30</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1569419299</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.495862</BBRadius>
+        <BBHScale>1.139263</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.902467" Y="-3.939033" Z="-5.998935" />
+        <BoundingMax X="9.898529" Y="5.825623" Z="6.992790" />
+        <BoundingCenter X="2.498031" Y="0.943295" Z="0.496927" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_hut3</Name>
+        <File>pmc\vte_objects\vte_hut3.p3d</File>
+        <Date>11/17/12 07:31:47</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1569419300</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.492657</BBRadius>
+        <BBHScale>1.141011</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.917860" Y="-3.939033" Z="-5.992524" />
+        <BoundingMax X="9.898529" Y="5.828679" Z="6.992790" />
+        <BoundingCenter X="2.490335" Y="0.944823" Z="0.500133" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_hut4</Name>
+        <File>pmc\vte_objects\vte_hut4.p3d</File>
+        <Date>11/17/12 07:34:22</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1569419301</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.522796</BBRadius>
+        <BBHScale>1.636266</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.902467" Y="-3.939033" Z="-5.998935" />
+        <BoundingMax X="9.898529" Y="5.825623" Z="3.046657" />
+        <BoundingCenter X="2.498031" Y="0.943295" Z="-1.476139" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_hut5</Name>
+        <File>pmc\vte_objects\vte_hut5.p3d</File>
+        <Date>11/17/12 07:35:39</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1569419302</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.503578</BBRadius>
+        <BBHScale>1.644957</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.917860" Y="-3.939033" Z="-5.992524" />
+        <BoundingMax X="9.898529" Y="5.828679" Z="3.014633" />
+        <BoundingCenter X="2.490335" Y="0.944823" Z="-1.488946" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ihut1</Name>
+        <File>pmc\vte_objects\vte_ihut1.p3d</File>
+        <Date>08/15/10 17:02:34</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1564966363</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.232810</BBRadius>
+        <BBHScale>0.881110</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.018035</XShift>
+        <YShift>-0.002610</YShift>
+        <ZShift>-0.042041</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.769514" Y="-1.694655" Z="-5.418963" />
+        <BoundingMax X="3.725703" Y="5.909705" Z="3.051877" />
+        <BoundingCenter X="-0.021905" Y="2.107525" Z="-1.183543" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ihut2</Name>
+        <File>pmc\vte_objects\vte_ihut2.p3d</File>
+        <Date>08/15/10 17:02:34</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1564966364</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.356983</BBRadius>
+        <BBHScale>0.852324</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.005587</XShift>
+        <YShift>-0.018622</YShift>
+        <ZShift>-0.040653</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.769514" Y="-2.444655" Z="-5.699333" />
+        <BoundingMax X="3.718576" Y="5.159705" Z="3.051877" />
+        <BoundingCenter X="-0.025469" Y="1.357525" Z="-1.323728" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ihut3</Name>
+        <File>pmc\vte_objects\vte_ihut3.p3d</File>
+        <Date>08/15/10 17:02:34</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1564966365</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.216798</BBRadius>
+        <BBHScale>0.880659</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.005587</XShift>
+        <YShift>0.121563</YShift>
+        <ZShift>-0.040653</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.769514" Y="-2.444655" Z="-5.699333" />
+        <BoundingMax X="3.718576" Y="5.159705" Z="3.051877" />
+        <BoundingCenter X="-0.025469" Y="1.357525" Z="-1.323728" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ihut4</Name>
+        <File>pmc\vte_objects\vte_ihut4.p3d</File>
+        <Date>11/17/12 09:07:07</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1564966366</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.713561</BBRadius>
+        <BBHScale>1.751934</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.029425</YShift>
+        <ZShift>-0.025365</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.433692" Y="-0.108105" Z="-3.815257" />
+        <BoundingMax X="6.578140" Y="3.912901" Z="3.748357" />
+        <BoundingCenter X="0.072224" Y="1.902398" Z="-0.033450" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_vilhut01</Name>
+        <File>pmc\vte_objects\vte_vilhut01.p3d</File>
+        <Date>12/18/16 21:29:25</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1513721465</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.172844</BBRadius>
+        <BBHScale>1.301722</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.002069</XShift>
+        <YShift>0.905116</YShift>
+        <ZShift>-0.000750</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.831144" Y="-0.126133" Z="-3.084885" />
+        <BoundingMax X="2.831144" Y="2.778133" Z="3.084885" />
+        <BoundingCenter X="0.000000" Y="1.326000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_vilhut02</Name>
+        <File>pmc\vte_objects\vte_vilhut02.p3d</File>
+        <Date>11/17/12 09:18:18</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1513721464</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.680608</BBRadius>
+        <BBHScale>0.854959</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.156804</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.001399</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-3.303571" Y="-0.151962" Z="-3.680608" />
+        <BoundingMax X="3.303571" Y="4.103961" Z="3.680608" />
+        <BoundingCenter X="0.000000" Y="1.976000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_vilhut03</Name>
+        <File>pmc\vte_objects\vte_vilhut03.p3d</File>
+        <Date>11/17/12 09:18:52</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1513721463</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.201253</BBRadius>
+        <BBHScale>1.375399</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.402999" Y="-0.252035" Z="-3.201253" />
+        <BoundingMax X="4.402999" Y="4.920035" Z="3.201253" />
+        <BoundingCenter X="0.000000" Y="2.334000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_vilhut04</Name>
+        <File>pmc\vte_objects\vte_vilhut04.p3d</File>
+        <Date>08/15/10 17:03:25</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1513721462</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>3.075517</BBRadius>
+        <BBHScale>0.819388</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.520042" Y="-0.266280" Z="-3.075517" />
+        <BoundingMax X="2.520042" Y="3.692280" Z="3.075517" />
+        <BoundingCenter X="0.000000" Y="1.713000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_vilhut05</Name>
+        <File>pmc\vte_objects\vte_vilhut05.p3d</File>
+        <Date>12/18/16 21:54:39</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1513721461</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.965360</BBRadius>
+        <BBHScale>0.911680</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.703459" Y="-0.494497" Z="-2.965360" />
+        <BoundingMax X="2.703459" Y="3.600497" Z="2.965360" />
+        <BoundingCenter X="-0.000000" Y="1.553000" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+</Library>
