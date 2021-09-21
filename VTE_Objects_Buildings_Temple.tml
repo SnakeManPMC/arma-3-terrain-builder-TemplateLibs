@@ -1,0 +1,696 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<Library name="VTE_Objects_Buildings" shape="rectangle" default_fill="-65536" default_outline="-65536" tex="0">
+    <Template>
+        <Name>VTE_buddha_statue</Name>
+        <File>pmc\vte_objects\vte_buddha_statue.p3d</File>
+        <Date>11/17/12 07:59:12</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1693610945</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.034544</BBRadius>
+        <BBHScale>1.568228</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.622400" Y="-0.096508" Z="-1.034544" />
+        <BoundingMax X="1.622400" Y="7.650314" Z="1.034544" />
+        <BoundingCenter X="0.000000" Y="3.776903" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_pagoda</Name>
+        <File>pmc\VTE_objects\VTE_pagoda.p3d</File>
+        <Date>09/20/21 11:44:41</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1534042738</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple01</Name>
+        <File>pmc\vte_objects\vte_temple01.p3d</File>
+        <Date>11/18/12 02:13:25</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1838780922</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>27.368851</BBRadius>
+        <BBHScale>0.964257</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.256200</XShift>
+        <YShift>-0.030949</YShift>
+        <ZShift>-0.279839</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-26.112600" Y="-1.585504" Z="-27.395103" />
+        <BoundingMax X="27.522600" Y="24.189301" Z="27.490898" />
+        <BoundingCenter X="0.705000" Y="11.301899" Z="0.047897" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple02</Name>
+        <File>pmc\vte_objects\vte_temple02.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1838780921</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.835445</BBRadius>
+        <BBHScale>1.774863</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.032164</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.024390</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-8.221350" Y="-0.075202" Z="-3.587370" />
+        <BoundingMax X="9.007486" Y="11.403838" Z="6.083521" />
+        <BoundingCenter X="0.393068" Y="5.664318" Z="1.248075" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple03</Name>
+        <File>pmc\vte_objects\vte_temple03.p3d</File>
+        <Date>11/17/12 05:29:57</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1838780920</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>10.441351</BBRadius>
+        <BBHScale>0.983152</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.002410</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.212622" Y="-0.017537" Z="-10.407743" />
+        <BoundingMax X="10.318254" Y="28.218616" Z="10.517597" />
+        <BoundingCenter X="0.052816" Y="14.100540" Z="0.054927" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple04</Name>
+        <File>pmc\vte_objects\vte_temple04.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1838780919</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.353040</BBRadius>
+        <BBHScale>0.945279</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.105896</XShift>
+        <YShift>-0.023743</YShift>
+        <ZShift>-0.261049</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.312400" Y="-0.018290" Z="-2.441166" />
+        <BoundingMax X="2.347953" Y="7.129493" Z="2.312400" />
+        <BoundingCenter X="0.017776" Y="3.555602" Z="-0.064383" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin01</Name>
+        <File>pmc\vte_objects\vte_temple_ruin01.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916693661</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.115898</BBRadius>
+        <BBHScale>2.992102</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.004041</XShift>
+        <YShift>-0.001744</YShift>
+        <ZShift>0.045271</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-14.549070" Y="-1.243839" Z="-6.163947" />
+        <BoundingMax X="22.057795" Y="5.589406" Z="6.082572" />
+        <BoundingCenter X="3.754362" Y="2.172784" Z="-0.040687" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin02</Name>
+        <File>pmc\vte_objects\vte_temple_ruin02.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916693660</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.785324</BBRadius>
+        <BBHScale>2.374773</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.006798</XShift>
+        <YShift>-0.001859</YShift>
+        <ZShift>0.002714</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.745625" Y="-0.463901" Z="-5.787183" />
+        <BoundingMax X="13.745625" Y="5.185213" Z="5.787183" />
+        <BoundingCenter X="0.000000" Y="2.360656" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin03</Name>
+        <File>pmc\vte_objects\vte_temple_ruin03.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916693659</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>16.137833</BBRadius>
+        <BBHScale>1.258152</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>0.032787</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.383472" Y="-1.701538" Z="-13.491971" />
+        <BoundingMax X="25.224228" Y="2.625406" Z="18.783695" />
+        <BoundingCenter X="4.920378" Y="0.461934" Z="2.645862" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin04</Name>
+        <File>pmc\vte_objects\vte_temple_ruin04.p3d</File>
+        <Date>08/15/10 17:03:01</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916693658</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>4.830345</BBRadius>
+        <BBHScale>3.540988</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000004</YShift>
+        <ZShift>-0.001897</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-17.104195" Y="-0.950927" Z="-4.830352" />
+        <BoundingMax X="17.104195" Y="0.839475" Z="4.830352" />
+        <BoundingCenter X="0.000000" Y="-0.055726" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin05</Name>
+        <File>pmc\vte_objects\vte_temple_ruin05.p3d</File>
+        <Date>11/18/12 02:30:45</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916693657</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.311762</BBRadius>
+        <BBHScale>0.240764</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.001579</XShift>
+        <YShift>-0.000486</YShift>
+        <ZShift>0.000002</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.410398" Y="-1.063994" Z="-18.312298" />
+        <BoundingMax X="4.410398" Y="14.834486" Z="18.312298" />
+        <BoundingCenter X="0.000000" Y="6.885246" Z="0.000000" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin05b</Name>
+        <File>pmc\vte_objects\vte_temple_ruin05b.p3d</File>
+        <Date>11/18/12 02:22:37</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1980384955</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.311764</BBRadius>
+        <BBHScale>0.240765</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.004150</XShift>
+        <YShift>0.020435</YShift>
+        <ZShift>-0.000632</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-4.490211" Y="-1.094899" Z="-18.974800" />
+        <BoundingMax X="4.335735" Y="14.804841" Z="17.689598" />
+        <BoundingCenter X="-0.077238" Y="6.854971" Z="-0.642601" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin06</Name>
+        <File>pmc\vte_objects\vte_temple_ruin06.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916693656</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>7.037561</BBRadius>
+        <BBHScale>0.818341</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.073879</XShift>
+        <YShift>0.008154</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-6.196939" Y="-0.960676" Z="-7.576722" />
+        <BoundingMax X="5.535604" Y="7.247672" Z="6.733642" />
+        <BoundingCenter X="-0.330667" Y="3.143498" Z="-0.421540" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin07</Name>
+        <File>pmc\vte_objects\vte_temple_ruin07.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916693655</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.488211</BBRadius>
+        <BBHScale>0.735580</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000002</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-13.520103" Y="-0.719198" Z="-20.939123" />
+        <BoundingMax X="13.679016" Y="3.543773" Z="16.037302" />
+        <BoundingCenter X="0.079456" Y="1.412287" Z="-2.450911" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin08</Name>
+        <File>pmc\vte_objects\vte_temple_ruin08.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916693654</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>19.114426</BBRadius>
+        <BBHScale>0.847287</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-15.378728" Y="-0.688608" Z="-16.940582" />
+        <BoundingMax X="17.012074" Y="5.699789" Z="21.288269" />
+        <BoundingCenter X="0.816673" Y="2.505590" Z="2.173843" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin09</Name>
+        <File>pmc\vte_objects\vte_temple_ruin09.p3d</File>
+        <Date>11/18/12 02:23:09</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916693653</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>18.601362</BBRadius>
+        <BBHScale>0.735877</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>0.000006</YShift>
+        <ZShift>0.043020</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-12.909054" Y="-0.912172" Z="-19.114296" />
+        <BoundingMax X="14.467583" Y="4.596800" Z="18.088440" />
+        <BoundingCenter X="0.779264" Y="1.842314" Z="-0.512928" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin10</Name>
+        <File>pmc\vte_objects\vte_temple_ruin10.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916628063</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>19.162891</BBRadius>
+        <BBHScale>0.463982</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-11.075314" Y="-0.847960" Z="-18.051659" />
+        <BoundingMax X="6.707169" Y="3.405879" Z="20.274124" />
+        <BoundingCenter X="-2.184072" Y="1.278959" Z="1.111233" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin11</Name>
+        <File>pmc\vte_objects\vte_temple_ruin11.p3d</File>
+        <Date>11/18/12 02:32:19</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916628062</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>6.403502</BBRadius>
+        <BBHScale>2.292257</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>0.000640</XShift>
+        <YShift>0.000038</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-10.759794" Y="-1.094869" Z="-4.746212" />
+        <BoundingMax X="18.598431" Y="5.983593" Z="8.060867" />
+        <BoundingCenter X="3.919318" Y="2.444362" Z="1.657328" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin12</Name>
+        <File>pmc\vte_objects\vte_temple_ruin12.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916628061</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.318033</BBRadius>
+        <BBHScale>1.051462</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.376794" Y="-0.490841" Z="-0.437938" />
+        <BoundingMax X="0.412390" Y="5.135960" Z="0.312621" />
+        <BoundingCenter X="0.017798" Y="2.322559" Z="-0.062659" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin13</Name>
+        <File>pmc\vte_objects\vte_temple_ruin13.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916628060</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.318033</BBRadius>
+        <BBHScale>7.338256</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.010635</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.376794" Y="-0.490841" Z="-0.437938" />
+        <BoundingMax X="4.432479" Y="5.135960" Z="0.312621" />
+        <BoundingCenter X="2.027843" Y="2.322559" Z="-0.062659" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_temple_ruin14</Name>
+        <File>pmc\vte_objects\vte_temple_ruin14.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
+        <Archive></Archive>
+        <Fill>-65536</Fill>
+        <Outline>-65536</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-1916628059</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>5.720981</BBRadius>
+        <BBHScale>0.848907</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.614062" Y="-0.213269" Z="-5.130895" />
+        <BoundingMax X="8.099097" Y="0.486983" Z="6.311067" />
+        <BoundingCenter X="3.242518" Y="0.136857" Z="0.590086" />
+        <Placement></Placement>
+    </Template>
+</Library>
