@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
-<Library name="VTE_objects_trees" shape="elipse" default_fill="-16760832" default_outline="-1" tex="0">
+<Library name="VTE_objects_trees" shape="elipse" default_fill="-16760832" default_outline="-16760832" tex="0">
     <Template>
         <Name>VTE_fallenpalmt1</Name>
-        <File>pmc\VTE_objects\VTE_fallenpalmt1.p3d</File>
-        <Date>11/13/12 23:09:28</Date>
+        <File>pmc\vte_objects\vte_fallenpalmt1.p3d</File>
+        <Date>11/13/12 21:09:29</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>1972444875</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -27,7 +27,7 @@
         <XShift>-0.001341</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>3.413453</Height>
         <BoundingMin X="-11.623227" Y="-2.514208" Z="-4.260936" />
         <BoundingMax X="0.849473" Y="4.312697" Z="4.071304" />
         <BoundingCenter X="-5.386877" Y="0.899245" Z="-0.094816" />
@@ -35,11 +35,11 @@
     </Template>
     <Template>
         <Name>VTE_fallentree1</Name>
-        <File>pmc\VTE_objects\VTE_fallentree1.p3d</File>
-        <Date>11/13/12 23:29:24</Date>
+        <File>pmc\vte_objects\vte_fallentree1.p3d</File>
+        <Date>11/13/12 21:29:25</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>1466336471</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -68,11 +68,11 @@
     </Template>
     <Template>
         <Name>VTE_fallentree2</Name>
-        <File>pmc\VTE_objects\VTE_fallentree2.p3d</File>
-        <Date>08/15/10 18:58:11</Date>
+        <File>pmc\vte_objects\vte_fallentree2.p3d</File>
+        <Date>08/15/10 16:58:12</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>1466336472</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -101,11 +101,11 @@
     </Template>
     <Template>
         <Name>VTE_ipalm2</Name>
-        <File>pmc\VTE_objects\VTE_ipalm2.p3d</File>
-        <Date>11/13/12 23:58:16</Date>
+        <File>pmc\vte_objects\vte_ipalm2.p3d</File>
+        <Date>11/13/12 21:58:17</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-342280977</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -126,7 +126,7 @@
         <XShift>-0.036271</XShift>
         <YShift>0.052072</YShift>
         <ZShift>-0.303663</ZShift>
-        <Height>0.000000</Height>
+        <Height>1.156477</Height>
         <BoundingMin X="-2.411332" Y="-0.047644" Z="-2.311633" />
         <BoundingMax X="2.273867" Y="2.958116" Z="2.502894" />
         <BoundingCenter X="-0.068733" Y="1.455236" Z="0.095631" />
@@ -134,11 +134,11 @@
     </Template>
     <Template>
         <Name>VTE_ipalm3</Name>
-        <File>pmc\VTE_objects\VTE_ipalm3.p3d</File>
-        <Date>11/14/12 02:44:49</Date>
+        <File>pmc\vte_objects\vte_ipalm3.p3d</File>
+        <Date>11/14/12 00:44:50</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-342280976</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -159,7 +159,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.000000</ZShift>
-        <Height>0.000000</Height>
+        <Height>9.683444</Height>
         <BoundingMin X="-7.159462" Y="-3.036768" Z="-7.617836" />
         <BoundingMax X="7.956715" Y="16.330120" Z="7.480760" />
         <BoundingCenter X="0.398626" Y="6.646676" Z="-0.068538" />
@@ -167,11 +167,11 @@
     </Template>
     <Template>
         <Name>VTE_ipalmt</Name>
-        <File>pmc\VTE_objects\VTE_ipalmt.p3d</File>
-        <Date>11/14/12 02:45:35</Date>
+        <File>pmc\vte_objects\vte_ipalmt.p3d</File>
+        <Date>11/14/12 00:45:35</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-342280911</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -200,11 +200,11 @@
     </Template>
     <Template>
         <Name>VTE_ipalmt1</Name>
-        <File>pmc\VTE_objects\VTE_ipalmt1.p3d</File>
-        <Date>11/17/12 08:12:38</Date>
+        <File>pmc\vte_objects\vte_ipalmt1.p3d</File>
+        <Date>11/17/12 06:12:39</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>803542848</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -225,7 +225,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.035447</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.651259</Height>
         <BoundingMin X="-3.450269" Y="-0.146911" Z="-3.801177" />
         <BoundingMax X="4.107821" Y="13.226501" Z="3.748121" />
         <BoundingCenter X="0.328776" Y="6.539795" Z="-0.026528" />
@@ -233,11 +233,11 @@
     </Template>
     <Template>
         <Name>VTE_ipalmt2</Name>
-        <File>pmc\VTE_objects\VTE_ipalmt2.p3d</File>
-        <Date>11/17/12 09:14:59</Date>
+        <File>pmc\vte_objects\vte_ipalmt2.p3d</File>
+        <Date>11/17/12 07:14:59</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>803542849</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -258,7 +258,7 @@
         <XShift>0.210652</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>-0.207272</ZShift>
-        <Height>0.000000</Height>
+        <Height>6.923966</Height>
         <BoundingMin X="-0.671705" Y="0.007680" Z="-3.801177" />
         <BoundingMax X="8.620075" Y="14.270155" Z="3.748121" />
         <BoundingCenter X="3.974185" Y="7.138917" Z="-0.026528" />
@@ -266,11 +266,11 @@
     </Template>
     <Template>
         <Name>VTE_ipalmt3</Name>
-        <File>pmc\VTE_objects\VTE_ipalmt3.p3d</File>
-        <Date>11/17/12 09:16:02</Date>
+        <File>pmc\vte_objects\vte_ipalmt3.p3d</File>
+        <Date>11/17/12 07:16:02</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>803542850</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -299,11 +299,11 @@
     </Template>
     <Template>
         <Name>VTE_ipalmt4</Name>
-        <File>pmc\VTE_objects\VTE_ipalmt4.p3d</File>
-        <Date>11/17/12 09:17:03</Date>
+        <File>pmc\vte_objects\vte_ipalmt4.p3d</File>
+        <Date>11/17/12 07:17:04</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>803542851</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -332,11 +332,11 @@
     </Template>
     <Template>
         <Name>VTE_itree01</Name>
-        <File>pmc\VTE_objects\VTE_itree01.p3d</File>
-        <Date>11/14/12 00:08:36</Date>
+        <File>pmc\vte_objects\vte_itree01.p3d</File>
+        <Date>11/13/12 22:08:36</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1050367664</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -357,7 +357,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.019075</YShift>
         <ZShift>0.212662</ZShift>
-        <Height>0.000000</Height>
+        <Height>4.074663</Height>
         <BoundingMin X="-4.298690" Y="-0.999988" Z="-3.725570" />
         <BoundingMax X="4.298691" Y="7.574663" Z="3.763721" />
         <BoundingCenter X="0.000000" Y="3.287338" Z="0.019075" />
@@ -365,11 +365,11 @@
     </Template>
     <Template>
         <Name>VTE_itree02</Name>
-        <File>pmc\VTE_objects\VTE_itree02.p3d</File>
-        <Date>11/14/12 00:09:19</Date>
+        <File>pmc\vte_objects\vte_itree02.p3d</File>
+        <Date>11/13/12 22:09:20</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1050367663</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -390,7 +390,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.009667</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.965358</Height>
         <BoundingMin X="-4.364567" Y="-1.010025" Z="-4.364567" />
         <BoundingMax X="4.364567" Y="10.940025" Z="4.364565" />
         <BoundingCenter X="0.000000" Y="4.965000" Z="-0.000001" />
@@ -398,11 +398,11 @@
     </Template>
     <Template>
         <Name>VTE_itree03</Name>
-        <File>pmc\VTE_objects\VTE_itree03.p3d</File>
-        <Date>11/14/12 00:10:03</Date>
+        <File>pmc\vte_objects\vte_itree03.p3d</File>
+        <Date>11/13/12 22:10:04</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1050367662</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -431,11 +431,11 @@
     </Template>
     <Template>
         <Name>VTE_itree04</Name>
-        <File>pmc\VTE_objects\VTE_itree04.p3d</File>
-        <Date>11/14/12 00:43:58</Date>
+        <File>pmc\vte_objects\vte_itree04.p3d</File>
+        <Date>11/13/12 22:43:59</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1050367661</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -456,7 +456,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.258760</ZShift>
-        <Height>0.000000</Height>
+        <Height>5.464333</Height>
         <BoundingMin X="-4.364567" Y="-0.990690" Z="-4.364567" />
         <BoundingMax X="4.364567" Y="10.604215" Z="4.364565" />
         <BoundingCenter X="0.000000" Y="4.806762" Z="-0.000001" />
@@ -464,11 +464,11 @@
     </Template>
     <Template>
         <Name>VTE_stump_itree</Name>
-        <File>pmc\VTE_objects\VTE_stump_itree.p3d</File>
-        <Date>11/14/12 00:13:39</Date>
+        <File>pmc\vte_objects\vte_stump_itree.p3d</File>
+        <Date>11/13/12 22:13:40</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>622698983</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -497,11 +497,11 @@
     </Template>
     <Template>
         <Name>VTE_stump_palmt</Name>
-        <File>pmc\VTE_objects\VTE_stump_palmt.p3d</File>
-        <Date>11/14/12 00:14:26</Date>
+        <File>pmc\vte_objects\vte_stump_palmt.p3d</File>
+        <Date>11/13/12 22:14:27</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1985584702</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -531,10 +531,10 @@
     <Template>
         <Name>VTE_stump_tree01</Name>
         <File>pmc\VTE_objects\VTE_stump_tree01.p3d</File>
-        <Date>09/24/10 15:03:32</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-751591169</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -549,25 +549,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>0.355858</BBRadius>
-        <BBHScale>0.981444</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.349255" Y="-0.024916" Z="-0.355858" />
-        <BoundingMax X="0.349255" Y="2.550097" Z="0.355858" />
-        <BoundingCenter X="0.000000" Y="1.262590" Z="0.000000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_stump_tree02</Name>
-        <File>pmc\VTE_objects\VTE_stump_tree02.p3d</File>
-        <Date>08/15/10 19:02:57</Date>
+        <File>pmc\vte_objects\vte_stump_tree02.p3d</File>
+        <Date>08/15/10 17:02:58</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-751591168</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -597,10 +597,10 @@
     <Template>
         <Name>VTE_stump_tree03</Name>
         <File>pmc\VTE_objects\VTE_stump_tree03.p3d</File>
-        <Date>09/24/10 15:04:37</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-751591167</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -615,25 +615,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.654778</BBRadius>
-        <BBHScale>0.296767</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-0.787849" Y="-0.553057" Z="-2.654778" />
-        <BoundingMax X="0.787849" Y="0.553057" Z="2.654778" />
-        <BoundingCenter X="0.000000" Y="-0.000000" Z="0.000000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_stump_tree04</Name>
         <File>pmc\VTE_objects\VTE_stump_tree04.p3d</File>
-        <Date>09/24/10 15:05:04</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-751591166</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -648,25 +648,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.039463</BBRadius>
-        <BBHScale>1.055000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.096634" Y="-1.356136" Z="-1.039463" />
-        <BoundingMax X="1.096634" Y="3.356136" Z="1.039463" />
-        <BoundingCenter X="0.000000" Y="1.000000" Z="0.000000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_stump_tree06</Name>
-        <File>pmc\VTE_objects\VTE_stump_tree06.p3d</File>
-        <Date>11/14/12 00:15:21</Date>
+        <File>pmc\vte_objects\vte_stump_tree06.p3d</File>
+        <Date>11/13/12 22:15:22</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-751591164</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -695,11 +695,11 @@
     </Template>
     <Template>
         <Name>VTE_tree01</Name>
-        <File>pmc\VTE_objects\VTE_tree01.p3d</File>
-        <Date>11/14/12 00:16:35</Date>
+        <File>pmc\vte_objects\vte_tree01.p3d</File>
+        <Date>11/13/12 22:16:35</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499509271</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -728,11 +728,11 @@
     </Template>
     <Template>
         <Name>VTE_tree02</Name>
-        <File>pmc\VTE_objects\VTE_tree02.p3d</File>
-        <Date>12/18/16 23:27:09</Date>
+        <File>pmc\vte_objects\vte_tree02.p3d</File>
+        <Date>12/18/16 21:27:10</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499509272</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -761,11 +761,11 @@
     </Template>
     <Template>
         <Name>VTE_tree03</Name>
-        <File>pmc\VTE_objects\VTE_tree03.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <File>pmc\vte_objects\vte_tree03.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499509273</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -794,11 +794,11 @@
     </Template>
     <Template>
         <Name>VTE_tree04</Name>
-        <File>pmc\VTE_objects\VTE_tree04.p3d</File>
-        <Date>12/18/16 23:27:37</Date>
+        <File>pmc\vte_objects\vte_tree04.p3d</File>
+        <Date>12/18/16 21:27:38</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499509274</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -827,11 +827,11 @@
     </Template>
     <Template>
         <Name>VTE_tree05</Name>
-        <File>pmc\VTE_objects\VTE_tree05.p3d</File>
-        <Date>12/18/16 23:28:32</Date>
+        <File>pmc\vte_objects\vte_tree05.p3d</File>
+        <Date>12/18/16 21:28:32</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499509275</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -860,11 +860,11 @@
     </Template>
     <Template>
         <Name>VTE_tree06</Name>
-        <File>pmc\VTE_objects\VTE_tree06.p3d</File>
-        <Date>11/17/12 06:03:52</Date>
+        <File>pmc\vte_objects\vte_tree06.p3d</File>
+        <Date>11/17/12 04:03:52</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499509276</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -893,11 +893,11 @@
     </Template>
     <Template>
         <Name>VTE_tree06a</Name>
-        <File>pmc\VTE_objects\VTE_tree06a.p3d</File>
-        <Date>11/17/12 06:04:37</Date>
+        <File>pmc\vte_objects\vte_tree06a.p3d</File>
+        <Date>11/17/12 04:04:37</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>1003495237</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -926,11 +926,11 @@
     </Template>
     <Template>
         <Name>VTE_tree06b</Name>
-        <File>pmc\VTE_objects\VTE_tree06b.p3d</File>
-        <Date>11/17/12 06:01:24</Date>
+        <File>pmc\vte_objects\vte_tree06b.p3d</File>
+        <Date>11/17/12 04:01:24</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>1003495238</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -959,11 +959,11 @@
     </Template>
     <Template>
         <Name>VTE_tree06c</Name>
-        <File>pmc\VTE_objects\VTE_tree06c.p3d</File>
-        <Date>11/17/12 06:03:03</Date>
+        <File>pmc\vte_objects\vte_tree06c.p3d</File>
+        <Date>11/17/12 04:03:04</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>1003495239</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -992,11 +992,11 @@
     </Template>
     <Template>
         <Name>VTE_tree07</Name>
-        <File>pmc\VTE_objects\VTE_tree07.p3d</File>
-        <Date>08/15/10 19:03:13</Date>
+        <File>pmc\vte_objects\vte_tree07.p3d</File>
+        <Date>08/15/10 17:03:13</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499509277</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1025,11 +1025,11 @@
     </Template>
     <Template>
         <Name>VTE_tree08</Name>
-        <File>pmc\VTE_objects\VTE_tree08.p3d</File>
-        <Date>11/17/12 08:39:06</Date>
+        <File>pmc\vte_objects\vte_tree08.p3d</File>
+        <Date>11/17/12 06:39:06</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499509278</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1058,11 +1058,11 @@
     </Template>
     <Template>
         <Name>VTE_tree09</Name>
-        <File>pmc\VTE_objects\VTE_tree09.p3d</File>
-        <Date>11/22/12 12:22:07</Date>
+        <File>pmc\vte_objects\vte_tree09.p3d</File>
+        <Date>11/22/12 10:22:07</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499509279</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1091,11 +1091,11 @@
     </Template>
     <Template>
         <Name>VTE_tree10</Name>
-        <File>pmc\VTE_objects\VTE_tree10.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <File>pmc\vte_objects\vte_tree10.p3d</File>
+        <Date>11/17/12 09:07:08</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499574869</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1124,11 +1124,11 @@
     </Template>
     <Template>
         <Name>VTE_tree11</Name>
-        <File>pmc\VTE_objects\VTE_tree11.p3d</File>
-        <Date>11/22/12 12:22:37</Date>
+        <File>pmc\vte_objects\vte_tree11.p3d</File>
+        <Date>11/22/12 10:22:37</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499574870</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1157,11 +1157,11 @@
     </Template>
     <Template>
         <Name>VTE_tree12</Name>
-        <File>pmc\VTE_objects\VTE_tree12.p3d</File>
-        <Date>11/22/12 12:22:55</Date>
+        <File>pmc\vte_objects\vte_tree12.p3d</File>
+        <Date>11/22/12 10:22:55</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499574871</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1190,11 +1190,11 @@
     </Template>
     <Template>
         <Name>VTE_tree13</Name>
-        <File>pmc\VTE_objects\VTE_tree13.p3d</File>
-        <Date>11/22/12 12:23:11</Date>
+        <File>pmc\vte_objects\vte_tree13.p3d</File>
+        <Date>11/22/12 10:23:12</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499574872</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1223,11 +1223,11 @@
     </Template>
     <Template>
         <Name>VTE_tree14</Name>
-        <File>pmc\VTE_objects\VTE_tree14.p3d</File>
-        <Date>11/22/12 12:23:29</Date>
+        <File>pmc\vte_objects\vte_tree14.p3d</File>
+        <Date>11/22/12 10:23:29</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499574873</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1256,11 +1256,11 @@
     </Template>
     <Template>
         <Name>VTE_tree15</Name>
-        <File>pmc\VTE_objects\VTE_tree15.p3d</File>
-        <Date>11/22/12 12:23:45</Date>
+        <File>pmc\vte_objects\vte_tree15.p3d</File>
+        <Date>11/22/12 10:23:46</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499574874</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1289,11 +1289,11 @@
     </Template>
     <Template>
         <Name>VTE_tree16</Name>
-        <File>pmc\VTE_objects\VTE_tree16.p3d</File>
-        <Date>11/22/12 12:24:05</Date>
+        <File>pmc\vte_objects\vte_tree16.p3d</File>
+        <Date>11/22/12 10:24:05</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499574875</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1322,11 +1322,11 @@
     </Template>
     <Template>
         <Name>VTE_tree17</Name>
-        <File>pmc\VTE_objects\VTE_tree17.p3d</File>
-        <Date>11/22/12 12:24:25</Date>
+        <File>pmc\vte_objects\vte_tree17.p3d</File>
+        <Date>11/22/12 10:24:25</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499574876</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1355,11 +1355,11 @@
     </Template>
     <Template>
         <Name>VTE_tree18</Name>
-        <File>pmc\VTE_objects\VTE_tree18.p3d</File>
-        <Date>11/22/12 12:24:44</Date>
+        <File>pmc\vte_objects\vte_tree18.p3d</File>
+        <Date>11/22/12 10:24:44</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499574877</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1388,11 +1388,11 @@
     </Template>
     <Template>
         <Name>VTE_tree19</Name>
-        <File>pmc\VTE_objects\VTE_tree19.p3d</File>
-        <Date>11/22/12 12:25:01</Date>
+        <File>pmc\vte_objects\vte_tree19.p3d</File>
+        <Date>11/22/12 10:25:02</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499574878</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1421,11 +1421,11 @@
     </Template>
     <Template>
         <Name>VTE_tree20</Name>
-        <File>pmc\VTE_objects\VTE_tree20.p3d</File>
-        <Date>11/22/12 12:25:29</Date>
+        <File>pmc\vte_objects\vte_tree20.p3d</File>
+        <Date>11/22/12 10:25:29</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499640468</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1454,11 +1454,11 @@
     </Template>
     <Template>
         <Name>VTE_tree21</Name>
-        <File>pmc\VTE_objects\VTE_tree21.p3d</File>
-        <Date>11/22/12 12:25:47</Date>
+        <File>pmc\vte_objects\vte_tree21.p3d</File>
+        <Date>11/22/12 10:25:47</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499640469</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1479,7 +1479,7 @@
         <XShift>-0.000000</XShift>
         <YShift>-0.000000</YShift>
         <ZShift>0.000174</ZShift>
-        <Height>0.000000</Height>
+        <Height>7.052716</Height>
         <BoundingMin X="-4.364566" Y="-0.179585" Z="-4.364566" />
         <BoundingMax X="4.364566" Y="13.926194" Z="4.364566" />
         <BoundingCenter X="0.000000" Y="6.873304" Z="0.000000" />
@@ -1487,11 +1487,11 @@
     </Template>
     <Template>
         <Name>VTE_tree22</Name>
-        <File>pmc\VTE_objects\VTE_tree22.p3d</File>
-        <Date>11/22/12 12:26:13</Date>
+        <File>pmc\vte_objects\vte_tree22.p3d</File>
+        <Date>11/22/12 10:26:14</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499640470</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1520,11 +1520,11 @@
     </Template>
     <Template>
         <Name>VTE_tree23</Name>
-        <File>pmc\VTE_objects\VTE_tree23.p3d</File>
-        <Date>11/22/12 12:26:32</Date>
+        <File>pmc\vte_objects\vte_tree23.p3d</File>
+        <Date>11/22/12 10:26:32</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499640471</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1553,11 +1553,11 @@
     </Template>
     <Template>
         <Name>VTE_tree24</Name>
-        <File>pmc\VTE_objects\VTE_tree24.p3d</File>
-        <Date>11/22/12 12:26:50</Date>
+        <File>pmc\vte_objects\vte_tree24.p3d</File>
+        <Date>11/22/12 10:26:51</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>499640472</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1587,10 +1587,10 @@
     <Template>
         <Name>VTE_tree_rubber01</Name>
         <File>pmc\VTE_objects\VTE_tree_rubber01.p3d</File>
-        <Date>11/22/12 12:19:58</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>914029594</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1605,25 +1605,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.400818</BBRadius>
-        <BBHScale>0.866497</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.813293" Y="-0.113325" Z="-4.400818" />
-        <BoundingMax X="3.813293" Y="12.113325" Z="4.400818" />
-        <BoundingCenter X="0.000000" Y="6.000000" Z="0.000000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_tree_rubber02</Name>
         <File>pmc\VTE_objects\VTE_tree_rubber02.p3d</File>
-        <Date>11/22/12 12:20:24</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>914029595</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1638,25 +1638,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>5.042313</BBRadius>
-        <BBHScale>0.761723</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.840843" Y="-0.178757" Z="-5.042313" />
-        <BoundingMax X="3.840843" Y="12.178757" Z="5.042313" />
-        <BoundingCenter X="0.000000" Y="6.000000" Z="0.000000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_tree_rubber03</Name>
         <File>pmc\VTE_objects\VTE_tree_rubber03.p3d</File>
-        <Date>11/22/12 12:20:41</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>914029596</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1671,25 +1671,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.303558</BBRadius>
-        <BBHScale>1.103766</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>0.078794</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-4.750122" Y="-0.045599" Z="-4.303558" />
-        <BoundingMax X="4.750122" Y="11.888012" Z="4.303558" />
-        <BoundingCenter X="0.000000" Y="5.921206" Z="0.000000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_tree_rubber04</Name>
         <File>pmc\VTE_objects\VTE_tree_rubber04.p3d</File>
-        <Date>11/22/12 12:20:58</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>914029597</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1704,16 +1704,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.482224</BBRadius>
-        <BBHScale>1.170272</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>0.000191</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-5.245419" Y="-0.023343" Z="-4.482224" />
-        <BoundingMax X="5.245419" Y="12.022961" Z="4.482224" />
-        <BoundingCenter X="0.000000" Y="5.999809" Z="0.000000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
 </Library>

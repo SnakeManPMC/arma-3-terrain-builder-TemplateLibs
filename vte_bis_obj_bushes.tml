@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
-<Library name="VTE_bis_obj_bushes" shape="elipse" default_fill="-16744448" default_outline="-1" tex="0">
+<Library name="VTE_bis_obj_bushes" shape="elipse" default_fill="-8323200" default_outline="-8323200" tex="0">
     <Template>
         <Name>VTE_bis_DD_bush01</Name>
-        <File>pmc\VTE_bis_obj\VTE_bis_DD_bush01.p3d</File>
-        <Date>11/18/12 05:56:48</Date>
+        <File>pmc\vte_bis_obj\vte_bis_dd_bush01.p3d</File>
+        <Date>11/18/12 03:56:49</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>1806425053</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -35,11 +35,11 @@
     </Template>
     <Template>
         <Name>VTE_bis_ker_trs_travy3</Name>
-        <File>pmc\VTE_bis_obj\VTE_bis_ker_trs_travy3.p3d</File>
-        <Date>10/14/17 09:44:33</Date>
+        <File>pmc\vte_bis_obj\vte_bis_ker_trs_travy3.p3d</File>
+        <Date>10/14/17 07:44:34</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1314555351</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -68,11 +68,11 @@
     </Template>
     <Template>
         <Name>VTE_bis_ker_trs_travy5</Name>
-        <File>pmc\VTE_bis_obj\VTE_bis_ker_trs_travy5.p3d</File>
-        <Date>11/18/12 05:56:50</Date>
+        <File>pmc\vte_bis_obj\vte_bis_ker_trs_travy5.p3d</File>
+        <Date>11/18/12 03:56:50</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1314555349</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>

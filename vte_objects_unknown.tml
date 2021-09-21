@@ -1,3 +1,2 @@
-<?xml version="1.0"  encoding="windows-1252"?>
-<Library name="VTE_objects_unknown" shape="elipse" default_fill="-16760832" default_outline="-1" tex="0">
-</Library>
+<?xml version="1.0" ?>
+<Library name="VTE_objects_unknown" shape="elipse" default_fill="-16760832" default_outline="-16760832" tex="0" />

@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
-<Library name="VTE_bis_obj_trees" shape="elipse" default_fill="-16760832" default_outline="-1" tex="0">
+<Library name="VTE_bis_obj_trees" shape="elipse" default_fill="-16760832" default_outline="-16760832" tex="0">
     <Template>
         <Name>VTE_bis_Akat02S</Name>
         <File>pmc\VTE_bis_obj\VTE_bis_Akat02S.p3d</File>
-        <Date>11/18/12 05:56:47</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1657851767</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -21,25 +21,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.595151</BBRadius>
-        <BBHScale>1.087594</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.014967</XShift>
-        <YShift>-0.170783</YShift>
-        <ZShift>-0.258033</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-5.075259" Y="-0.539638" Z="-3.875847" />
-        <BoundingMax X="5.504551" Y="8.335523" Z="5.656023" />
-        <BoundingCenter X="0.214646" Y="3.897942" Z="0.890088" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_bis_Krovi</Name>
         <File>pmc\VTE_bis_obj\VTE_bis_Krovi.p3d</File>
-        <Date>11/18/12 05:56:50</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>1886182640</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -54,25 +54,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.636590</BBRadius>
-        <BBHScale>1.672888</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.011305</XShift>
-        <YShift>-0.054406</YShift>
-        <ZShift>0.040125</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.065599" Y="-0.780037" Z="-1.753921" />
-        <BoundingMax X="2.753662" Y="1.931694" Z="1.634073" />
-        <BoundingCenter X="-0.155969" Y="0.575829" Z="-0.059924" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_bis_Krovi2</Name>
         <File>pmc\VTE_bis_obj\VTE_bis_Krovi2.p3d</File>
-        <Date>11/18/12 05:56:50</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-2017829054</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -87,25 +87,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.702641</BBRadius>
-        <BBHScale>1.183045</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.407510</XShift>
-        <YShift>0.353340</YShift>
-        <ZShift>0.059667</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.050626" Y="-1.113380" Z="-3.672281" />
-        <BoundingMax X="4.312982" Y="7.115695" Z="2.842304" />
-        <BoundingCenter X="0.631178" Y="3.001157" Z="-0.414988" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_bis_Krovi4</Name>
         <File>pmc\VTE_bis_obj\VTE_bis_Krovi4.p3d</File>
-        <Date>11/18/12 05:56:50</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-2017829052</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -120,25 +120,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.636590</BBRadius>
-        <BBHScale>1.946092</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.006740</XShift>
-        <YShift>-0.246497</YShift>
-        <ZShift>0.134702</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.810474" Y="-0.839794" Z="-1.723051" />
-        <BoundingMax X="2.697327" Y="1.894413" Z="2.043123" />
-        <BoundingCenter X="-0.556574" Y="0.527309" Z="0.160036" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_bis_Krovi_bigest</Name>
         <File>pmc\VTE_bis_obj\VTE_bis_Krovi_bigest.p3d</File>
-        <Date>11/18/12 05:56:50</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>1597420021</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -153,25 +153,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.762636</BBRadius>
-        <BBHScale>0.986837</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.167381</XShift>
-        <YShift>0.041656</YShift>
-        <ZShift>0.064562</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.760553" Y="-0.649352" Z="-1.563323" />
-        <BoundingMax X="2.053077" Y="3.750158" Z="2.062229" />
-        <BoundingCenter X="0.146262" Y="1.550403" Z="0.249453" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_bis_Krovi_long</Name>
         <File>pmc\VTE_bis_obj\VTE_bis_Krovi_long.p3d</File>
-        <Date>11/18/12 05:56:50</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-16760832</Fill>
+        <Outline>-16760832</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1871743637</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -186,16 +186,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>1.754819</BBRadius>
-        <BBHScale>2.070574</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.268669</XShift>
-        <YShift>0.079394</YShift>
-        <ZShift>0.047005</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-5.859879" Y="-0.657720" Z="-2.533582" />
-        <BoundingMax X="2.092447" Y="2.235953" Z="2.374695" />
-        <BoundingCenter X="-1.883716" Y="0.789116" Z="-0.079443" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
 </Library>

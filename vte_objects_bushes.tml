@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
-<Library name="VTE_objects_bushes" shape="elipse" default_fill="-16744448" default_outline="-1" tex="0">
+<Library name="VTE_objects_bushes" shape="elipse" default_fill="-8323200" default_outline="-8323200" tex="0">
     <Template>
         <Name>VTE_bush01</Name>
-        <File>pmc\VTE_objects\VTE_bush01.p3d</File>
-        <Date>11/14/12 00:19:28</Date>
+        <File>pmc\vte_objects\vte_bush01.p3d</File>
+        <Date>11/13/12 22:19:29</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414857311</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -35,11 +35,11 @@
     </Template>
     <Template>
         <Name>VTE_bush02</Name>
-        <File>pmc\VTE_objects\VTE_bush02.p3d</File>
-        <Date>11/17/12 08:50:07</Date>
+        <File>pmc\vte_objects\vte_bush02.p3d</File>
+        <Date>11/17/12 06:50:07</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414857310</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -68,11 +68,11 @@
     </Template>
     <Template>
         <Name>VTE_bush03</Name>
-        <File>pmc\VTE_objects\VTE_bush03.p3d</File>
-        <Date>09/18/10 04:34:23</Date>
+        <File>pmc\vte_objects\vte_bush03.p3d</File>
+        <Date>09/18/10 02:34:24</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414857309</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -101,11 +101,11 @@
     </Template>
     <Template>
         <Name>VTE_bush04</Name>
-        <File>pmc\VTE_objects\VTE_bush04.p3d</File>
-        <Date>11/17/12 08:51:38</Date>
+        <File>pmc\vte_objects\vte_bush04.p3d</File>
+        <Date>11/17/12 06:51:39</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414857308</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -134,11 +134,11 @@
     </Template>
     <Template>
         <Name>VTE_bush05</Name>
-        <File>pmc\VTE_objects\VTE_bush05.p3d</File>
-        <Date>11/22/12 12:01:10</Date>
+        <File>pmc\vte_objects\vte_bush05.p3d</File>
+        <Date>11/22/12 10:01:10</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414857307</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -167,11 +167,11 @@
     </Template>
     <Template>
         <Name>VTE_bush06</Name>
-        <File>pmc\VTE_objects\VTE_bush06.p3d</File>
-        <Date>11/22/12 12:01:43</Date>
+        <File>pmc\vte_objects\vte_bush06.p3d</File>
+        <Date>11/22/12 10:01:44</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414857306</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -200,11 +200,11 @@
     </Template>
     <Template>
         <Name>VTE_bush07</Name>
-        <File>pmc\VTE_objects\VTE_bush07.p3d</File>
-        <Date>11/22/12 12:02:11</Date>
+        <File>pmc\vte_objects\vte_bush07.p3d</File>
+        <Date>11/22/12 10:02:12</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414857305</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -233,11 +233,11 @@
     </Template>
     <Template>
         <Name>VTE_bush08</Name>
-        <File>pmc\VTE_objects\VTE_bush08.p3d</File>
-        <Date>11/22/12 12:02:33</Date>
+        <File>pmc\vte_objects\vte_bush08.p3d</File>
+        <Date>11/22/12 10:02:34</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414857304</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -266,11 +266,11 @@
     </Template>
     <Template>
         <Name>VTE_bush09</Name>
-        <File>pmc\VTE_objects\VTE_bush09.p3d</File>
-        <Date>11/22/12 12:02:53</Date>
+        <File>pmc\vte_objects\vte_bush09.p3d</File>
+        <Date>11/22/12 10:02:54</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414857303</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -299,11 +299,11 @@
     </Template>
     <Template>
         <Name>VTE_bush10</Name>
-        <File>pmc\VTE_objects\VTE_bush10.p3d</File>
-        <Date>11/22/12 12:03:15</Date>
+        <File>pmc\vte_objects\vte_bush10.p3d</File>
+        <Date>11/22/12 10:03:15</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414791713</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -332,11 +332,11 @@
     </Template>
     <Template>
         <Name>VTE_bush11</Name>
-        <File>pmc\VTE_objects\VTE_bush11.p3d</File>
-        <Date>11/22/12 12:03:32</Date>
+        <File>pmc\vte_objects\vte_bush11.p3d</File>
+        <Date>11/22/12 10:03:32</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414791712</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -365,11 +365,11 @@
     </Template>
     <Template>
         <Name>VTE_bush12</Name>
-        <File>pmc\VTE_objects\VTE_bush12.p3d</File>
-        <Date>11/22/12 12:03:50</Date>
+        <File>pmc\vte_objects\vte_bush12.p3d</File>
+        <Date>11/22/12 10:03:50</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414791711</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -398,11 +398,11 @@
     </Template>
     <Template>
         <Name>VTE_bush13</Name>
-        <File>pmc\VTE_objects\VTE_bush13.p3d</File>
-        <Date>11/22/12 12:04:07</Date>
+        <File>pmc\vte_objects\vte_bush13.p3d</File>
+        <Date>11/22/12 10:04:08</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414791710</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -431,11 +431,11 @@
     </Template>
     <Template>
         <Name>VTE_bush14</Name>
-        <File>pmc\VTE_objects\VTE_bush14.p3d</File>
-        <Date>11/22/12 12:04:25</Date>
+        <File>pmc\vte_objects\vte_bush14.p3d</File>
+        <Date>11/22/12 10:04:25</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414791709</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -464,11 +464,11 @@
     </Template>
     <Template>
         <Name>VTE_bush15</Name>
-        <File>pmc\VTE_objects\VTE_bush15.p3d</File>
-        <Date>11/22/12 12:04:43</Date>
+        <File>pmc\vte_objects\vte_bush15.p3d</File>
+        <Date>11/22/12 10:04:43</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414791708</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -497,11 +497,11 @@
     </Template>
     <Template>
         <Name>VTE_bush16</Name>
-        <File>pmc\VTE_objects\VTE_bush16.p3d</File>
-        <Date>11/22/12 12:05:01</Date>
+        <File>pmc\vte_objects\vte_bush16.p3d</File>
+        <Date>11/22/12 10:05:02</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414791707</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -530,11 +530,11 @@
     </Template>
     <Template>
         <Name>VTE_bush17</Name>
-        <File>pmc\VTE_objects\VTE_bush17.p3d</File>
-        <Date>11/22/12 12:05:21</Date>
+        <File>pmc\vte_objects\vte_bush17.p3d</File>
+        <Date>11/22/12 10:05:21</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414791706</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -563,11 +563,11 @@
     </Template>
     <Template>
         <Name>VTE_bush18</Name>
-        <File>pmc\VTE_objects\VTE_bush18.p3d</File>
-        <Date>11/22/12 12:05:39</Date>
+        <File>pmc\vte_objects\vte_bush18.p3d</File>
+        <Date>11/22/12 10:05:39</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414791705</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -596,11 +596,11 @@
     </Template>
     <Template>
         <Name>VTE_bush19</Name>
-        <File>pmc\VTE_objects\VTE_bush19.p3d</File>
-        <Date>11/22/12 12:05:56</Date>
+        <File>pmc\vte_objects\vte_bush19.p3d</File>
+        <Date>11/22/12 10:05:57</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414791704</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -629,11 +629,11 @@
     </Template>
     <Template>
         <Name>VTE_bush20</Name>
-        <File>pmc\VTE_objects\VTE_bush20.p3d</File>
-        <Date>11/22/12 12:06:17</Date>
+        <File>pmc\vte_objects\vte_bush20.p3d</File>
+        <Date>11/22/12 10:06:18</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414726114</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -662,11 +662,11 @@
     </Template>
     <Template>
         <Name>VTE_bush21</Name>
-        <File>pmc\VTE_objects\VTE_bush21.p3d</File>
-        <Date>11/22/12 12:06:34</Date>
+        <File>pmc\vte_objects\vte_bush21.p3d</File>
+        <Date>11/22/12 10:06:35</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414726113</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -695,11 +695,11 @@
     </Template>
     <Template>
         <Name>VTE_bush22</Name>
-        <File>pmc\VTE_objects\VTE_bush22.p3d</File>
-        <Date>11/22/12 12:06:52</Date>
+        <File>pmc\vte_objects\vte_bush22.p3d</File>
+        <Date>11/22/12 10:06:53</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414726112</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -728,11 +728,11 @@
     </Template>
     <Template>
         <Name>VTE_bush23</Name>
-        <File>pmc\VTE_objects\VTE_bush23.p3d</File>
-        <Date>11/22/12 12:07:11</Date>
+        <File>pmc\vte_objects\vte_bush23.p3d</File>
+        <Date>11/22/12 10:07:11</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414726111</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -761,11 +761,11 @@
     </Template>
     <Template>
         <Name>VTE_bush24</Name>
-        <File>pmc\VTE_objects\VTE_bush24.p3d</File>
-        <Date>11/22/12 12:07:28</Date>
+        <File>pmc\vte_objects\vte_bush24.p3d</File>
+        <Date>11/22/12 10:07:28</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414726110</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -794,11 +794,11 @@
     </Template>
     <Template>
         <Name>VTE_bush25</Name>
-        <File>pmc\VTE_objects\VTE_bush25.p3d</File>
-        <Date>11/22/12 12:07:46</Date>
+        <File>pmc\vte_objects\vte_bush25.p3d</File>
+        <Date>11/22/12 10:07:47</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414726109</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -827,11 +827,11 @@
     </Template>
     <Template>
         <Name>VTE_bush26</Name>
-        <File>pmc\VTE_objects\VTE_bush26.p3d</File>
-        <Date>11/22/12 12:08:06</Date>
+        <File>pmc\vte_objects\vte_bush26.p3d</File>
+        <Date>11/22/12 10:08:06</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414726108</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -860,11 +860,11 @@
     </Template>
     <Template>
         <Name>VTE_bush27</Name>
-        <File>pmc\VTE_objects\VTE_bush27.p3d</File>
-        <Date>11/22/12 12:08:24</Date>
+        <File>pmc\vte_objects\vte_bush27.p3d</File>
+        <Date>11/22/12 10:08:25</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414726107</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -893,11 +893,11 @@
     </Template>
     <Template>
         <Name>VTE_bush28</Name>
-        <File>pmc\VTE_objects\VTE_bush28.p3d</File>
-        <Date>11/22/12 12:08:41</Date>
+        <File>pmc\vte_objects\vte_bush28.p3d</File>
+        <Date>11/22/12 10:08:42</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414726106</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -926,11 +926,11 @@
     </Template>
     <Template>
         <Name>VTE_bush29</Name>
-        <File>pmc\VTE_objects\VTE_bush29.p3d</File>
-        <Date>11/22/12 12:08:59</Date>
+        <File>pmc\vte_objects\vte_bush29.p3d</File>
+        <Date>11/22/12 10:09:00</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414726105</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -959,11 +959,11 @@
     </Template>
     <Template>
         <Name>VTE_bush30</Name>
-        <File>pmc\VTE_objects\VTE_bush30.p3d</File>
-        <Date>11/22/12 12:09:21</Date>
+        <File>pmc\vte_objects\vte_bush30.p3d</File>
+        <Date>11/22/12 10:09:21</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414660515</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -992,11 +992,11 @@
     </Template>
     <Template>
         <Name>VTE_bush31</Name>
-        <File>pmc\VTE_objects\VTE_bush31.p3d</File>
-        <Date>11/22/12 12:09:39</Date>
+        <File>pmc\vte_objects\vte_bush31.p3d</File>
+        <Date>11/22/12 10:09:40</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414660514</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1025,11 +1025,11 @@
     </Template>
     <Template>
         <Name>VTE_bush32</Name>
-        <File>pmc\VTE_objects\VTE_bush32.p3d</File>
-        <Date>11/22/12 12:09:58</Date>
+        <File>pmc\vte_objects\vte_bush32.p3d</File>
+        <Date>11/22/12 10:09:59</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414660513</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1058,11 +1058,11 @@
     </Template>
     <Template>
         <Name>VTE_bush33</Name>
-        <File>pmc\VTE_objects\VTE_bush33.p3d</File>
-        <Date>11/22/12 11:58:36</Date>
+        <File>pmc\vte_objects\vte_bush33.p3d</File>
+        <Date>11/22/12 09:58:37</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414660512</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1091,11 +1091,11 @@
     </Template>
     <Template>
         <Name>VTE_bush34</Name>
-        <File>pmc\VTE_objects\VTE_bush34.p3d</File>
-        <Date>11/22/12 11:58:49</Date>
+        <File>pmc\vte_objects\vte_bush34.p3d</File>
+        <Date>11/22/12 09:58:49</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414660511</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1124,11 +1124,11 @@
     </Template>
     <Template>
         <Name>VTE_bush35</Name>
-        <File>pmc\VTE_objects\VTE_bush35.p3d</File>
-        <Date>11/22/12 12:10:52</Date>
+        <File>pmc\vte_objects\vte_bush35.p3d</File>
+        <Date>11/22/12 10:10:52</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414660510</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1157,11 +1157,11 @@
     </Template>
     <Template>
         <Name>VTE_bush36</Name>
-        <File>pmc\VTE_objects\VTE_bush36.p3d</File>
-        <Date>11/22/12 12:11:14</Date>
+        <File>pmc\vte_objects\vte_bush36.p3d</File>
+        <Date>11/22/12 10:11:14</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414660509</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1190,11 +1190,11 @@
     </Template>
     <Template>
         <Name>VTE_bush37</Name>
-        <File>pmc\VTE_objects\VTE_bush37.p3d</File>
-        <Date>11/22/12 12:11:31</Date>
+        <File>pmc\vte_objects\vte_bush37.p3d</File>
+        <Date>11/22/12 10:11:32</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414660508</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1223,11 +1223,11 @@
     </Template>
     <Template>
         <Name>VTE_bush38</Name>
-        <File>pmc\VTE_objects\VTE_bush38.p3d</File>
-        <Date>11/22/12 12:11:54</Date>
+        <File>pmc\vte_objects\vte_bush38.p3d</File>
+        <Date>11/22/12 10:11:55</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-414660507</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1256,11 +1256,11 @@
     </Template>
     <Template>
         <Name>VTE_bush_dry_01</Name>
-        <File>pmc\VTE_objects\VTE_bush_dry_01.p3d</File>
-        <Date>09/24/10 13:41:26</Date>
+        <File>pmc\vte_objects\vte_bush_dry_01.p3d</File>
+        <Date>09/24/10 11:41:26</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1456992140</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1289,11 +1289,11 @@
     </Template>
     <Template>
         <Name>VTE_bush_dry_02</Name>
-        <File>pmc\VTE_objects\VTE_bush_dry_02.p3d</File>
-        <Date>09/24/10 13:42:11</Date>
+        <File>pmc\vte_objects\vte_bush_dry_02.p3d</File>
+        <Date>09/24/10 11:42:12</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1456992139</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1322,11 +1322,11 @@
     </Template>
     <Template>
         <Name>VTE_bush_dry_03</Name>
-        <File>pmc\VTE_objects\VTE_bush_dry_03.p3d</File>
-        <Date>09/24/10 13:42:37</Date>
+        <File>pmc\vte_objects\vte_bush_dry_03.p3d</File>
+        <Date>09/24/10 11:42:38</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1456992138</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1355,11 +1355,11 @@
     </Template>
     <Template>
         <Name>VTE_drygrass1</Name>
-        <File>pmc\VTE_objects\VTE_drygrass1.p3d</File>
-        <Date>11/17/12 07:53:24</Date>
+        <File>pmc\vte_objects\vte_drygrass1.p3d</File>
+        <Date>11/17/12 05:53:25</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-861400274</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1388,11 +1388,11 @@
     </Template>
     <Template>
         <Name>VTE_drygrass2</Name>
-        <File>pmc\VTE_objects\VTE_drygrass2.p3d</File>
-        <Date>11/17/12 10:34:16</Date>
+        <File>pmc\vte_objects\vte_drygrass2.p3d</File>
+        <Date>11/17/12 08:34:16</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-861400273</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1421,11 +1421,11 @@
     </Template>
     <Template>
         <Name>VTE_grass</Name>
-        <File>pmc\VTE_objects\VTE_grass.p3d</File>
-        <Date>11/17/12 07:57:10</Date>
+        <File>pmc\vte_objects\vte_grass.p3d</File>
+        <Date>11/17/12 05:57:11</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1663520450</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1454,11 +1454,11 @@
     </Template>
     <Template>
         <Name>VTE_grass02</Name>
-        <File>pmc\VTE_objects\VTE_grass02.p3d</File>
-        <Date>11/22/12 12:13:27</Date>
+        <File>pmc\vte_objects\vte_grass02.p3d</File>
+        <Date>11/22/12 10:13:27</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-129499584</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1487,11 +1487,11 @@
     </Template>
     <Template>
         <Name>VTE_grass03</Name>
-        <File>pmc\VTE_objects\VTE_grass03.p3d</File>
-        <Date>06/30/13 17:26:26</Date>
+        <File>pmc\vte_objects\vte_grass03.p3d</File>
+        <Date>06/30/13 15:26:26</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-129499583</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1520,11 +1520,11 @@
     </Template>
     <Template>
         <Name>VTE_grass04</Name>
-        <File>pmc\VTE_objects\VTE_grass04.p3d</File>
-        <Date>11/22/12 12:14:04</Date>
+        <File>pmc\vte_objects\vte_grass04.p3d</File>
+        <Date>11/22/12 10:14:04</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-129499582</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1553,11 +1553,11 @@
     </Template>
     <Template>
         <Name>VTE_grass05</Name>
-        <File>pmc\VTE_objects\VTE_grass05.p3d</File>
-        <Date>11/22/12 12:14:24</Date>
+        <File>pmc\vte_objects\vte_grass05.p3d</File>
+        <Date>11/22/12 10:14:24</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-129499581</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1586,11 +1586,11 @@
     </Template>
     <Template>
         <Name>VTE_grasspatch</Name>
-        <File>pmc\VTE_objects\VTE_grasspatch.p3d</File>
-        <Date>11/17/12 07:58:41</Date>
+        <File>pmc\vte_objects\vte_grasspatch.p3d</File>
+        <Date>11/17/12 05:58:42</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>287630410</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1619,11 +1619,11 @@
     </Template>
     <Template>
         <Name>VTE_grasspatch2</Name>
-        <File>pmc\VTE_objects\VTE_grasspatch2.p3d</File>
-        <Date>11/17/12 07:59:14</Date>
+        <File>pmc\vte_objects\vte_grasspatch2.p3d</File>
+        <Date>11/17/12 05:59:14</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>475934312</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1652,11 +1652,11 @@
     </Template>
     <Template>
         <Name>VTE_grass_tall_01</Name>
-        <File>pmc\VTE_objects\VTE_grass_tall_01.p3d</File>
-        <Date>11/22/12 12:13:05</Date>
+        <File>pmc\vte_objects\vte_grass_tall_01.p3d</File>
+        <Date>11/22/12 10:13:06</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>1188595794</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1685,11 +1685,11 @@
     </Template>
     <Template>
         <Name>VTE_iban1</Name>
-        <File>pmc\VTE_objects\VTE_iban1.p3d</File>
-        <Date>11/14/12 00:21:46</Date>
+        <File>pmc\vte_objects\vte_iban1.p3d</File>
+        <Date>11/13/12 22:21:46</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>1010786771</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1718,11 +1718,11 @@
     </Template>
     <Template>
         <Name>VTE_iban2</Name>
-        <File>pmc\VTE_objects\VTE_iban2.p3d</File>
-        <Date>11/17/12 08:01:23</Date>
+        <File>pmc\vte_objects\vte_iban2.p3d</File>
+        <Date>11/17/12 06:01:24</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>1010786772</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1751,11 +1751,11 @@
     </Template>
     <Template>
         <Name>VTE_iban3</Name>
-        <File>pmc\VTE_objects\VTE_iban3.p3d</File>
-        <Date>11/17/12 08:02:08</Date>
+        <File>pmc\vte_objects\vte_iban3.p3d</File>
+        <Date>11/17/12 06:02:09</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>1010786773</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1784,11 +1784,11 @@
     </Template>
     <Template>
         <Name>VTE_ibush01</Name>
-        <File>pmc\VTE_objects\VTE_ibush01.p3d</File>
-        <Date>09/24/10 15:14:45</Date>
+        <File>pmc\vte_objects\vte_ibush01.p3d</File>
+        <Date>09/24/10 13:14:45</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1964734246</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1816,12 +1816,111 @@
         <Placement></Placement>
     </Template>
     <Template>
-        <Name>VTE_iplant1</Name>
-        <File>pmc\VTE_objects\VTE_iplant1.p3d</File>
-        <Date>11/14/12 00:03:44</Date>
+        <Name>VTE_ipalms</Name>
+        <File>pmc\vte_objects\vte_ipalms.p3d</File>
+        <Date>11/17/12 06:11:29</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-342280912</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.355191</BBRadius>
+        <BBHScale>0.979253</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.094265</XShift>
+        <YShift>0.052072</YShift>
+        <ZShift>-0.325033</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.469327" Y="-0.073903" Z="-2.311633" />
+        <BoundingMax X="2.331862" Y="2.424563" Z="2.502894" />
+        <BoundingCenter X="-0.068733" Y="1.175330" Z="0.095631" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ipalms2</Name>
+        <File>pmc\vte_objects\vte_ipalms2.p3d</File>
+        <Date>11/17/12 09:07:07</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>803477250</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.355191</BBRadius>
+        <BBHScale>0.979253</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.036271</XShift>
+        <YShift>0.052072</YShift>
+        <ZShift>-0.325033</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.411332" Y="-0.040350" Z="-2.311633" />
+        <BoundingMax X="2.273867" Y="2.458116" Z="2.502894" />
+        <BoundingCenter X="-0.068733" Y="1.208883" Z="0.095631" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_ipalms3</Name>
+        <File>pmc\vte_objects\vte_ipalms3.p3d</File>
+        <Date>11/13/12 22:01:04</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>803477251</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>2.355191</BBRadius>
+        <BBHScale>0.979253</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.036271</XShift>
+        <YShift>0.052072</YShift>
+        <ZShift>-0.313097</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-2.411332" Y="-0.047644" Z="-2.311633" />
+        <BoundingMax X="2.273867" Y="2.958116" Z="2.502894" />
+        <BoundingCenter X="-0.068733" Y="1.455236" Z="0.095631" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_iplant1</Name>
+        <File>pmc\vte_objects\vte_iplant1.p3d</File>
+        <Date>11/13/12 22:03:45</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>465585047</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1850,11 +1949,11 @@
     </Template>
     <Template>
         <Name>VTE_iplant2</Name>
-        <File>pmc\VTE_objects\VTE_iplant2.p3d</File>
-        <Date>11/14/12 00:04:22</Date>
+        <File>pmc\vte_objects\vte_iplant2.p3d</File>
+        <Date>11/13/12 22:04:23</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>465585048</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1883,11 +1982,11 @@
     </Template>
     <Template>
         <Name>VTE_iplant3</Name>
-        <File>pmc\VTE_objects\VTE_iplant3.p3d</File>
-        <Date>11/14/12 00:04:59</Date>
+        <File>pmc\vte_objects\vte_iplant3.p3d</File>
+        <Date>11/13/12 22:04:59</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>465585049</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1916,11 +2015,11 @@
     </Template>
     <Template>
         <Name>VTE_iplant4</Name>
-        <File>pmc\VTE_objects\VTE_iplant4.p3d</File>
-        <Date>11/14/12 00:05:35</Date>
+        <File>pmc\vte_objects\vte_iplant4.p3d</File>
+        <Date>11/13/12 22:05:36</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>465585050</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1949,11 +2048,11 @@
     </Template>
     <Template>
         <Name>VTE_iplant5</Name>
-        <File>pmc\VTE_objects\VTE_iplant5.p3d</File>
-        <Date>11/14/12 00:06:11</Date>
+        <File>pmc\vte_objects\vte_iplant5.p3d</File>
+        <Date>11/13/12 22:06:12</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>465585051</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1982,11 +2081,11 @@
     </Template>
     <Template>
         <Name>VTE_iplant6</Name>
-        <File>pmc\VTE_objects\VTE_iplant6.p3d</File>
-        <Date>11/14/12 00:06:56</Date>
+        <File>pmc\vte_objects\vte_iplant6.p3d</File>
+        <Date>11/13/12 22:06:56</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>465585052</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -2015,11 +2114,11 @@
     </Template>
     <Template>
         <Name>VTE_iplant7</Name>
-        <File>pmc\VTE_objects\VTE_iplant7.p3d</File>
-        <Date>11/14/12 00:07:32</Date>
+        <File>pmc\vte_objects\vte_iplant7.p3d</File>
+        <Date>11/13/12 22:07:33</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>465585053</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -2048,11 +2147,11 @@
     </Template>
     <Template>
         <Name>VTE_plant01</Name>
-        <File>pmc\VTE_objects\VTE_plant01.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <File>pmc\vte_objects\vte_plant01.p3d</File>
+        <Date>11/17/12 09:07:07</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>312218900</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -2081,11 +2180,11 @@
     </Template>
     <Template>
         <Name>VTE_plant02</Name>
-        <File>pmc\VTE_objects\VTE_plant02.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <File>pmc\vte_objects\vte_plant02.p3d</File>
+        <Date>11/17/12 09:07:07</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>312218901</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -2114,11 +2213,11 @@
     </Template>
     <Template>
         <Name>VTE_plant03</Name>
-        <File>pmc\VTE_objects\VTE_plant03.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <File>pmc\vte_objects\vte_plant03.p3d</File>
+        <Date>11/17/12 09:07:07</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>312218902</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -2147,11 +2246,11 @@
     </Template>
     <Template>
         <Name>VTE_plant04</Name>
-        <File>pmc\VTE_objects\VTE_plant04.p3d</File>
-        <Date>11/14/12 02:49:21</Date>
+        <File>pmc\vte_objects\vte_plant04.p3d</File>
+        <Date>11/14/12 00:49:22</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>312218903</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -2180,11 +2279,11 @@
     </Template>
     <Template>
         <Name>VTE_plant05</Name>
-        <File>pmc\VTE_objects\VTE_plant05.p3d</File>
-        <Date>11/14/12 02:48:33</Date>
+        <File>pmc\vte_objects\vte_plant05.p3d</File>
+        <Date>11/14/12 00:48:33</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>312218904</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -2213,11 +2312,11 @@
     </Template>
     <Template>
         <Name>VTE_plant06</Name>
-        <File>pmc\VTE_objects\VTE_plant06.p3d</File>
-        <Date>11/14/12 02:47:52</Date>
+        <File>pmc\vte_objects\vte_plant06.p3d</File>
+        <Date>11/14/12 00:47:52</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>312218905</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -2246,11 +2345,11 @@
     </Template>
     <Template>
         <Name>VTE_tallgrass</Name>
-        <File>pmc\VTE_objects\VTE_tallgrass.p3d</File>
-        <Date>10/14/12 06:18:18</Date>
+        <File>pmc\vte_objects\vte_tallgrass.p3d</File>
+        <Date>10/14/12 04:18:18</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
         <Scale>1.000000</Scale>
         <Hash>-608853999</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>

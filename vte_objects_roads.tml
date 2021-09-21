@@ -1,12 +1,12 @@
 <?xml version="1.0" ?>
-<Library name="VTE_objects_roads" shape="rectangle" default_fill="-32768" default_outline="-1" tex="0">
+<Library name="VTE_objects_roads" shape="rectangle" default_fill="-32768" default_outline="-32768" tex="0">
     <Template>
         <Name>VTE_gravel10_100</Name>
         <File>pmc\VTE_objects\VTE_gravel10_100.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1458643728</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -21,25 +21,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>8.986273</BBRadius>
-        <BBHScale>0.471053</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="4.966021" Y="0.000000" Z="17.972546" />
-        <BoundingCenter X="0.733010" Y="0.000000" Z="8.986273" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_gravel10_25</Name>
         <File>pmc\VTE_objects\VTE_gravel10_25.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-600234652</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -54,25 +54,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.474474</BBRadius>
-        <BBHScale>1.480447</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="3.826656" Y="0.000000" Z="4.948949" />
-        <BoundingCenter X="0.163328" Y="0.000000" Z="2.474474" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_gravel10_50</Name>
         <File>pmc\VTE_objects\VTE_gravel10_50.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-600037860</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -87,25 +87,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.645082</BBRadius>
-        <BBHScale>0.829528</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="4.206454" Y="0.000000" Z="9.290164" />
-        <BoundingCenter X="0.353227" Y="0.000000" Z="4.645082" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_gravel10_75</Name>
         <File>pmc\VTE_objects\VTE_gravel10_75.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-599906657</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -120,25 +120,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.815690</BBRadius>
-        <BBHScale>0.593208</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="4.586240" Y="0.000000" Z="13.631379" />
-        <BoundingCenter X="0.543120" Y="0.000000" Z="6.815690" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_gravel12</Name>
         <File>pmc\VTE_objects\VTE_gravel12.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1978132096</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -153,25 +153,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.250000</BBRadius>
-        <BBHScale>0.560000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="3.500000" Y="0.000000" Z="12.500000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_gravel25</Name>
         <File>pmc\VTE_objects\VTE_gravel25.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1978197698</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -186,25 +186,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>12.500000</BBRadius>
-        <BBHScale>0.280000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="3.500000" Y="0.000000" Z="25.000000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_gravel6</Name>
         <File>pmc\VTE_objects\VTE_gravel6.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>2100536887</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -219,25 +219,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.125000</BBRadius>
-        <BBHScale>1.120000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="3.500000" Y="0.000000" Z="6.250000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_gravel6konec</Name>
         <File>pmc\VTE_objects\VTE_gravel6konec.p3d</File>
-        <Date>11/17/12 11:07:07</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1945418097</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -252,25 +252,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.125000</BBRadius>
-        <BBHScale>1.120000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-3.500000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="3.500000" Y="0.000000" Z="6.250000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpaddy10_100</Name>
         <File>pmc\VTE_objects\VTE_itrailpaddy10_100.p3d</File>
-        <Date>11/17/12 08:18:23</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>491398020</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -285,25 +285,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>8.834690</BBRadius>
-        <BBHScale>0.282945</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000349</YShift>
-        <ZShift>0.015860</ZShift>
-        <Height>0.314649</Height>
-        <BoundingMin X="-2.497650" Y="-0.061567" Z="-8.835215" />
-        <BoundingMax X="2.501817" Y="0.599451" Z="8.834864" />
-        <BoundingCenter X="0.002083" Y="0.268942" Z="-0.000175" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpaddy10_25</Name>
         <File>pmc\VTE_objects\VTE_itrailpaddy10_25.p3d</File>
-        <Date>11/17/12 08:19:36</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>2136262640</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -318,25 +318,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.321916</BBRadius>
-        <BBHScale>0.830402</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.000320</XShift>
-        <YShift>-0.009364</YShift>
-        <ZShift>0.012968</ZShift>
-        <Height>0.314639</Height>
-        <BoundingMin X="-1.926655" Y="-0.055763" Z="-2.322850" />
-        <BoundingMax X="1.930233" Y="0.599451" Z="2.340816" />
-        <BoundingCenter X="0.001789" Y="0.271844" Z="0.008983" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpaddy10_50</Name>
         <File>pmc\VTE_objects\VTE_itrailpaddy10_50.p3d</File>
-        <Date>11/17/12 08:20:55</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>2136459432</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -351,25 +351,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.492275</BBRadius>
-        <BBHScale>0.472009</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.001083</XShift>
-        <YShift>-0.009642</YShift>
-        <ZShift>0.015861</ZShift>
-        <Height>0.314639</Height>
-        <BoundingMin X="-2.122363" Y="-0.061549" Z="-4.493624" />
-        <BoundingMax X="2.120592" Y="0.599451" Z="4.510209" />
-        <BoundingCenter X="-0.000885" Y="0.268951" Z="0.008292" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpaddy10_75</Name>
         <File>pmc\VTE_objects\VTE_itrailpaddy10_75.p3d</File>
-        <Date>11/17/12 08:22:12</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>2136590635</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -384,25 +384,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.664676</BBRadius>
-        <BBHScale>0.347201</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>0.009642</YShift>
-        <ZShift>0.015860</ZShift>
-        <Height>0.314639</Height>
-        <BoundingMin X="-2.313105" Y="-0.061548" Z="-6.683434" />
-        <BoundingMax X="2.314857" Y="0.599451" Z="6.665200" />
-        <BoundingCenter X="0.000876" Y="0.268952" Z="-0.009117" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpaddy12</Name>
         <File>pmc\VTE_objects\VTE_itrailpaddy12.p3d</File>
-        <Date>11/17/12 08:23:29</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>2073680628</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -417,25 +417,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.250751</BBRadius>
-        <BBHScale>0.280916</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>0.000884</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>0.012968</ZShift>
-        <Height>0.314639</Height>
-        <BoundingMin X="-1.756873" Y="-0.055763" Z="-6.250123" />
-        <BoundingMax X="1.757995" Y="0.599451" Z="6.251378" />
-        <BoundingCenter X="0.000561" Y="0.271844" Z="0.000627" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpaddy25</Name>
         <File>pmc\VTE_objects\VTE_itrailpaddy25.p3d</File>
-        <Date>11/17/12 08:24:42</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>2073746230</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -450,25 +450,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>12.501690</BBRadius>
-        <BBHScale>0.140484</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000070</XShift>
-        <YShift>-0.009642</YShift>
-        <ZShift>0.010326</ZShift>
-        <Height>0.314639</Height>
-        <BoundingMin X="-1.790191" Y="-0.055763" Z="-12.501628" />
-        <BoundingMax X="1.792638" Y="0.604734" Z="12.521035" />
-        <BoundingCenter X="0.001223" Y="0.274485" Z="0.009704" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpaddy6</Name>
         <File>pmc\VTE_objects\VTE_itrailpaddy6.p3d</File>
-        <Date>11/17/12 08:25:53</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1216785213</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -483,25 +483,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.136016</BBRadius>
-        <BBHScale>0.559169</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.016010</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>0.012968</ZShift>
-        <Height>0.314639</Height>
-        <BoundingMin X="-1.754462" Y="-0.055763" Z="-3.142151" />
-        <BoundingMax X="1.784686" Y="0.599451" Z="3.129881" />
-        <BoundingCenter X="0.015112" Y="0.271844" Z="-0.006135" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpaddy6konec</Name>
         <File>pmc\VTE_objects\VTE_itrailpaddy6konec.p3d</File>
-        <Date>11/17/12 08:27:12</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>978172389</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -516,25 +516,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.136016</BBRadius>
-        <BBHScale>0.559169</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.016010</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>0.012968</ZShift>
-        <Height>0.314639</Height>
-        <BoundingMin X="-1.754462" Y="-0.055763" Z="-3.142151" />
-        <BoundingMax X="1.784686" Y="0.599451" Z="3.129881" />
-        <BoundingCenter X="0.015112" Y="0.271844" Z="-0.006135" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpath10_100</Name>
         <File>pmc\VTE_objects\VTE_itrailpath10_100.p3d</File>
-        <Date>11/17/12 06:12:35</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-53776757</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -549,25 +549,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>8.834331</BBRadius>
-        <BBHScale>0.282568</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="3.242606" Y="0.000000" Z="17.668661" />
-        <BoundingCenter X="0.746303" Y="0.000000" Z="8.834331" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpath10_25</Name>
         <File>pmc\VTE_objects\VTE_itrailpath10_25.p3d</File>
-        <Date>11/17/12 06:13:02</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1725084887</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -582,25 +582,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.322532</BBRadius>
-        <BBHScale>0.829535</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="2.103243" Y="0.000000" Z="4.645065" />
-        <BoundingCenter X="0.176622" Y="0.000000" Z="2.322532" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpath10_50</Name>
         <File>pmc\VTE_objects\VTE_itrailpath10_50.p3d</File>
-        <Date>11/17/12 06:13:19</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1724888095</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -615,25 +615,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.493140</BBRadius>
-        <BBHScale>0.471056</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="2.483041" Y="0.000000" Z="8.986279" />
-        <BoundingCenter X="0.366520" Y="0.000000" Z="4.493140" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpath10_75</Name>
         <File>pmc\VTE_objects\VTE_itrailpath10_75.p3d</File>
-        <Date>11/17/12 06:13:37</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1724756892</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -648,25 +648,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.663747</BBRadius>
-        <BBHScale>0.346114</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="2.862826" Y="0.000000" Z="13.327495" />
-        <BoundingCenter X="0.556413" Y="0.000000" Z="6.663747" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpath12</Name>
         <File>pmc\VTE_objects\VTE_itrailpath12.p3d</File>
-        <Date>11/17/12 06:13:53</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1583969029</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -681,25 +681,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.250000</BBRadius>
-        <BBHScale>0.280000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="1.750000" Y="0.000000" Z="12.500000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpath25</Name>
         <File>pmc\VTE_objects\VTE_itrailpath25.p3d</File>
-        <Date>11/17/12 06:14:08</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1583903427</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -714,25 +714,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>12.500000</BBRadius>
-        <BBHScale>0.140000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="1.750000" Y="0.000000" Z="25.000000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpath6</Name>
         <File>pmc\VTE_objects\VTE_itrailpath6.p3d</File>
-        <Date>11/17/12 06:14:23</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>-1299402500</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -747,25 +747,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.125000</BBRadius>
-        <BBHScale>0.560000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="1.750000" Y="0.000000" Z="6.250000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_itrailpath6konec</Name>
         <File>pmc\VTE_objects\VTE_itrailpath6konec.p3d</File>
-        <Date>11/17/12 06:14:36</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>432997612</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -780,25 +780,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.125000</BBRadius>
-        <BBHScale>0.560000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="1.750000" Y="0.000000" Z="6.250000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_swamproad12</Name>
         <File>pmc\VTE_objects\VTE_swamproad12.p3d</File>
-        <Date>08/15/10 19:02:58</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>2094669321</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -813,25 +813,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.275249</BBRadius>
-        <BBHScale>0.165871</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>1.048400</Height>
-        <BoundingMin X="-1.032208" Y="-0.050000" Z="-0.045229" />
-        <BoundingMax X="1.049560" Y="2.046800" Z="12.505268" />
-        <BoundingCenter X="0.008676" Y="0.998400" Z="6.230020" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_swamproad25</Name>
         <File>pmc\VTE_objects\VTE_swamproad25.p3d</File>
-        <Date>08/15/10 19:02:58</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>2094734923</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -846,25 +846,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>12.503633</BBRadius>
-        <BBHScale>0.084959</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>1.055711</Height>
-        <BoundingMin X="-1.072630" Y="-0.050000" Z="-12.502000" />
-        <BoundingMax X="1.051961" Y="2.061422" Z="12.505268" />
-        <BoundingCenter X="-0.010335" Y="1.005711" Z="0.001634" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_swamproad6konec</Name>
         <File>pmc\VTE_objects\VTE_swamproad6konec.p3d</File>
-        <Date>08/15/10 19:02:58</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1791936506</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -879,25 +879,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.001305</BBRadius>
-        <BBHScale>0.256579</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>0.177010</YShift>
-        <ZShift>0.024811</ZShift>
-        <Height>1.023439</Height>
-        <BoundingMin X="-1.046634" Y="-0.099744" Z="-0.354094" />
-        <BoundingMax X="1.006669" Y="2.003000" Z="8.002536" />
-        <BoundingCenter X="-0.019983" Y="0.951628" Z="3.824221" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_swamproadl</Name>
         <File>pmc\VTE_objects\VTE_swamproadl.p3d</File>
-        <Date>08/15/10 19:02:58</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1124990116</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -912,25 +912,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.250772</BBRadius>
-        <BBHScale>0.583843</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000228</YShift>
-        <ZShift>0.075000</ZShift>
-        <Height>1.650000</Height>
-        <BoundingMin X="-6.250000" Y="-0.200000" Z="0.000000" />
-        <BoundingMax X="1.048938" Y="3.250000" Z="12.502000" />
-        <BoundingCenter X="-2.600531" Y="1.525000" Z="6.251000" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_swamproadt</Name>
         <File>pmc\VTE_objects\VTE_swamproadt.p3d</File>
-        <Date>08/15/10 19:02:58</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1124990124</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -945,25 +945,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.251000</BBRadius>
-        <BBHScale>0.582766</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>1.650000</Height>
-        <BoundingMin X="-6.250000" Y="-0.050000" Z="0.000000" />
-        <BoundingMax X="1.035747" Y="3.250000" Z="12.502000" />
-        <BoundingCenter X="-2.607127" Y="1.600000" Z="6.251000" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_swamproadx</Name>
         <File>pmc\VTE_objects\VTE_swamproadx.p3d</File>
-        <Date>11/14/12 01:03:17</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1124990128</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -978,25 +978,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.251000</BBRadius>
-        <BBHScale>0.999851</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.050000</ZShift>
-        <Height>2.395000</Height>
-        <BoundingMin X="-6.250000" Y="-0.050000" Z="0.000000" />
-        <BoundingMax X="6.250133" Y="4.840000" Z="12.502000" />
-        <BoundingCenter X="0.000066" Y="2.395000" Z="6.251000" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_swamproadx2</Name>
         <File>pmc\VTE_objects\VTE_swamproadx2.p3d</File>
-        <Date>11/17/12 08:36:42</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>2099326850</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1011,25 +1011,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.294009</BBRadius>
-        <BBHScale>0.993018</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>3.019340</Height>
-        <BoundingMin X="-6.250000" Y="-0.050000" Z="0.000000" />
-        <BoundingMax X="6.250133" Y="5.988679" Z="12.588018" />
-        <BoundingCenter X="0.000066" Y="2.969339" Z="6.294009" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_swamproadx3</Name>
         <File>pmc\VTE_objects\VTE_swamproadx3.p3d</File>
-        <Date>08/15/10 19:02:59</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>2099326851</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1044,25 +1044,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.294009</BBRadius>
-        <BBHScale>0.993018</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
-        <Height>2.417079</Height>
-        <BoundingMin X="-6.250000" Y="-0.050000" Z="0.000000" />
-        <BoundingMax X="6.250133" Y="4.784157" Z="12.588018" />
-        <BoundingCenter X="0.000066" Y="2.367079" Z="6.294009" />
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_trailpath10_100</Name>
         <File>pmc\VTE_objects\VTE_trailpath10_100.p3d</File>
-        <Date>11/17/12 06:15:11</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>405188484</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1077,25 +1077,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>8.834331</BBRadius>
-        <BBHScale>0.282568</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="3.242606" Y="0.000000" Z="17.668661" />
-        <BoundingCenter X="0.746303" Y="0.000000" Z="8.834331" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_trailpath10_25</Name>
         <File>pmc\VTE_objects\VTE_trailpath10_25.p3d</File>
-        <Date>11/17/12 06:15:27</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1217739760</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1110,25 +1110,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>2.322532</BBRadius>
-        <BBHScale>0.829535</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="2.103243" Y="0.000000" Z="4.645065" />
-        <BoundingCenter X="0.176622" Y="0.000000" Z="2.322532" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_trailpath10_50</Name>
         <File>pmc\VTE_objects\VTE_trailpath10_50.p3d</File>
-        <Date>11/17/12 06:15:45</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1217936552</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1143,25 +1143,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>4.493140</BBRadius>
-        <BBHScale>0.471056</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="2.483041" Y="0.000000" Z="8.986279" />
-        <BoundingCenter X="0.366520" Y="0.000000" Z="4.493140" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_trailpath10_75</Name>
         <File>pmc\VTE_objects\VTE_trailpath10_75.p3d</File>
-        <Date>11/17/12 06:16:03</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>1218067755</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1176,25 +1176,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.663747</BBRadius>
-        <BBHScale>0.346114</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="2.862826" Y="0.000000" Z="13.327495" />
-        <BoundingCenter X="0.556413" Y="0.000000" Z="6.663747" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_trailpath12</Name>
         <File>pmc\VTE_objects\VTE_trailpath12.p3d</File>
-        <Date>11/17/12 06:16:17</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>444753652</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1209,25 +1209,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>6.250000</BBRadius>
-        <BBHScale>0.280000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="1.750000" Y="0.000000" Z="12.500000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="6.250000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_trailpath25</Name>
         <File>pmc\VTE_objects\VTE_trailpath25.p3d</File>
-        <Date>11/17/12 06:16:32</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>444819254</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1242,25 +1242,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>12.500000</BBRadius>
-        <BBHScale>0.140000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="1.750000" Y="0.000000" Z="25.000000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="12.500000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_trailpath6</Name>
         <File>pmc\VTE_objects\VTE_trailpath6.p3d</File>
-        <Date>11/17/12 06:17:28</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>430819523</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1275,25 +1275,25 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.125000</BBRadius>
-        <BBHScale>0.560000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="1.750000" Y="0.000000" Z="6.250000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
     <Template>
         <Name>VTE_trailpath6konec</Name>
         <File>pmc\VTE_objects\VTE_trailpath6konec.p3d</File>
-        <Date>11/17/12 06:17:41</Date>
+        <Date>09/20/21 11:44:41</Date>
         <Archive></Archive>
-        <Fill>-16777216</Fill>
-        <Outline>-1</Outline>
+        <Fill>-32768</Fill>
+        <Outline>-32768</Outline>
         <Scale>1.000000</Scale>
         <Hash>891962853</Hash>
         <ScaleRandMin>0.000000</ScaleRandMin>
@@ -1308,16 +1308,16 @@
         <TexLLV>0.000000</TexLLV>
         <TexURU>1.000000</TexURU>
         <TexURV>1.000000</TexURV>
-        <BBRadius>3.125000</BBRadius>
-        <BBHScale>0.560000</BBHScale>
-        <AutoCenter>1</AutoCenter>
-        <XShift>-0.000000</XShift>
-        <YShift>-0.000000</YShift>
-        <ZShift>-0.000000</ZShift>
+        <BBRadius>-1.000000</BBRadius>
+        <BBHScale>1.000000</BBHScale>
+        <AutoCenter>0</AutoCenter>
+        <XShift>0.000000</XShift>
+        <YShift>0.000000</YShift>
+        <ZShift>0.000000</ZShift>
         <Height>0.000000</Height>
-        <BoundingMin X="-1.750000" Y="0.000000" Z="0.000000" />
-        <BoundingMax X="1.750000" Y="0.000000" Z="6.250000" />
-        <BoundingCenter X="0.000000" Y="0.000000" Z="3.125000" />
+        <BoundingMin X="999.000000" Y="999.000000" Z="999.000000" />
+        <BoundingMax X="-999.000000" Y="-999.000000" Z="-999.000000" />
+        <BoundingCenter X="-999.000000" Y="-999.000000" Z="-999.000000" />
         <Placement></Placement>
     </Template>
 </Library>
