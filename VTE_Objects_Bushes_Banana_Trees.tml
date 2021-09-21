@@ -1,0 +1,201 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<Library name="VTE_Objects_Bushes_Banana_Trees" shape="elipse" default_fill="-8323200" default_outline="-8323200" tex="0">
+    <Template>
+        <Name>VTE_bush01</Name>
+        <File>pmc\vte_objects\vte_bush01.p3d</File>
+        <Date>11/13/12 22:19:29</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>-414857311</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.269531</BBRadius>
+        <BBHScale>0.963692</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-1.357813" Y="-0.181250" Z="-1.312500" />
+        <BoundingMax X="1.089063" Y="2.929688" Z="1.226563" />
+        <BoundingCenter X="-0.134375" Y="1.374219" Z="-0.042969" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_iban1</Name>
+        <File>pmc\vte_objects\vte_iban1.p3d</File>
+        <Date>11/13/12 22:21:46</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1010786771</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>1.102228</BBRadius>
+        <BBHScale>0.835841</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000028</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.661745" Y="-0.064912" Z="-1.280523" />
+        <BoundingMax X="1.180886" Y="2.377342" Z="0.923933" />
+        <BoundingCenter X="0.259571" Y="1.156215" Z="-0.178295" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_iban2</Name>
+        <File>pmc\vte_objects\vte_iban2.p3d</File>
+        <Date>11/17/12 06:01:24</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1010786772</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.464224</BBRadius>
+        <BBHScale>0.996270</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000001</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.394703" Y="-0.036776" Z="-0.480110" />
+        <BoundingMax X="0.530283" Y="1.508347" Z="0.448338" />
+        <BoundingCenter X="0.067790" Y="0.735786" Z="-0.015886" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_iban3</Name>
+        <File>pmc\vte_objects\vte_iban3.p3d</File>
+        <Date>11/17/12 06:02:09</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>1010786773</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.964283</BBRadius>
+        <BBHScale>1.022175</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.936311" Y="-0.069330" Z="-1.307679" />
+        <BoundingMax X="1.035022" Y="2.279209" Z="0.620887" />
+        <BoundingCenter X="0.049355" Y="1.104939" Z="-0.343396" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_plant02</Name>
+        <File>pmc\vte_objects\vte_plant02.p3d</File>
+        <Date>11/17/12 09:07:07</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>312218901</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.464224</BBRadius>
+        <BBHScale>0.996270</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000001</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.394703" Y="-0.036776" Z="-0.480110" />
+        <BoundingMax X="0.530283" Y="1.508347" Z="0.448338" />
+        <BoundingCenter X="0.067790" Y="0.735786" Z="-0.015886" />
+        <Placement></Placement>
+    </Template>
+    <Template>
+        <Name>VTE_plant03</Name>
+        <File>pmc\vte_objects\vte_plant03.p3d</File>
+        <Date>11/17/12 09:07:07</Date>
+        <Archive></Archive>
+        <Fill>-8323200</Fill>
+        <Outline>-8323200</Outline>
+        <Scale>1.000000</Scale>
+        <Hash>312218902</Hash>
+        <ScaleRandMin>0.000000</ScaleRandMin>
+        <ScaleRandMax>0.000000</ScaleRandMax>
+        <YawRandMin>0.000000</YawRandMin>
+        <YawRandMax>0.000000</YawRandMax>
+        <PitchRandMin>0.000000</PitchRandMin>
+        <PitchRandMax>0.000000</PitchRandMax>
+        <RollRandMin>0.000000</RollRandMin>
+        <RollRandMax>0.000000</RollRandMax>
+        <TexLLU>0.000000</TexLLU>
+        <TexLLV>0.000000</TexLLV>
+        <TexURU>1.000000</TexURU>
+        <TexURV>1.000000</TexURV>
+        <BBRadius>0.964283</BBRadius>
+        <BBHScale>1.022175</BBHScale>
+        <AutoCenter>1</AutoCenter>
+        <XShift>-0.000000</XShift>
+        <YShift>-0.000000</YShift>
+        <ZShift>-0.000000</ZShift>
+        <Height>0.000000</Height>
+        <BoundingMin X="-0.936311" Y="-0.069330" Z="-1.307679" />
+        <BoundingMax X="1.035022" Y="2.279209" Z="0.620887" />
+        <BoundingCenter X="0.049355" Y="1.104939" Z="-0.343396" />
+        <Placement></Placement>
+    </Template>
+</Library>
